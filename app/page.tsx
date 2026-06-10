@@ -42,4 +42,14 @@ export default async function Home() {
                 <p className="text-gray-400 text-sm mb-4">
                   {new Date(article.createdAt).toLocaleDateString()}
                 </p>
-                <div className="
+                <div className="text-gray-300 leading-relaxed whitespace-pre-wrap">{article.content}</div>
+              </article>
+            ))
+          ) : (
+            <p className="text-gray-400">Noch keine Artikel vorhanden.</p>
+          )}
+        </div>
+      </div>
+    </main>
+  );
+}
