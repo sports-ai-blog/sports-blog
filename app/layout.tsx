@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Sports AI Blog",
   description: "AI-powered WM insights every day",
+  other: {
+    "google-adsense-account": "ca-pub-2165143468514727",
+  },
 };
 
 export default function RootLayout({
