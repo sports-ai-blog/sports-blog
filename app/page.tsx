@@ -40,6 +40,6 @@ export default async function Home() {
               <article key={article.id} className="bg-slate-800 rounded-lg p-8 border border-slate-700 hover:border-slate-500 transition">
                 <h2 className="text-3xl font-bold text-white mb-2">{article.title}</h2>
                 <p className="text-gray-400 text-sm mb-4">
-                  {new Date(article.createdAt).toLocaleDateString('de-DE')}
+                  {new Date(article.createdAt).toLocaleDateString()}
                 </p>
                 <div className="
