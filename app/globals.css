@@ -24,3 +24,34 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Gerenderter Markdown-Inhalt der Artikel */
+.article-content {
+  color: #d1d5db;
+  line-height: 1.75;
+}
+.article-content h1,
+.article-content h2,
+.article-content h3 {
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.article-content h1 { font-size: 2rem; margin: 2rem 0 1rem; }
+.article-content h2 { font-size: 1.6rem; margin: 1.75rem 0 0.75rem; }
+.article-content h3 { font-size: 1.3rem; margin: 1.5rem 0 0.5rem; }
+.article-content p { margin: 1rem 0; }
+.article-content ul,
+.article-content ol { margin: 1rem 0; padding-left: 1.5rem; }
+.article-content ul { list-style: disc; }
+.article-content ol { list-style: decimal; }
+.article-content li { margin: 0.4rem 0; }
+.article-content a { color: #60a5fa; text-decoration: underline; }
+.article-content strong { color: #ffffff; }
+.article-content blockquote {
+  border-left: 4px solid #475569;
+  padding-left: 1rem;
+  margin: 1.25rem 0;
+  color: #9ca3af;
+  font-style: italic;
+}
