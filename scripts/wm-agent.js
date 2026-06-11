@@ -132,14 +132,20 @@ async function runAgent() {
 
   console.log(`📝 Topic: ${topic} (${available.length} noch offen)`);
 
-  try {
-    const article = await generateArticle(topic);
-    console.log("✅ Artikel generiert!");
+  const article = await generateArticle(topic);
 
-    await saveArticle(topic, article);
-  } catch (error) {
-    console.error("❌ Error:", error.message);
+  if (!article || !article.trim()) {
+    throw new Error("Generierung lieferte leeren Artikel zurück");
+  }
+  console.log("✅ Artikel generiert!");
+
+  const saved = await saveArticle(topic, article);
+  if (!saved) {
+    throw new Error("Artikel konnte nicht gespeichert werden");
   }
 }
 
-runAgent();
+runAgent().catch((error) => {
+  console.error("❌ Agent fehlgeschlagen:", error.message);
+  process.exit(1);
+});
