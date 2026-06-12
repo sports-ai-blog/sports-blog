@@ -13,6 +13,35 @@ export interface Category {
   colors: [string, string];
 }
 
+/** Strukturierte Spieldaten, die der Recap-Agent im Artikel-JSON ablegt. */
+export interface ArticleMatchTeam {
+  name: string;
+  abbr: string;
+  logo: string;
+  score: number | null;
+}
+
+export interface ArticleMatch {
+  id: string;
+  kickoff: string;
+  phase: string;
+  venue: string;
+  city: string;
+  attendance: number | null;
+  statusDetail: string;
+  home: ArticleMatchTeam;
+  away: ArticleMatchTeam;
+  goals: {
+    minute: string;
+    scorer: string;
+    teamId: string;
+    penalty: boolean;
+    ownGoal: boolean;
+  }[];
+  homeTeamId: string;
+  awayTeamId: string;
+}
+
 export interface Article {
   /** Gespeichertes Topic – stabil, Basis für Slug & Dedupe */
   title: string;
@@ -27,6 +56,9 @@ export interface Article {
   readingMinutes: number;
   wordCount: number;
   category: Category;
+  /** Nur bei Spielberichten gesetzt – verknüpft Artikel mit dem Spiel */
+  matchId?: string;
+  match?: ArticleMatch;
 }
 
 const CATEGORIES: (Category & { keywords: string[] })[] = [
@@ -93,6 +125,14 @@ const DEFAULT_CATEGORY: Category = {
   emoji: '🏆',
   gradient: 'from-sky-400 to-indigo-600',
   colors: ['#38bdf8', '#4f46e5'],
+};
+
+/** Spielberichte werden über die match-Daten erkannt, nicht über Keywords. */
+export const RECAP_CATEGORY: Category = {
+  name: 'Spielberichte',
+  emoji: '🏟️',
+  gradient: 'from-lime-400 to-green-600',
+  colors: ['#a3e635', '#16a34a'],
 };
 
 export function categorize(title: string): Category {
@@ -191,7 +231,7 @@ export async function getAllArticles(): Promise<Article[]> {
       displayTitle: deriveDisplayTitle(data.title, data.content || ''),
       wordCount,
       readingMinutes: Math.max(1, Math.round(wordCount / 200)),
-      category: categorize(data.title),
+      category: data.match ? RECAP_CATEGORY : categorize(data.title),
     });
   }
 

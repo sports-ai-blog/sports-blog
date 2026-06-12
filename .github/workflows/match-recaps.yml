@@ -1,17 +1,18 @@
-name: Daily WM Agent
+name: Morning Match Recaps
 
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 18 * * *'
+    # 6:30 UTC = 8:30 deutsche Sommerzeit – Hauptlauf am Morgen
+    - cron: '30 6 * * *'
+    # 8:15 UTC = 10:15 – Nachzügler (Spiele an der US-Westküste enden erst ~8:00 deutscher Zeit)
+    - cron: '15 8 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  run-agent:
+  run-recaps:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -21,16 +22,16 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - run: node scripts/wm-agent.js
+      - run: node scripts/recap-agent.js
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      - name: Commit and push new article
+      - name: Commit and push recaps
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add articles/
           git diff --staged --quiet && exit 0
-          git commit -m "Add daily article"
-          # Falls parallel der Recap-Agent gepusht hat: nicht stolpern
+          git commit -m "Add match recap articles"
+          # Falls parallel der Topic-Agent gepusht hat: nicht stolpern
           git pull --rebase origin main
           git push

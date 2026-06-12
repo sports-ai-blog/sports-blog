@@ -99,6 +99,14 @@ export default async function RootLayout({
             >
               <span className="text-2xl">⚽</span> {SITE_NAME}
             </Link>
+            <nav className="flex items-center gap-4 text-sm font-semibold">
+              <Link
+                href="/spielplan"
+                className="text-slate-300 transition hover:text-amber-300"
+              >
+                📅 Spielplan & Ergebnisse
+              </Link>
+            </nav>
             <span className="hidden items-center gap-2 rounded-full border border-amber-500/20 bg-amber-500/10 px-3 py-1 text-xs font-medium text-amber-300 sm:inline-flex">
               <span className="relative flex h-2 w-2">
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-amber-400 opacity-75"></span>

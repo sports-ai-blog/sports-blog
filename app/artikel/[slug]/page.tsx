@@ -13,6 +13,7 @@ import {
 } from '../../../lib/articles';
 import { renderArticle } from '../../../lib/markdown';
 import ReadingProgress from '../../components/ReadingProgress';
+import MatchScoreboard from '../../components/MatchScoreboard';
 
 export async function generateStaticParams() {
   const articles = await getAllArticles();
@@ -113,6 +114,28 @@ export default async function ArticlePage({
     publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
   };
 
+  // Spielberichte zusätzlich als SportsEvent auszeichnen (Rich Results)
+  const sportsEventJsonLd = article.match
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'SportsEvent',
+        name: `${article.match.home.name} gegen ${article.match.away.name}`,
+        startDate: article.match.kickoff,
+        eventStatus: 'https://schema.org/EventScheduled',
+        location: article.match.venue
+          ? {
+              '@type': 'Place',
+              name: article.match.venue,
+              address: article.match.city,
+            }
+          : undefined,
+        competitor: [
+          { '@type': 'SportsTeam', name: article.match.home.name },
+          { '@type': 'SportsTeam', name: article.match.away.name },
+        ],
+      }
+    : null;
+
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -133,6 +156,12 @@ export default async function ArticlePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
+      {sportsEventJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(sportsEventJsonLd) }}
+        />
+      )}
 
       <div className="mx-auto max-w-3xl">
         <nav aria-label="Brotkrumen" className="mb-8 flex flex-wrap items-center gap-2 text-sm text-slate-500">
@@ -159,6 +188,8 @@ export default async function ArticlePage({
             </span>
           </div>
         </header>
+
+        {article.match && <MatchScoreboard match={article.match} />}
 
         {headings.length >= 3 && (
           <details className="toc" open>

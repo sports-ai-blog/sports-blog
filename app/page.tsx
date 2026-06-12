@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getAllArticles, excerpt, formatDate, type Article } from '../lib/articles';
+import { getMatches, germanDayKey, formatGermanDay, type Match } from '../lib/matches';
+import MatchCard from './components/MatchCard';
 
 export const metadata: Metadata = {
   alternates: { canonical: '/' },
@@ -39,10 +41,35 @@ function ArticleCard({ article }: { article: Article }) {
   );
 }
 
+/** Spiele für den Homepage-Teaser: heute – sonst der nächste Spieltag. */
+function teaserMatches(matches: Match[]): { label: string; matches: Match[] } | null {
+  const todayKey = germanDayKey(new Date().toISOString());
+  const today = matches.filter((m) => germanDayKey(m.kickoff) === todayKey);
+  if (today.length > 0) return { label: 'Spiele heute', matches: today };
+
+  const next = matches.find(
+    (m) => m.state === 'pre' && germanDayKey(m.kickoff) > todayKey,
+  );
+  if (!next) return null;
+  const nextKey = germanDayKey(next.kickoff);
+  return {
+    label: `Nächste Spiele – ${formatGermanDay(next.kickoff)}`,
+    matches: matches.filter((m) => germanDayKey(m.kickoff) === nextKey),
+  };
+}
+
 export default async function Home() {
   const articles = await getAllArticles();
   const [featured, ...rest] = articles;
   const totalMinutes = articles.reduce((sum, a) => sum + a.readingMinutes, 0);
+
+  // Spielplan-Teaser ist nice-to-have – API-Fehler dürfen die Startseite nie brechen
+  let teaser: { label: string; matches: Match[] } | null = null;
+  try {
+    teaser = teaserMatches(await getMatches());
+  } catch {
+    teaser = null;
+  }
 
   return (
     <main className="px-4 py-10 sm:px-6 sm:py-16">
@@ -71,6 +98,27 @@ export default async function Home() {
             </span>
           </div>
         </section>
+
+        {teaser && teaser.matches.length > 0 && (
+          <section className="mb-14">
+            <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+              <h2 className="text-2xl font-bold text-white">
+                ⚽ {teaser.label}
+              </h2>
+              <Link
+                href="/spielplan"
+                className="text-sm font-semibold text-amber-400 transition hover:text-amber-300"
+              >
+                Kompletter Spielplan & Ergebnisse →
+              </Link>
+            </div>
+            <div className="space-y-3">
+              {teaser.matches.map((m) => (
+                <MatchCard key={m.id} match={m} compact />
+              ))}
+            </div>
+          </section>
+        )}
 
         {featured && (
           <Link
