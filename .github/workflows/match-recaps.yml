@@ -14,11 +14,16 @@ permissions:
 jobs:
   run-recaps:
     runs-on: ubuntu-latest
+    # Mit dem Daily-Workflow serialisieren – beide pushen auf main
+    concurrency:
+      group: article-push
+      cancel-in-progress: false
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-node@v3
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
       - run: npm install
@@ -32,6 +37,12 @@ jobs:
           git add articles/
           git diff --staged --quiet && exit 0
           git commit -m "Add match recap articles"
-          # Falls parallel der Topic-Agent gepusht hat: nicht stolpern
-          git pull --rebase origin main
-          git push
+          # Race-sicher pushen: vor jedem Versuch neu rebasen.
+          # --autostash hält ungestagte Änderungen (z. B. package-lock) aus dem Weg.
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "Push fehlgeschlagen (Versuch $i) – erneut versuchen…"
+            sleep $((RANDOM % 5 + 2))
+          done
+          echo "Push nach mehreren Versuchen fehlgeschlagen" >&2
+          exit 1
