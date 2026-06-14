@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Australien 2:0 Türkei",
+  "content": "# Australien besiegt die Türkei mit 2:0 – starker Auftritt in der WM-Gruppenphase\n\nIm ersten Spiel der Gruppenphase der WM 2026 in Vancouver zeigten die Australier eine beeindruckende Leistung gegen die Türkei und setzten sich mit 2:0 durch. Bei strahlendem Sonnenschein und vor 52.497 leidenschaftlichen Zuschauern im BC Place gelang es dem Team, den Grundstein für einen erfolgreichen Turnierstart zu legen. Die Tore erzielten Nestory Irankunda und Connor Metcalfe, die beide für die Offensivkraft der Socceroos sorgten.\n\n## So lief das Spiel\n\nDer Anpfiff fiel um 06:00 Uhr deutscher Zeit, und das Spiel begann mit hohem Tempo. Bereits in der 27. Minute konnte Nestory Irankunda die Führung für Australien erzielen. Der Treffer war ein weiterer Beweis für das offensive Potenzial der Australier, die dem Spiel von Anfang an ihren Stempel aufdrückten. \n\nDie Türkei hatte Mühe, sich auf die druckvolle Spielweise der Australier einzustellen und konnte kaum eigene Akzente setzen. Das Spiel war hart umkämpft, doch die Abwehr der Socceroos stand stabil und ließ kaum Chancen der Türken zu.\n\nIm zweiten Durchgang drängte Australien darauf, den Vorsprung auszubauen. In der 75. Minute war es schließlich Connor Metcalfe, der den Endstand von 2:0 herstellte. Mit seinem Treffer beschloss er einen gelungenen WM-Auftakt und bestätigte die Dominanz der Mannschaft auf dem Platz. Die türkische Defensive fand gestern kaum Mittel, um die australischen Offensivakteure in Schach zu halten.\n\n## Spieler des Spiels\n\nEin besonderer Fokus liegt auf Nestory Irankunda, der mit seinem frühen Tor nicht nur zum Matchwinner avancierte, sondern zudem den Ton für die gesamte Begegnung angab. Seine Beweglichkeit und Zielstrebigkeit in der ersten Halbzeit halfen Australien, die türkische Abwehr frühzeitig aus dem Konzept zu bringen. Auch nach seinem Tor war Irankunda stets anspielbar und sorgte mit seinem unermüdlichen Einsatz für ständige Unruhe in der gegnerischen Abwehrreihe. \n\nDoch auch Connor Metcalfe eroberte sich durch seinen Treffer in der zweiten Halbzeit einen Platz in den Erinnerungen der Zuschauer. Sein Tor untermalte die geschlossene Teamleistung und stellte sicher, dass die Socceroos die Punkte sicher in der Tasche hatten.\n\n## Das bedeutet das Ergebnis\n\nMit diesem klaren 2:0-Sieg haben die Australier einen wichtigen Grundstein für den weiteren Verlauf des Turniers gelegt. Sie zeigen sich als ernstzunehmender Mitstreiter in ihrer Gruppe und können mit viel Selbstvertrauen in die nächsten Spiele gehen. Die Türken werden sich hingegen neu orientieren müssen, um in den kommenden Partien erfolgreich zu sein. In jedem Fall deutet das Auftaktspiel auf eine spannende WM hin, in der die Socceroos ihre Ambitionen unter Beweis stellen könnten.",
+  "createdAt": "2026-06-14T13:11:37.261Z",
+  "id": 1781442697261,
+  "matchId": "760421",
+  "match": {
+    "id": "760421",
+    "kickoff": "2026-06-14T04:00Z",
+    "phase": "Gruppenphase",
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "attendance": 52497,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Australien",
+      "abbr": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Türkei",
+      "abbr": "TUR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+      "score": 0
+    },
+    "homeTeamId": "628",
+    "awayTeamId": "465",
+    "goals": [
+      {
+        "minute": "27'",
+        "scorer": "Nestory Irankunda",
+        "teamId": "628",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "75'",
+        "scorer": "Connor Metcalfe",
+        "teamId": "628",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

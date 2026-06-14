@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Haiti 0:1 Schottland",
+  "content": "# Haiti gegen Schottland: Schottland siegt mit 1:0 in der Gruppenphase der WM 2026\n\nIn einem hart umkämpften Duell hatte Schottland das bessere Ende für sich und sicherte sich mit einem 1:0-Sieg gegen Haiti im Gillette Stadium in Foxborough, Massachusetts, drei wichtige Punkte in der Gruppenphase der WM 2026. Das entscheidende Tor erzielte John McGinn in der 28. Minute, was den schottischen Fans und der Mannschaft einen Grund zum Feiern gab.\n\n## So lief das Spiel\n\nDie Partie begann früh morgens um 03:00 Uhr deutscher Zeit und zog 64.146 Zuschauer in das bestens gefüllte Gillette Stadium. Von der ersten Minute an war zu spüren, dass beide Teams entschlossen waren, einen starken Auftritt hinzulegen. \n\nIn der 28. Minute fiel dann der entscheidende Treffer: John McGinn ließ die Schottland-Fans jubeln, als er das einzige Tor des Spiels erzielte. Mit präzisem Spiel und klugen Laufwegen konnte Schottland den Druck auf die haitianische Abwehr aufrechterhalten, die zwar kämpferisch dagegen hielt, aber letztendlich dem schottischen Sturm nicht gewachsen war.\n\nIn der ersten Halbzeit erspielten sich die Schotten einige weitere Chancen, doch die Defensive von Haiti – unterstützt von einer leidenschaftlichen Kulisse – verhinderte einen weiteren Treffer. Mit dem 1:0 für Schottland ging es dann auch in die Halbzeitpause.\n\nIn der zweiten Hälfte blieb es spannend, auch wenn das Spiel selbst wenig spektakuläre Szenen bot. Schottland hielt die Kontrolle über das Geschehen und setzte weiterhin auf schnelles Passspiel, um die haitianische Defensive zu knacken. Haiti kämpfte unermüdlich, fand jedoch in der Offensive nicht die Mittel, um die schottische Abwehr ernsthaft in Not zu bringen. So blieb es bis zum Schlusspfiff beim 1:0 für Schottland.\n\n## Spieler des Spiels\n\nMit seinem Tor und seiner starken Präsenz auf dem Spielfeld war John McGinn der herausragende Spieler des Abends. Der Mittelfeldakteur bewies einmal mehr, dass er eine Schlüsselrolle im schottischen Team innehat. Sein Tor in der ersten Halbzeit stellte den Grundstein für den schottischen Sieg dar und er zeigte sich im gesamten Spiel durch seine kämpferische Einstellung und Spielintelligenz. McGinn war nicht nur Torschütze, sondern auch ein Motor im Mittelfeld, der entscheidende Impulse für das Offensivspiel seiner Mannschaft setzte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wichtigen Sieg setzen sich die Schotten nun in einer guten Ausgangslage für den weiteren Turnierverlauf fest. Die drei erkämpften Punkte sind entscheidend für das Selbstvertrauen der Mannschaft und können in den kommenden Spielen einen großen Unterschied machen. Haiti wird hingegen analysieren müssen, wie sie sich gegen stärkere Teams behaupten können, um nicht frühzeitig aus der Gruppenphase auszuscheiden. Schottland hingegen darf nach diesem Erfolg mit Zuversicht auf die nächsten Aufgaben blicken und wird sich zusätzlich motiviert fühlen, in diesem prestigeträchtigen Turnier weiter voranzukommen.",
+  "createdAt": "2026-06-14T13:11:26.296Z",
+  "id": 1781442686296,
+  "matchId": "760418",
+  "match": {
+    "id": "760418",
+    "kickoff": "2026-06-14T01:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "attendance": 64146,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Haiti",
+      "abbr": "HAI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Schottland",
+      "abbr": "SCO",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+      "score": 1
+    },
+    "homeTeamId": "2654",
+    "awayTeamId": "580",
+    "goals": [
+      {
+        "minute": "28'",
+        "scorer": "John McGinn",
+        "teamId": "580",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

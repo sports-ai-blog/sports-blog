@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: USA 4:1 Paraguay",
+  "content": "# USA deklassieren Paraguay mit 4:1 – Balogun glänzt im SoFi Stadium!\n\nIn einem packenden Auftaktspiel der WM 2026 im SoFi Stadium in Inglewood, Kalifornien, siegten die USA überzeugend mit 4:1 gegen Paraguay. Vor 70.492 jubelnden Zuschauern lieferte die Mannschaft von Trainer Greg Berhalter eine beeindruckende Leistung und ließ dabei keine Zweifel an ihrem Siegeswillen aufkommen.\n\n## So lief das Spiel\n\nDas Spiel begann mit einer unerwarteten Wendung, als in der 7. Minute Damián Bobadilla das erste Tor des Spiels erzielte – allerdings ins eigene Netz. Das Eigentor gab den USA einen frühen Vorteil und ließ die Fans im Stadion jubeln. In der 31. Minute fand Folarin Balogun schließlich den Weg ins Netz. Der amerikanische Stürmer bewies, dass er zur richtigen Zeit am richtigen Ort war und steuerte den Ball zum 2:0 für die USA. \n\nMit einem weiteren Treffer in der Nachspielzeit der ersten Halbzeit machte Balogun seiner Rolle als Schlüsselfigur alle Ehre. In der 45. +5 Minute sorgte er für das 3:0, und die Amerikaner gingen mit einem komfortablen Vorsprung in die Halbzeitpause. \n\nDie zweite Halbzeit brachte zwar einen Aufwärtstrend für Paraguay, das in der 73. Minute durch Maurício zum 1:3 verkürzen konnte. Doch die USA ließen sich nicht aus der Ruhe bringen. In der 90. +8 Minute krönte Giovanni Reyna ihre dominante Leistung mit einem Treffer zum 4:1-Endstand und setzte damit den Schlusspunkt unter ein überaus gelungenes Spiel.\n\n## Spieler des Spiels\n\nFolarin Balogun stahl an diesem Abend allen die Show. Mit zwei Toren innerhalb der ersten Halbzeit bewies er nicht nur seine Torgefährlichkeit, sondern auch seine Fähigkeit, im richtigen Moment auf den Punkt zu liefern. Baloguns Spiel zeigt, dass er sich als einer der wichtigsten Spieler des US-Teams etablieren könnte. Seine Bewegungen und sein Gespür für den richtigen Zeitpunkt werden sicherlich für die kommenden Spiele von zentraler Bedeutung sein.\n\n## Das bedeutet das Ergebnis\n\nMit diesem überzeugenden Sieg haben die USA ein starkes Zeichen an die Konkurrenz gesendet. Der Traum vom Titel wird durch diese hervorragende Leistung ein Stück greifbarer, während Paraguay nach diesem Auftaktspiel gewaltig unter Druck steht. In einer so hart umkämpften Gruppe müssen sie nun dringend ihre Leistung steigern, um in diesem Turnier noch eine Chance zu haben. Die Spiele in der Gruppenphase werden für beide Teams entscheidend sein, und der weitere Verlauf der WM bleibt spannend. \n\nEin starkes erstes Zeichen der Gastgeber und ein Lichtblick für die amerikanischen Fans – die WM 2026 verspricht, aufregend zu werden!",
+  "createdAt": "2026-06-14T13:10:54.879Z",
+  "id": 1781442654880,
+  "matchId": "760417",
+  "match": {
+    "id": "760417",
+    "kickoff": "2026-06-13T01:00Z",
+    "phase": "Gruppenphase",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "attendance": 70492,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "USA",
+      "abbr": "USA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "score": 4
+    },
+    "away": {
+      "name": "Paraguay",
+      "abbr": "PAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+      "score": 1
+    },
+    "homeTeamId": "660",
+    "awayTeamId": "210",
+    "goals": [
+      {
+        "minute": "7'",
+        "scorer": "Damián Bobadilla",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "31'",
+        "scorer": "Folarin Balogun",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "45'+5'",
+        "scorer": "Folarin Balogun",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "73'",
+        "scorer": "Maurício",
+        "teamId": "210",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+8'",
+        "scorer": "Giovanni Reyna",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

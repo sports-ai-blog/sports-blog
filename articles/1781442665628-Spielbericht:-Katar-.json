@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Katar 1:1 Schweiz",
+  "content": "# Katar und Schweiz trennen sich 1:1 – dramatisches Eigentor entscheidet die Partie\n\nIn einem packenden Abendspiel am Samstag, den 13. Juni 2026, im Levi's Stadium in Santa Clara, Kalifornien, trafen die Nationalmannschaften von Katar und der Schweiz aufeinander. Nach einem frühen Elfmeter für die Schweiz und einem spätakribisch erkämpften Ausgleich durch ein Eigentor von Miro Muheim endet die Partie mit einem überraschenden 1:1.\n\n## So lief das Spiel\n\nDie Begegnung begann intensiv, beide Teams gingen von Anfang an engagiert zur Sache. In der 17. Minute war es Breel Embolo, der den ersten großen Auftritt hatte. Nach einem foulspielenden Widerstand der Katarer entschied der Schiedsrichter auf Elfmeter für die Schweiz. Embolo ließ sich nicht zweimal bitten und verwandelte zur 1:0-Führung für die Eidgenossen. Die Schweizer spielten nun mit Selbstvertrauen und hielten die Kontrolle über das Geschehen.\n\nIn der ersten Halbzeit blieben echte Torchancen auf beiden Seiten rar. Katar versuchte, sich zurück ins Spiel zu kämpfen, doch die Defensive der Schweiz präsentierte sich solide und ließ kaum gefährliche Situationen zu. Mit einem 1:0 für die Schweiz ging es in die Halbzeitpause.\n\nDie zweite Hälfte verlief zunächst hektisch, mit beiden Teams, die nach der Möglichkeit suchten, den nächsten Treffer zu erzielen. Katar drängte auf den Ausgleich, während die Schweiz versuchte, die Kontrolle zu bewahren. Es war ein hart umkämpfter Abend, und die Zuschauer, die mit 67.966 Fans das Stadion füllten, kamen voll auf ihre Kosten. \n\nDoch in der dramatischen Schlussphase kam es dann zu einem unerwarteten, entscheidenden Moment: In der vierten Minute der Nachspielzeit, als die Zeit für Katar abzulaufen schien, kam es zu einem Missgeschick. Ein Rückpass von Miro Muheim geriet zu kurz und rollte unglücklich ins eigene Netz. Mit diesem Eigentor bescherte Muheim Katar den späten Ausgleich zum 1:1. Die Freude bei den katari-schen Spielern war riesig, während die Schweizer mit disbelieft in die Gesichter schauten. Das Spiel endete mit einem insgesamt gerechten Unentschieden, das die Zuschauer wahrlich in Atem hielt.\n\n## Spieler des Spiels\n\nBreel Embolo war der auffälligste Spieler des Abends. Mit seinem Elfmeter in der 17. Minute brachte er die Schweiz in Führung und sorgte für die Initialzündung der Partie. Während der gesamten Spielzeit war Embolo ein ständiger Unruheherd in der gegnerischen Hälfte und zeigte, wie wichtig er für das Offensivspiel der Schweiz ist. Mit seiner Klasse beim straffen Schuss vom Punkt bewies er Nervenstärke und Verantwortung und legte so den Grundstein für die Leistung seiner Mannschaft.\n\n## Das bedeutet das Ergebnis\n\nDas Unentschieden zwischen Katar und der Schweiz hat weitreichende Konsequenzen für beide Teams in dieser Gruppenphase der WM 2026. Während die Schweiz sicherlich auf den Sieg gehofft hatte, kann Katar auf dem Ausgleich aufbauen, der dem Team Mut und neues Selbstvertrauen geben dürfte. Beide Mannschaften stehen jetzt vor wichtigen Partien, um ihren Weg in die K.o.-Phase der Weltmeisterschaft zu ebnen. Bleibt abzuwarten, wie sich diese Punkteteilung auf die Dynamik in der Gruppe auswirken wird.",
+  "createdAt": "2026-06-14T13:11:05.628Z",
+  "id": 1781442665628,
+  "matchId": "760420",
+  "match": {
+    "id": "760420",
+    "kickoff": "2026-06-13T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "attendance": 67966,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Katar",
+      "abbr": "QAT",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Schweiz",
+      "abbr": "SUI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "score": 1
+    },
+    "homeTeamId": "4398",
+    "awayTeamId": "475",
+    "goals": [
+      {
+        "minute": "17'",
+        "scorer": "Breel Embolo",
+        "teamId": "475",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+4'",
+        "scorer": "Miro Muheim",
+        "teamId": "4398",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      }
+    ]
+  }
+}
