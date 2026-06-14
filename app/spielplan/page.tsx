@@ -8,7 +8,9 @@ import {
   type Match,
   type MatchDay,
 } from '../../lib/matches';
+import { getStandings, type Group } from '../../lib/standings';
 import MatchCard from '../components/MatchCard';
+import GroupTable from '../components/GroupTable';
 
 export const metadata: Metadata = {
   title: 'WM 2026 Spielplan & Ergebnisse',
@@ -52,6 +54,13 @@ export default async function SpielplanPage() {
     matches = await getMatches();
   } catch {
     loadError = true;
+  }
+
+  let groups: Group[] = [];
+  try {
+    groups = await getStandings();
+  } catch {
+    // Tabellen sind optional – ohne sie zeigen wir nur den Spielplan.
   }
 
   // Spielberichte den Spielen zuordnen (matchId → Artikel-Slug)
@@ -128,6 +137,29 @@ export default async function SpielplanPage() {
             <div className="space-y-3">
               {today.map((m) => (
                 <MatchCard key={m.id} match={m} recapSlug={recapSlugs.get(m.id)} />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {groups.length > 0 && (
+          <section className="mb-12">
+            <h2 className="mb-2 text-2xl font-bold text-white">
+              📊 Gruppentabellen
+            </h2>
+            <p className="mb-4 text-sm text-slate-400">
+              Der aktuelle Stand aller Gruppen.{' '}
+              <span className="inline-flex items-center gap-1.5">
+                <span
+                  className="inline-block h-3 w-3 rounded-sm"
+                  style={{ backgroundColor: '#81D6AC' }}
+                />
+                Grün markierte Plätze ziehen ins Sechzehntelfinale ein.
+              </span>
+            </p>
+            <div className="grid gap-4 lg:grid-cols-2">
+              {groups.map((group) => (
+                <GroupTable key={group.name} group={group} />
               ))}
             </div>
           </section>
