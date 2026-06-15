@@ -1,0 +1,80 @@
+{
+  "title": "Spielbericht: Schweden 5:1 Tunesien",
+  "content": "# Schweden besiegt Tunesien klar mit 5:1 – Ayari stark involviert\n\nIm Estadio BBVA in Guadalupe erlebten die 50.987 Zuschauer einen spannungsgeladenen WM-Gruppenphasenauftakt zwischen Schweden und Tunesien. Die Skandinavier zeigten ihre Stärke und ließen den Nordafrikanern mit einem klaren 5:1-Sieg keine Chance. Allen voran Yasin Ayari, der entscheidend am Siegeslauf beteiligt war.\n\n## So lief das Spiel\n\nDer Auftakt in die Partie war geprägt von schwedischer Dominanz. Bereits in der 7. Minute sorgte Yasin Ayari mit einem frühen Tor für die Führung seines Teams. Die Schweden setzten nach und erhöhten in der 30. Minute durch Alexander Isak auf 2:0. Tunesien ließ sich von diesem Rückstand jedoch nicht entmutigen. In der 43. Minute gelang Omar Rekik der Anschlusstreffer per Kopfball, was kurzzeitig Hoffnung für die tunesische Mannschaft weckte und die Partie wieder spannend machte – Halbzeitstand: 2:1.\n\nNach dem Seitenwechsel war Schweden sofort wieder am Zug. Viktor Gyökeres traf in der 59. Minute und stellte den alten Abstand wieder her, indem er auf 3:1 erhöhte. Tunesien hatte Schwierigkeiten, aus dieser Situation Kapital zu schlagen, und Schweden nutzte das Momentum weiter aus. Mattias Svanberg schnürte in der 84. Minute das nächste Tor für die Schweden und erhöhte auf 4:1. Die endgültige Entscheidung fiel in der dramatischen Nachspielzeit. In der 90.+6. Minute setzte Yasin Ayari mit seinem zweiten Tor an diesem Abend den Schlusspunkt und sorgte mit dem 5:1 für einen fulminanten Abschlusssieg in dieser Partie.\n\n## Spieler des Spiels\n\nYasin Ayari war ohne Zweifel der Spieler des Spiels. Mit zwei Toren und einer konstanten Präsenz im Spielaufbau setzte er entscheidende Akzente für sein Team. Seine Schnelligkeit und Technik machten ihn zu einer ständigen Bedrohung für die defensive Linie Tunesiens. Ayari bewies, dass er nicht nur ein junger Spieler mit Potenzial ist, sondern bereits heute zu den führenden Akteuren für Schweden gehört.\n\n## Das bedeutet das Ergebnis\n\nMit diesem klaren Sieg stehen die Chancen für Schweden gut, in der Gruppenphase der WM 2026 weiterzukommen. Die Mannschaft hat eindrucksvoll ihre Ambitionen untermauert und das Vertrauen in die eigenen Fähigkeiten gestärkt. Für Tunesien gilt es nun, die Scharte auszuwetzen und sich in den kommenden Spielen zu beweisen, um weiter im Turnier zu bleiben. Schweden hingegen kann mit diesem Erfolg optimistisch in die weiteren Begegnungen blicken und zeigt sich bereit, um die vorderen Plätze zu kämpfen.",
+  "createdAt": "2026-06-15T20:06:40.306Z",
+  "id": 1781554000306,
+  "matchId": "760424",
+  "match": {
+    "id": "760424",
+    "kickoff": "2026-06-15T02:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "attendance": 50987,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Schweden",
+      "abbr": "SWE",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+      "score": 5
+    },
+    "away": {
+      "name": "Tunesien",
+      "abbr": "TUN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+      "score": 1
+    },
+    "homeTeamId": "466",
+    "awayTeamId": "659",
+    "goals": [
+      {
+        "minute": "7'",
+        "scorer": "Yasin Ayari",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "30'",
+        "scorer": "Alexander Isak",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "43'",
+        "scorer": "Omar Rekik",
+        "teamId": "659",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "59'",
+        "scorer": "Viktor Gyökeres",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "84'",
+        "scorer": "Mattias Svanberg",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+6'",
+        "scorer": "Yasin Ayari",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

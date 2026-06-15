@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Niederlande 2:2 Japan",
+  "content": "# Aufregendes Remis: Niederlande und Japan trennen sich 2:2\n\nIn einem packenden Duell der Gruppenphase der WM 2026 im AT&T Stadium in Arlington, Texas, trennten sich die Niederlande und Japan am Sonntagabend mit einem 2:2 Unentschieden. Bei strahlender Atmosphäre und vor 69.285 Zuschauern zeigten beiden Teams eine eindrucksvolle Leistung, die bis zur letzten Minute spannend blieb.\n\n## So lief das Spiel\n\nDie erste Halbzeit war geprägt von intensiven Zweikämpfen und einer aufmerksamen Defensivarbeit beider Mannschaften. Trotz mehrerer Chancen blieb das Tor zur Halbzeit unberührt, und so ging es mit einem 0:0 in die Kabinen.\n\nDie zweite Halbzeit begann mit einem Paukenschlag. In der 51. Minute erzielte Virgil van Dijk für die Niederlande den Führungstreffer, als er einen präzisen Kopfball ins Netz setzte. Das Stadion explodierte vor Freude, doch die Schockwirkung auf die Japaner war nur von kurzer Dauer. Nur sechs Minuten später, in der 57. Minute, glich Keito Nakamura für Japan aus und stellte den Spielstand auf 1:1. Die Partie nahm nun richtig Fahrt auf.\n\nIn der 64. Minute sorgte Crysencio Summerville für die erneute Führung der Niederlande, als er den Ball im Netz versenkte und die Farben Oranje erneut jubeln ließ. Doch die japanische Mannschaft ließ sich dadurch nicht entmutigen. In der 89. Minute fand der eingewechselte Daichi Kamada mit einem Kopfball den Weg ins gegnerische Tor und sicherte so den verdienten Punkt für Japan. Mit diesem Treffer endete das Spiel mit einem knappen, aber gerechten 2:2.\n\n## Spieler des Spiels\n\nIn diesem aufregenden Spiel stach Virgil van Dijk besonders hervor. Mit seinem Treffer zur Führung der Niederlande und seiner soliden Defensivarbeit war er der Schlüsselspieler, der die Mannschaft sowohl offensiv als auch defensiv anführte. Van Dijk zeigte einmal mehr, dass er zu den besten Verteidigern der Welt gehört und trug entscheidend zur Leistung des niederländischen Teams bei.\n\n## Das bedeutet das Ergebnis\n\nDas Unentschieden könnte für beide Teams entscheidend sein, da es ihnen wichtige Punkte in der Gruppenphase sichert. Sowohl die Niederlande als auch Japan werden nun auf die nächsten Spiele hinarbeiten müssen, um ihre Chancen auf das Weiterkommen ins K.-o.-System zu wahren. Mit dieser aufregenden Teilung der Punkte bleibt die Spannung in der Gruppe erhalten – das Tor zu den nächsten Runden ist noch weit geöffnet und alles ist möglich.",
+  "createdAt": "2026-06-15T20:06:21.992Z",
+  "id": 1781553981992,
+  "matchId": "760425",
+  "match": {
+    "id": "760425",
+    "kickoff": "2026-06-14T20:00Z",
+    "phase": "Gruppenphase",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 69285,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Niederlande",
+      "abbr": "NED",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Japan",
+      "abbr": "JPN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+      "score": 2
+    },
+    "homeTeamId": "449",
+    "awayTeamId": "627",
+    "goals": [
+      {
+        "minute": "51'",
+        "scorer": "Virgil van Dijk",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "57'",
+        "scorer": "Keito Nakamura",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "64'",
+        "scorer": "Crysencio Summerville",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "89'",
+        "scorer": "Daichi Kamada",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

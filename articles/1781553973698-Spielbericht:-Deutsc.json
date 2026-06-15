@@ -1,0 +1,96 @@
+{
+  "title": "Spielbericht: Deutschland 7:1 Curaçao",
+  "content": "# Deutschland dominiert Curaçao mit 7:1 – Fußballfest im NRG Stadium\n\nIm NRG Stadium von Houston, Texas, erlebten insgesamt 68.021 Zuschauer einen Fußball-Abend, der beim 7:1 (3:1) gegen Curaçao alle Erwartungen übertraf. Deutschland schockte seine Gegner in der Gruppenphase der WM 2026 mit einer offensiven Spielweise und stellte eindrucksvoll seine Ambitionen im Turnier unter Beweis. \n\n## So lief das Spiel\n\nDie deutsche Nationalmannschaft startete stark in die Partie und ging bereits in der 6. Minute durch Felix Nmecha mit 1:0 in Führung. Der schnelle Treffer setzte ein Zeichen, dass Deutschland mit viel Schwung und Spielfreude agieren wollte. Doch Curaçao überraschte die Fans und den deutschen Kader, als Livano Comenencia in der 21. Minute den Ausgleich erzielte. Nur kurz schien der Traum vom klaren Sieg ins Wanken zu geraten, denn die deutsche Antwort ließ nicht lange auf sich warten.\n\nNico Schlotterbeck brachte Deutschland in der 38. Minute wieder in Führung, indem er mit einem Kopfball einen weiteren Treffer erzielte. Mit einem Elfmeter in der Nachspielzeit der ersten Halbzeit sorgte Kai Havertz in der 45.+5 Minute für eine klare 3:1-Pausenführung. Diese beiden Tore taten der Stimmung im Stadion gut und ließen die Spieler mit breiter Brust in die zweite Halbzeit starten.\n\nGleich nach der Pause setzte Jamal Musiala in der 47. Minute das nächste Ausrufezeichen, als er auf 4:1 erhöhte. Deutschland spielte nun befreit auf und präsentierte sich in der Offensive geradezu verwöhnt. In der 68. Minute schnürte Nathaniel Brown den nächsten Treffer für die DFB-Elf und baute die Führung weiter aus. Deniz Undav traf in der 78. Minute und krönte damit den Offensivrausch der deutschen Mannschaft. Den Schlusspunkt setzte schließlich Kai Havertz in der 88. Minute, der seinen zweiten Treffer an diesem Abend erzielte.\n\n## Spieler des Spiels\n\nKai Havertz war ohne Frage der auffälligste Spieler des Abends. Mit einem Tor aus dem Elfmeterpunkt und einem weiteren Treffer zum Endstand von 7:1 war er nicht nur an der hohen Torausbeute maßgeblich beteiligt, sondern konnte zudem die Fans in Houston mit seinem Spielstil begeistern. Havertz zeigte sich als entscheidender Faktor in der Offensive und unterstrich gleich zu Anfang des Turniers, dass er für Deutschland ein Schlüsselspieler sein kann.\n\n## Das bedeutet das Ergebnis\n\nDer beeindruckende 7:1-Sieg gegen Curaçao legt den Grundstein für einen hoffnungsvollen WM-Verlauf für die deutsche Nationalmannschaft. Mit diesem hohen Ergebnis wird das Selbstvertrauen der Spieler gesteigert und die Fans blicken optimistisch auf die weiteren Gruppenspiele. Deutschland hat sich eindrucksvoll zurückgemeldet und lässt die Konkurrenz wissen, dass man mit dieser Offensivkraft in der K.o.-Phase rechnen muss.",
+  "createdAt": "2026-06-15T20:06:13.699Z",
+  "id": 1781553973699,
+  "matchId": "760422",
+  "match": {
+    "id": "760422",
+    "kickoff": "2026-06-14T17:00Z",
+    "phase": "Gruppenphase",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "attendance": 68021,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Deutschland",
+      "abbr": "GER",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+      "score": 7
+    },
+    "away": {
+      "name": "Curaçao",
+      "abbr": "CUW",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+      "score": 1
+    },
+    "homeTeamId": "481",
+    "awayTeamId": "11678",
+    "goals": [
+      {
+        "minute": "6'",
+        "scorer": "Felix Nmecha",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "21'",
+        "scorer": "Livano Comenencia",
+        "teamId": "11678",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "38'",
+        "scorer": "Nico Schlotterbeck",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "45'+5'",
+        "scorer": "Kai Havertz",
+        "teamId": "481",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "47'",
+        "scorer": "Jamal Musiala",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "68'",
+        "scorer": "Nathaniel Brown",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "78'",
+        "scorer": "Deniz Undav",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "88'",
+        "scorer": "Kai Havertz",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

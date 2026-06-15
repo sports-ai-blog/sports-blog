@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Elfenbeinküste 1:0 Ecuador",
+  "content": "# Elfenbeinküste bezwingt Ecuador mit 1:0 - Drama bis zur letzten Minute\n\nIn einem nervenaufreibenden Duell der Gruppenphase der WM 2026 konnte sich die Elfenbeinküste mit 1:0 gegen Ecuador durchsetzen. Den entscheidenden Treffer erzielte Amad Diallo in der 90. Minute und sicherte seinem Team einen wichtigen Sieg. Bei sommerlichen Temperaturen fanden sich 68.274 begeisterte Zuschauer im Lincoln Financial Field in Philadelphia ein, um dieses spannende Aufeinandertreffen zu verfolgen.\n\n## So lief das Spiel\n\nVon Beginn an war die Partie hart umkämpft. Beide Mannschaften zeigten sich kämpferisch und wollten ihren ersten Sieg bei der WM einfahren. In der ersten Halbzeit hatten die Zuschauer ein ausgeglichenes Spiel zu sehen, in dem sich beide Teams um Kontrolle und Torchancen bemühten. Dennoch blieb das Aufeinandertreffen bis zur Halbzeit torlos und es ging mit einem 0:0 in die Kabinen.\n\nAuch die zweite Hälfte begann ohne zwingende Torchancen. Die Defensive beider Mannschaften erwies sich als stabil, und sowohl Ecuador als auch die Elfenbeinküste konnten kaum gefährliche Akzente setzen. Doch in der Schlussphase intensivierte die Elfenbeinküste ihre Bemühungen: Mit Druck und Kreativität versuchten sie, die Abwehr der Ecuadorianer zu überwinden. \n\nDer Höhepunkt der Partie sollte in der 90. Minute erfolgen. Amad Diallo, der während des Spiels immer wieder auffiel, nutzte eine Gelegenheit und erzielte das einzige Tor des Abends. Mit einem präzisen Abschluss sorgte er für die vorzeitige Entscheidung und ließ die Elfenbeinküste jubeln. Mit diesem späten Treffer sicherte sich die Elfenbeinküste den 1:0-Sieg und drei wertvolle Punkte in der Gruppenphase.\n\n## Spieler des Spiels\n\nAmad Diallo war der herausragende Spieler der Begegnung. Mit seinem last-minute Tor verhalf er seiner Mannschaft nicht nur zu einem wichtigen Sieg, sondern bewies auch seine Nervenstärke und seinen unermüdlichen Einsatz. Diallo war über das gesamte Spiel hinweg aktiv und sorgte stets für Gefahr in der Offensive der Elfenbeinküste. Seine Künste und sein Gespür für den richtigen Moment machen ihn zu einem unverzichtbaren Teil des Teams, und der Sieg wird in erster Linie auf seinen Schultern ruhen.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg der Elfenbeinküste gegen Ecuador ist von großer Bedeutung für den weiteren Verlauf des Turniers. Mit drei Punkten im Gepäck festigen sie ihre Position in der Gruppe und geben sich einen wichtigen Schub im Kampf um die K.o.-Phase. Ecuador hingegen steht nach dieser Niederlage unter Druck und muss seine Strategie überdenken, um die nächsten Begegnungen erfolgreich zu gestalten. Die Spannung bleibt also hoch, während sich die Gruppenphase weiter entfaltet und jede Entscheidung über das Weiterkommen entscheidend sein könnte.",
+  "createdAt": "2026-06-15T20:06:30.812Z",
+  "id": 1781553990812,
+  "matchId": "760423",
+  "match": {
+    "id": "760423",
+    "kickoff": "2026-06-14T23:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "attendance": 68274,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Elfenbeinküste",
+      "abbr": "CIV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Ecuador",
+      "abbr": "ECU",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+      "score": 0
+    },
+    "homeTeamId": "4789",
+    "awayTeamId": "209",
+    "goals": [
+      {
+        "minute": "90'",
+        "scorer": "Amad Diallo",
+        "teamId": "4789",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

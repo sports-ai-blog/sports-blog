@@ -1,0 +1,31 @@
+{
+  "title": "Spielbericht: Spanien 0:0 Kap Verde",
+  "content": "# Spanien trifft auf Kap Verde: 0:0 im Gruppenphasen-Duell\n\nEin spannungsgeladenes Aufeinandertreffen zwischen Spanien und Kap Verde endete im Mercedes-Benz Stadium in Atlanta in einer torlosen Remis. Bei strahlendem Wetter und vor 67.640 Zuschauern konnten beide Mannschaften trotz intensiver Bemühungen keinen Treffer erzielen. Das Unentschieden lässt die Frage offen, wie sich die beiden Teams im weiteren Verlauf der WM 2026 präsentieren werden.\n\n## So lief das Spiel\n\nDer Anpfiff zum Spiel fiel am Montag, dem 15. Juni 2026, um 18:00 Uhr deutscher Zeit. Die Gruppe war klar umrissen: Spanien, gefüllt mit hoch angestellten Erwartungen und einer traditionell starken Fußballgeschichte, trat gegen das vom afrikanischen Kontinent stammende Team Kap Verde an, das sich in dieser Gruppe beweisen wollte. \n\nDie ersten 45 Minuten boten den Zuschauern eine hart umkämpfte Partie, die jedoch nicht mit Toren belohnt wurde. Beide Mannschaften hatten ihre Phasen und versuchten, sich einen Vorteil zu verschaffen. Dennoch schlichen sich häufig Missverständnisse und Ungenauigkeiten in das Spiel ein, sodass trotz intensiven offensiven Bemühens kein Tor fiel. Auch nach dem Seitenwechsel blieb das Niveau hoch, doch die Torjäger beider Teams konnten ihre Chancen nicht nutzen. So endete das Spiel wie es begann: 0:0.\n\n## Spieler des Spiels\n\nObwohl die Zuschauer vergeblich auf einen Torschützen warteten, stach ein Spieler aus der Menge hervor: der spanische Torhüter. Dank seiner beeindruckenden Reflexe und seiner ruhigen Ausstrahlung im Kasten hielt er das torlose Unentschieden letztlich fest. Seine auch in kniffligen Situationen besonnene Leistung sorgte dafür, dass Spanien das Unentschieden ins Ziel bringen konnte, ohne Gefahr zu laufen, einen Rückstand zu kassieren. Kap Verde hatte einige gute Ansätze, doch die Abwehrarbeit und der souveräne Torhüter der Spanier waren hindernisreich.\n\n## Das bedeutet das Ergebnis\n\nDas torlose Unentschieden hat sowohl für Spanien als auch für Kap Verde eine wichtige Bedeutung. Spain, als Favorit auf den Gruppensieg, hat nun die Gelegenheit, in den nächsten Spielen Druck aufzubauen, während Kap Verde einen ersten Punkt im Turnier mitnehmen konnte, was für sie durchaus positiv ist. Für beide Teams bleibt es abzuwarten, wie sich die Tabelle entwickeln wird und welche Taktiken sie in den kommenden Partien umsetzen werden. Die WM 2026 hat viel Spannung zu bieten, und dieses Auftaktspiel unterstreicht, dass auch im internationalen Fußball nicht jeder Favorit automatisch als Sieger hervorgeht. ",
+  "createdAt": "2026-06-15T20:06:49.902Z",
+  "id": 1781554009903,
+  "matchId": "760428",
+  "match": {
+    "id": "760428",
+    "kickoff": "2026-06-15T16:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 67640,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Spanien",
+      "abbr": "ESP",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Kap Verde",
+      "abbr": "CPV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+      "score": 0
+    },
+    "homeTeamId": "164",
+    "awayTeamId": "2597",
+    "goals": []
+  }
+}
