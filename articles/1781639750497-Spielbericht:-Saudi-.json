@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Saudi-Arabien 1:1 Uruguay",
+  "content": "# Saudi-Arabien und Uruguay teilen sich die Punkte: 1:1 im Hard Rock Stadium\n\nIn einer spannenden und hart umkämpften Begegnung trennten sich Saudi-Arabien und Uruguay in der Gruppenphase der WM 2026 mit einem 1:1-Unentschieden. Vor 62.764 Zuschauern im Hard Rock Stadium von Miami Gardens, Florida, erlebten die Fans ein packendes Duell, das bis zur letzten Minute auf Messers Schneide stand.\n\n## So lief das Spiel\n\nDie Partie begann mit intensiven Spielzügen, wobei Saudi-Arabien schnell das Zepter in die Hand nahm. In der 41. Minute war es Abdulelah Al-Amri, der den Ball im Netz versenkte und das erste Tor des Spiels erzielte. Mit diesem Treffer ging Saudi-Arabien mit einer 1:0-Führung in die Halbzeitpause. Die Euphorie bei den saudischen Anhängern war greifbar, während Uruguay leicht unter Druck stand, seine Defensive zu stabilisieren.\n\nIn der zweiten Halbzeit drängte die Celeste stärker auf den Ausgleich. Uruguay setzte alles daran, die Kontrolle über das Spiel zu gewinnen und kreierte einige vielversprechende Situationen. Gut 35 Minuten nach der ersten Halbzeit, in der 80. Minute, war es Maxi Araújo, der den verdienten Ausgleich erzielte und den Ball im Netz des saudischen Torwarts versenkte. Damit war die Spannung wieder zurück im Stadion – und die Zuschauer fieberten dem Schlusspfiff entgegen. Auch wenn beide Teams noch Möglichkeiten hatten, blieb es beim 1:1.\n\n## Spieler des Spiels\n\nAbdulelah Al-Amri stach in dieser Begegnung besonders hervor. Sein Tor war nicht nur entscheidend für den Verlauf der ersten Halbzeit, sondern zeigte auch seine Fähigkeit, in entscheidenden Momenten kreativ zu sein und die Abwehrreihen der Uruguayer auszuhebeln. Mit seinem Treffer legte er den Grundstein für die positive Stimmung, die Saudi-Arabien in die zweite Halbzeit tragen konnte. Auch wenn Araújo später den Ausgleich erzielte, bleibt Al-Amris Leistung ein Highlight dieses Spiels.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Unentschieden steht sowohl Saudi-Arabien als auch Uruguay im Kampf um die K.-o.-Phase unter Druck. Beide Mannschaften wissen, dass sie in den kommenden Spielen punkten müssen, um ihre Chancen auf den Einzug in die nächste Runde zu wahren. Für die saudischen Fans war das Unentschieden ein Zeichen der Hoffnung, während die Uruguayer weiterhin an ihrer Offensive arbeiten müssen, um sich in dieser hochkarätigen Gruppe durchzusetzen. Die kommenden Matches versprechen, ebenso spannend und entscheidend zu werden.",
+  "createdAt": "2026-06-16T19:55:50.497Z",
+  "id": 1781639750497,
+  "matchId": "760429",
+  "match": {
+    "id": "760429",
+    "kickoff": "2026-06-15T22:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 62764,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Saudi-Arabien",
+      "abbr": "KSA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Uruguay",
+      "abbr": "URU",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+      "score": 1
+    },
+    "homeTeamId": "655",
+    "awayTeamId": "212",
+    "goals": [
+      {
+        "minute": "41'",
+        "scorer": "Abdulelah Al-Amri",
+        "teamId": "655",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "80'",
+        "scorer": "Maxi Araújo",
+        "teamId": "212",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

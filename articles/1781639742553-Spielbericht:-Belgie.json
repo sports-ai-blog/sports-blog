@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Belgien 1:1 Ägypten",
+  "content": "# Belgien und Ägypten trennen sich 1:1 – ein spannendes Remis in Seattle!\n\nIn einem hart umkämpften Spiel in der Gruppenphase der WM 2026 haben sich Belgien und Ägypten am Montagabend im Lumen Field von Seattle mit einem 1:1 unentschieden getrennt. Bei einer Kulisse von 66.775 Zuschauern lieferten sich beide Teams einen spannenden Wettkampf, der nicht nur den Fanherz höher schlagen ließ, sondern auch wichtige Punkte in der Gruppenphase versprach.\n\n## So lief das Spiel\n\nDie Partie begann mit viel Tempo, und Ägypten konnte bereits in der 20. Minute den ersten Treffer des Spiels landen: Emam Ashour nutzte eine Unaufmerksamkeit in der belgischen Defensive und brachte sein Team mit 1:0 in Führung. Der Führungstreffer sorgte für frischen Wind auf dem Platz und ließ Ägypten an Selbstvertrauen gewinnen, während Belgien sich etwas schütteln musste. \n\nIn der ersten Halbzeit blieb es bei diesem Stand, obwohl Belgien mit zunehmender Spieldauer Bemühungen zeigte, den Ausgleich zu erzielen. Die aktivere Offensivarbeit der Belgier verhallte jedoch zunächst ohne den gewünschten Erfolg. Nach dem Seitenwechsel kam Belgien mit viel Schwung aus der Kabine und wollte unbedingt den Ausgleich erzielen. \n\nIn der 66. Minute dann das Unfassbare: Nach einem missglückten Klärungsversuch von Mohamed Hany landete der Ball unglücklich im eigenen Netz und sorgte für den Ausgleich zum 1:1. Damit hatte Belgium nicht nur den Rückstand egalisiert, sondern auch ein weiteres spannendes Kapitel in dieser Begegnung geschrieben. \n\nIn den verbleibenden Minuten blieb die Partie intensiv. Beide Mannschaften riskierten mehr und wollten die entscheidenden Punkte für die weitere Gruppendynamik sichern. Dennoch blieb es beim 1:1, ein Ergebnis, das den Verlauf der Gruppenphase weiter spannend hält.\n\n## Spieler des Spiels\n\nEmam Ashour war der auffälligste Spieler des Abends. Mit seinem Tor in der ersten Halbzeit gab er Ägypten die Führung und bewies dabei seine Fähigkeiten im entscheidenden Moment. Seine Energie und taktische Disziplin waren für die Stabilität der ägyptischen Defensive entscheidend und trugen maßgeblich dazu bei, dass die Mannschaft bis zum späten Ausgleich das Ruder fest in der Hand hielt. Ashour hat sich mit seiner Leistung in die Herzen der Fans gespielt.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Unentschieden bleibt die Gruppe weiterhin in der Schwebe. Beide Teams haben nun einen Punkt auf ihrem Konto, was die anstehenden Begegnungen noch spannender macht. Belgien wird sich zusätzlich anstrengen müssen, um seine Ambitionen auf das Weiterkommen zu untermauern. Ägypten hingegen hat gezeigt, dass man in dieser Gruppe nicht zu unterschätzen ist und wird mit neuem Selbstvertrauen auf die nächsten Spiele zusteuern. In einem Tournament, wo jeder Punkt entscheidend sein kann, sind alle Erwartungen jetzt auf die kommenden Spiele gerichtet.",
+  "createdAt": "2026-06-16T19:55:42.553Z",
+  "id": 1781639742553,
+  "matchId": "760426",
+  "match": {
+    "id": "760426",
+    "kickoff": "2026-06-15T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "attendance": 66775,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Belgien",
+      "abbr": "BEL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Ägypten",
+      "abbr": "EGY",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+      "score": 1
+    },
+    "homeTeamId": "459",
+    "awayTeamId": "2620",
+    "goals": [
+      {
+        "minute": "20'",
+        "scorer": "Emam Ashour",
+        "teamId": "2620",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "66'",
+        "scorer": "Mohamed Hany",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      }
+    ]
+  }
+}
