@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Österreich 3:1 Jordanien",
+  "content": "# Österreich bezwingt Jordanien mit 3:1 – Ein starker Auftritt in der Gruppenphase der WM 2026\n\nIn einem packenden Duell im Levi's Stadium in Santa Clara haben sich die österreichischen Kicker gegen Jordanien durchgesetzt. Mit einem Endstand von 3:1 stellt das Team von Coach Ralf Rangnick bereits in der Gruppenphase seine Ambitionen klar unter Beweis.\n\n## So lief das Spiel\n\nSchon früh in der Partie ergatterte Österreich die Führung. In der 21. Minute netzte Romano Schmid und sorgte somit für den ersten Jubel unter den 68.527 Zuschauern. Die ersten 45 Minuten verliefen ohne nennenswerte Unterbrechungen, und die Österreicher gingen mit einem knappen 1:0-Vorsprung in die Halbzeitpause.\n\nNach dem Seitenwechsel gelang Jordanien der überraschende Ausgleich, als Ali Olwan in der 50. Minute den Ball im Netz unterbrachte und die Partie wieder spannend machte. Die jordanische Equipe schöpfte neue Hoffnung und glaubte an einen möglichen Punktgewinn. Doch die Stimmung sollte erneut kippeln: In der 76. Minute war es Yazan Al-Arab, der mit einem Eigentor die Österreicher wieder auf die Siegerstraße brachte – 2:1 für Österreich.\n\nDie Spannung hielt bis in die Nachspielzeit an. In der 90.+12. Minute zogen die Österreicher einen klaren Vorteil wieder an sich, als Marko Arnautović einen Elfmeter verwandelte und damit den Endstand von 3:1 herstellte. Dieses späte Tor ließ die österreichischen Fans jubeln und besiegelte den Sieg in einer sehr umkämpften Begegnung.\n\n## Spieler des Spiels\n\nRomano Schmid war der auffälligste Spieler des Spiels und konnte mit seinem frühen Tor den Grundstein für den österreichischen Sieg legen. Er zeigte sich in offensiven und defensiven Phasen des Spiels engagiert und trug entscheidend dazu bei, die Kontrolle über das Geschehen zu behalten. Seine Leistung machte ihn zum heimlichen Star dieses Auftaktspiels.\n\n## Das bedeutet das Ergebnis\n\nMit diesem souveränen Sieg gegen Jordanien sendet Österreich ein starkes Signal an die Konkurrenz in der Gruppenphase der WM 2026. Der Weg in die nächsten Runden scheint damit geebnet, und die österreichische Nationalmannschaft hat bewiesen, dass sie auch gegen unerwartete Gegenwehr bestehen kann. Die kommenden Spiele werden zeigen, ob diese Erfolgswelle anhält und Österreich weiterhin auf dem Weg zum Turnier-Träumchen bleibt.",
+  "createdAt": "2026-06-17T17:40:42.903Z",
+  "id": 1781718042903,
+  "matchId": "760431",
+  "match": {
+    "id": "760431",
+    "kickoff": "2026-06-17T04:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "attendance": 68527,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Österreich",
+      "abbr": "AUT",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Jordanien",
+      "abbr": "JOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+      "score": 1
+    },
+    "homeTeamId": "474",
+    "awayTeamId": "2917",
+    "goals": [
+      {
+        "minute": "21'",
+        "scorer": "Romano Schmid",
+        "teamId": "474",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "50'",
+        "scorer": "Ali Olwan",
+        "teamId": "2917",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "76'",
+        "scorer": "Yazan Al-Arab",
+        "teamId": "474",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "90'+12'",
+        "scorer": "Marko Arnautovic",
+        "teamId": "474",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

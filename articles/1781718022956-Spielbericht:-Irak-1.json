@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Irak 1:4 Norwegen",
+  "content": "# Norwegen schlägt Irak 4:1 – Haaland brilliert im Gillette Stadium\n\nIm Rahmen der Gruppenphase der WM 2026 erlebten die 63.106 Zuschauer im Gillette Stadium in Foxborough einen denkwürdigen Abend, als Norwegen sich gegen den Irak mit 4:1 durchsetzte. Erling Haaland setzte mit zwei Toren ein Ausrufezeichen und führte die Skandinavier zu einem überzeugenden Sieg.\n\n## So lief das Spiel\n\nDas Spiel begann mit einer hohen Intensität und beiden Teams drängten auf den Offensivdrang. In der 29. Minute war es der norwegische Stürmer Erling Haaland, der das erste Tor der Partie erzielte. Seine außergewöhnliche Leistung sollte sich als Schlüssel für den weiteren Verlauf des Spiels erweisen. Nur zehn Minuten später konnte der Irak durch Aymen Hussein, der per Kopf traf, den Anschluss herstellen und für Jubel bei den irakischen Anhängern sorgen. Das Spiel blieb spannend, doch kurz vor der Halbzeit – in der 43. Minute – stellte Haaland den alten Abstand wieder her und netzte erneut ein, was den Halbzeitstand von 2:1 für Norwegen festlegte.\n\nIm zweiten Durchgang zeigten die Norweger ihre Dominanz erneut. In der 76. Minute war Leo Østigard zur Stelle und traf ebenfalls per Kopf. Diese Entscheidung sorgte für die Vorentscheidung, da der Irak zunehmend unter Druck geriet. In der allerletzten Spielminute, in der 90.+6. Minute, schoss Aymen Hussein unglücklicherweise ein Eigentor, das den Endstand auf 4:1 für Norwegen festlegte. Ein bitterer Abschluss für den Irak, der in einer schwierigen Partie kämpfte und dabei nicht belohnt wurde.\n\n## Spieler des Spiels\n\nErling Haaland war ohne Zweifel der Spieler des Spiels. Mit zwei Toren und seiner Präsenz im Angriff war er eine ständige Bedrohung für die irakische Abwehr. Sein Auftreten und die Fähigkeit, wichtige Tore zu erzielen, machten den Unterschied in einem hart umkämpften Spiel aus. Haalands Leistung wird als Schlüsselfaktor in der Gruppenphase angesehen und stärkt die Chancen Norwegens im Turnierverlauf erheblich.\n\n## Das bedeutet das Ergebnis\n\nDer klare Sieg für Norwegen bedeutet einen starken Auftakt in die Gruppenphase der WM 2026. Die Skandinavier festigten ihren Anspruch auf ein Weiterkommen und können nun mit Selbstvertrauen in die nächsten Spiele gehen. Der Irak hingegen steht vor der Herausforderung, sich nach dieser Niederlage zu rehabilitieren, um ihre Chancen auf ein Überleben im Turnier zu wahren. In einem Wettbewerb, in dem jeder Punkt zählt, ist die nächste Partie für beide Mannschaften entscheidend.",
+  "createdAt": "2026-06-17T17:40:22.956Z",
+  "id": 1781718022956,
+  "matchId": "760430",
+  "match": {
+    "id": "760430",
+    "kickoff": "2026-06-16T22:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "attendance": 63106,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Irak",
+      "abbr": "IRQ",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Norwegen",
+      "abbr": "NOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "score": 4
+    },
+    "homeTeamId": "4375",
+    "awayTeamId": "464",
+    "goals": [
+      {
+        "minute": "29'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "39'",
+        "scorer": "Aymen Hussein",
+        "teamId": "4375",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "43'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "76'",
+        "scorer": "Leo Østigard",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "90'+6'",
+        "scorer": "Aymen Hussein",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Frankreich 3:1 Senegal",
+  "content": "# Frankreich setzt sich gegen Senegal mit 3:1 durch\n\nEin intensives Duell zwischen Frankreich und Senegal am Dienstagabend im MetLife Stadium in East Rutherford endete mit einem 3:1-Sieg für die Franzosen. Vor 80.545 Zuschauern entfaltete sich ein spannendes Gruppenspiel der WM 2026, das nach einer torlosen ersten Hälfte in der zweiten Halbzeit richtig Fahrt aufnahm.\n\n## So lief das Spiel\n\nDie erste Halbzeit war geprägt von einer ausgelassenen Atmosphäre, während beide Teams um Kontrolle und Torchancen kämpften. Trotz zahlreicher intensiver Zweikämpfe und enormer emotionaler Aufladung blieb das Spiel bis zur 66. Minute torlos. In diesem Moment war es Kylian Mbappé, der den Bann brach: Mit einem furiosen Treffer brachte er die Franzosen in Führung und sorgte für jubelnde Gesichter bei den französischen Fans.\n\nDer Schwung des Spiels richtete sich fortan klar in Richtung Frankreich. Nur wenige Minuten später, in der 82. Minute, nutzte Bradley Barcola die Gelegenheit, um das Ergebnis auf 2:0 auszubauen. Frankreich schien bereits auf der Siegerstraße, doch Senegal gab sich nicht auf. In der Nachspielzeit, genau in der 90. Minute plus 5 Minuten, gelang Ibrahim Mbaye der Anschlusstreffer für die Senegalese, was für einen kurzen Moment neue Hoffnung weckte.\n\nDoch die französische Antwort ließ nicht lange auf sich warten. In der 90. Minute plus 6 Minuten stellte Kylian Mbappé den alten Abstand wieder her und schoss das dritte Tor für sein Team. Mit seinem persönlichen Doppelpack am Abend zeigte er einmal mehr, warum er zu den besten Spielern der Welt zählt.\n\n## Spieler des Spiels\n\nKylian Mbappé war der herausragende Spieler des Abends. Mit zwei Toren und seinem unermüdlichen Einsatz demonstrierte er nicht nur seine Abschlussstärke, sondern auch seine Fähigkeit, in entscheidenden Momenten für sein Team da zu sein. Mbappé bewies erneut, dass er das Zeug hat, ein entscheidender Faktor im Kampf um den Titel zu sein und die französische Mannschaft durch die Gruppenphase zu führen.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg über Senegal ist ein wichtiger Schritt für Frankreich in der Gruppenphase der WM 2026. Mit diesem Erfolg hat das Team von Trainer Didier Deschamps die ersten drei Punkte eingefahren und sich in eine hervorragende Position gebracht. Die Franzosen werden bestrebt sein, diesen momentum in die nächsten Spiele mitzunehmen, während Senegal gezwungen ist, seine Strategien zu überdenken, um die nächsten Begegnungen erfolgreich gestalten zu können. Die WM bleibt spannend, und dieser Abend hat einmal mehr gezeigt, dass sich die Fans auf noch zahlreiche packende Begegnungen freuen dürfen.",
+  "createdAt": "2026-06-17T17:40:13.867Z",
+  "id": 1781718013867,
+  "matchId": "760432",
+  "match": {
+    "id": "760432",
+    "kickoff": "2026-06-16T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80545,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Frankreich",
+      "abbr": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Senegal",
+      "abbr": "SEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+      "score": 1
+    },
+    "homeTeamId": "478",
+    "awayTeamId": "654",
+    "goals": [
+      {
+        "minute": "66'",
+        "scorer": "Kylian Mbappé",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "82'",
+        "scorer": "Bradley Barcola",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+5'",
+        "scorer": "Ibrahim Mbaye",
+        "teamId": "654",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+6'",
+        "scorer": "Kylian Mbappé",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
