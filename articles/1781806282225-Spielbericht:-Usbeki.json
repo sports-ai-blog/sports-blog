@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Usbekistan 1:3 Kolumbien",
+  "content": "# Usbekistan unterliegt Kolumbien 1:3 – Kolumbianer starten stark in die WM 2026\n\nIn einer packenden Partie in Mexico City setzte sich die kolumbianische Nationalmannschaft am Donnerstagmorgen gegen Usbekistan mit 3:1 durch. Vor 80.824 begeisterten Zuschauern im Estadio Banorte zeigten die Kolumbianer eine beeindruckende Leistung, insbesondere die Offensive, die in entscheidenden Momenten zugeschlagen hat. \n\n## So lief das Spiel\n\nDie Begegnung startete mit viel Tempo, und beide Mannschaften versuchten, sich im Mittelfeld zu etablieren. Kolumbien konnte in der 40. Minute durch Daniel Muñoz in Führung gehen. Der Treffer sorgte für Begeisterung auf den Rängen, während Usbekistan sich nach dem Rückstand bemühte, zurück ins Spiel zu finden, jedoch mit der ersten Halbzeit ohne weitere nennenswerte Chancen abschließen musste.\n\nNach dem Seitenwechsel kam Usbekistan dann entschieden besser ins Spiel. Nur fünf Minuten nach Wiederanpfiff, in der 60. Minute, erzielte Abbosbek Fayzullaev per Kopf den Ausgleich. Plötzlich war die Partie wieder offen, und das usbekische Publikum jubelte. Doch die Freude währte nicht lange: Nur fünf Minuten später, in der 65. Minute, stellte Luis Díaz den alten Abstand wieder her und brachte Kolumbien erneut in Führung. \n\nBis zur Nachspielzeit blieb es spannend. Usbekistan warf alles nach vorne, um doch noch einen Punkt zu retten. Doch in der 90. Minute +9 musste man ein weiteres Tor hinnehmen, als Jáminton Campaz ebenfalls per Kopfball das 3:1 für Kolumbien erzielte. Damit war die Partie entschieden, und die Mannschaft um Kapitän James Rodríguez konnte jubeln.\n\n## Spieler des Spiels\n\nDer Mann des Spiels war ohne Zweifel Luis Díaz. Neben seinem entscheidenden Tor in der 65. Minute war es seine Präsenz und Spielstärke, die die kolumbianische Offensive über das gesamte Spiel hinweg prägten. Díaz stellte die Abwehr von Usbekistan konstant vor Probleme und bewies einmal mehr, warum er zu den wichtigsten Spielern Kolumbiens zählt.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg startet Kolumbien vielversprechend in die Gruppenphase der WM 2026. Der erste Sieg gibt der Mannschaft Selbstvertrauen für die nächsten Begegnungen und stellt eine wichtige Grundlage für die bevorstehenden Herausforderungen dar. Für Usbekistan hingegen ist dieser Auftakt ein herber Rückschlag, der nun das Team vor eine Herausforderung stellt, sich in den nächsten Spielen zu beweisen. Die Konkurrenz in der Gruppe wird enorm, und es bleibt abzuwarten, wie sich beide Teams im Verlauf des Turniers schlagen werden.",
+  "createdAt": "2026-06-18T18:11:22.225Z",
+  "id": 1781806282225,
+  "matchId": "760436",
+  "match": {
+    "id": "760436",
+    "kickoff": "2026-06-18T02:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Estadio Banorte",
+    "city": "Mexico City",
+    "attendance": 80824,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Usbekistan",
+      "abbr": "UZB",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Kolumbien",
+      "abbr": "COL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+      "score": 3
+    },
+    "homeTeamId": "2570",
+    "awayTeamId": "208",
+    "goals": [
+      {
+        "minute": "40'",
+        "scorer": "Daniel Muñoz",
+        "teamId": "208",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "60'",
+        "scorer": "Abbosbek Fayzullaev",
+        "teamId": "2570",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "65'",
+        "scorer": "Luis Díaz",
+        "teamId": "208",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+9'",
+        "scorer": "Jáminton Campaz",
+        "teamId": "208",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

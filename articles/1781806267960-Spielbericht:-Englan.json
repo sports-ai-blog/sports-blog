@@ -1,0 +1,80 @@
+{
+  "title": "Spielbericht: England 4:2 Kroatien",
+  "content": "# England schlägt Kroatien mit 4:2 – Torfestival in Arlington\n\nIn einem mitreißenden Spiel der Gruppenphase bei der WM 2026 setzte sich England gegen Kroatien mit 4:2 durch. Vor 70.389 begeisterten Fans im AT&T Stadium in Arlington, Texas, zeigten beide Teams eine spannende und abwechslungsreiche Partie, die den Zuschauern viel zu bieten hatte.\n\n## So lief das Spiel\n\nDer Anstoß erfolgte am Mittwoch, den 17. Juni 2026, um 22:00 Uhr deutscher Zeit, und schon früh stellte die Begegnung ihre Brisanz unter Beweis. In der 12. Minute verwandelte Harry Kane einen Elfmeter und brachte England mit 1:0 in Führung. Die Freude der englischen Anhänger währte jedoch nicht lange, denn nur 24 Minuten später traf Martin Baturina zum Ausgleich für Kroatien (36'). \n\nDie Spannung nahm zu, als Harry Kane in der 42. Minute erneut für England zur Stelle war. Mit einem Kopfball erzielte er sein zweites Tor und stellte die Weichen kurz vor der Halbzeit auf 2:1 für die Three Lions. Doch die Kroaten antworteten kreativ: Petar Musa glich in der Nachspielzeit der ersten Hälfte zum 2:2 aus (45'+5'), was den ersten Halbzeitstand sicherte und das Spiel unentschieden in die Kabinen schickte.\n\nNach dem Seitenwechsel zeigte England seine Klasse: Jude Bellingham brachte die Briten in der 47. Minute erneut in Führung. Nun war die Stimmung im Stadion auf einem Höhepunkt! In der Schlussphase erhöhte Marcus Rashford in der 85. Minute auf 4:2 und machte damit den Deckel auf eine intensive Partie.\n\n## Spieler des Spiels\n\nHarry Kane war der unumstrittene Spieler des Spiels. Mit zwei Toren und seiner Dringlichkeit im Angriff zeigte er einmal mehr, warum er der Schlüsselspieler für England ist. Sein frühes Elfmeter-Tor gab der Mannschaft die richtige Richtung vor und seine Präsenz und Kopfballstärke halfen England, im entscheidenden Moment den Druck aufrechtzuerhalten.\n\n## Das bedeutet das Ergebnis\n\nFür England bedeutet dieser Sieg einen hervorragenden Start in die Gruppenphase der WM 2026. Die Three Lions können mit viel Selbstvertrauen in die nächsten Spiele gehen und gezeigt haben, dass sie in der Lage sind, auch in Drucksituationen stark zu performen. Kroatien hingegen muss nach diesem bitteren Ergebnis an ihrer Defensive arbeiten, um im weiteren Turnierverlauf bestehen zu können. Beide Teams stehen vor wichtigen Partien, die über ihren weiteren Verlauf im Turnier entscheiden werden.",
+  "createdAt": "2026-06-18T18:11:07.960Z",
+  "id": 1781806267960,
+  "matchId": "760437",
+  "match": {
+    "id": "760437",
+    "kickoff": "2026-06-17T20:00Z",
+    "phase": "Gruppenphase",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 70389,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "England",
+      "abbr": "ENG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "score": 4
+    },
+    "away": {
+      "name": "Kroatien",
+      "abbr": "CRO",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+      "score": 2
+    },
+    "homeTeamId": "448",
+    "awayTeamId": "477",
+    "goals": [
+      {
+        "minute": "12'",
+        "scorer": "Harry Kane",
+        "teamId": "448",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "36'",
+        "scorer": "Martin Baturina",
+        "teamId": "477",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "42'",
+        "scorer": "Harry Kane",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "45'+5'",
+        "scorer": "Petar Musa",
+        "teamId": "477",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "47'",
+        "scorer": "Jude Bellingham",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "85'",
+        "scorer": "Marcus Rashford",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

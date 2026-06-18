@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Portugal 1:1 Congo DR",
+  "content": "# Portugal und Congo DR trennen sich 1:1 im WM-Duell\n\nIn einem packenden Gruppenphasen-Spiel bei der WM 2026 kamen Portugal und die Demokratische Republik Kongo nicht über ein 1:1-Unentschieden hinaus. In der lebhaften Atmosphäre des NRG Stadium in Houston, Texas, verfolgten 68.777 Zuschauer ein aufregendes Duell, das beide Teams auf die Probe stellte und mit Toren in der ersten Halbzeit für Spannung sorgte.\n\n## So lief das Spiel\n\nDie Partie begann mit einem frühen Paukenschlag. Bereits in der 6. Minute sorgte João Neves für das erste Highlight des Abends, als er den Ball nach einem präzisen Flankenball per Kopf im Netz unterbrachte und Portugal mit 1:0 in Führung brachte. Es schien, als würde die Selecao die Kontrolle über das Spiel übernehmen, doch die Kongo-Spieler gaben sich nicht geschlagen und suchten ihren Weg zurück ins Spiel.\n\nIn einer hart umkämpften ersten Halbzeit bewiesen die kongolesischen Spieler viel Kampfgeist. Ihre Bemühungen wurden schließlich in der 45. Minute belohnt. Yoane Wissa erkämpfte sich einen zweiten Ball und köpfte kurz vor dem Halbzeitpfiff den Ausgleich zum 1:1. Mit diesem psychologisch wichtigen Treffer ging es in die Pause.\n\nDie zweite Halbzeit brachte zwar keine Tore mehr, blieb aber spannend bis zum Schlusspfiff. Beide Teams versuchten, den entscheidenden Treffer zu erzielen, doch trotz mehrerer Torchancen blieb es beim Unentschieden.\n\n## Spieler des Spiels\n\nJoão Neves, der Torschütze für Portugal, stach an diesem Abend besonders hervor. Mit seinem frühen Kopfballtor gab er der Selecao den nötigen Rückenwind. Neves zeigte nicht nur seine Torgefährlichkeit, sondern war auch in der Spieleröffnung und im Spielaufbau aktiv. Sein gutes Spielverständnis und die Fähigkeit, sich im richtigen Moment im gegnerischen Strafraum zu positionieren, machten ihn zum wertvollsten Spieler der Partie. Doch auch Yoane Wissa dessen Ausgleichstreffer für die Demokratische Republik Kongo, war entscheidend und sorgte dafür, dass das Team mit Hoffnung in die zweite Halbzeit gehen konnte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Unentschieden teilen sich Portugal und die Demokratische Republik Kongo die Punkte. Für Portugal bleibt die Frage im Raum, wie sie ihre Offensive weiter steigern können, um in den kommenden Spielen der Gruppenphase erfolgreicher zu sein. Für die Kongo-DR gibt es Hoffnung, dass sie sich mit diesem Punktgewinn aus der Defensive befreien und Selbstvertrauen für die nächsten Spiele tanken können. Beide Teams haben nun die Möglichkeit, ihre Ansprüche auf die K.o.-Runde in den verbleibenden Gruppenspielen unter Beweis zu stellen.",
+  "createdAt": "2026-06-18T18:10:59.056Z",
+  "id": 1781806259056,
+  "matchId": "760435",
+  "match": {
+    "id": "760435",
+    "kickoff": "2026-06-17T17:00Z",
+    "phase": "Gruppenphase",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "attendance": 68777,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Portugal",
+      "abbr": "POR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Congo DR",
+      "abbr": "COD",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+      "score": 1
+    },
+    "homeTeamId": "482",
+    "awayTeamId": "2850",
+    "goals": [
+      {
+        "minute": "6'",
+        "scorer": "João Neves",
+        "teamId": "482",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "45'+5'",
+        "scorer": "Yoane Wissa",
+        "teamId": "2850",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

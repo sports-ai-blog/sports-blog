@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Ghana 1:0 Panama",
+  "content": "# Ghana besiegt Panama mit 1:0 – Nervenkitzel bis zur letzten Sekunde\n\nIn einem packenden Duell in der Gruppenphase der WM 2026 setzte sich Ghana am Donnerstag, den 18. Juni 2026, im BMO Field in Toronto mit 1:0 gegen Panama durch. Das Spiel, das um 01:00 Uhr deutscher Zeit angepfiffen wurde, sorgte bis zur letzten Minute für Hochspannung und brachte die Zuschauer mit einem Tor in der Nachspielzeit zum Jubeln.\n\n## So lief das Spiel\n\nDie erste Halbzeit verlief torlos, beide Teams zeigten sich zwar ehrgeizig, doch klare Torchancen blieben Mangelware. In einer hart umkämpften Partie, die von Taktik und Kampfgeist geprägt war, konnten die Zuschauer keine Tore bejubeln. Die 42.942 Fans im Stadion erlebten eine Begegnung, die von großer Intensität und beiderseitiger Anstrengung geprägt war.\n\nDer entscheidende Moment des Spiels ließ bis zur Nachspielzeit auf sich warten. In der 90. Minute schien sich schon alles auf ein Unentschieden einzustellen, als Caleb Yirenkyi in der 90'+5' Minute aufblühte und für Ghana das erlösende Tor erzielte. Der Treffer fiel aus dem Nichts – und sorgte dafür, dass die ghanaischen Fans in Ekstase gerieten. Der Jubel kannte keine Grenzen, und Yirenkyi wurde zum Helden des Abends.\n\n## Spieler des Spiels\n\nCaleb Yirenkyi war der auffälligste Spieler des Spiels und trug entscheidend zum Sieg seiner Mannschaft bei. Mit seinem Tor in der Schlussminute bewies er nicht nur Nervenstärke, sondern auch einen hervorragenden Instinkt für den richtigen Moment. Sein Spielverstand und seine Positionierung waren für den späten Erfolg Ghanas von zentraler Bedeutung. In einem Match, das von vielen hart geführten Zweikämpfen geprägt war, zeigte Yirenkyi, dass er in der Lage ist, in entscheidenden Momenten zu glänzen.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg gegen Panama gibt Ghana einen wichtigen Schub für die weiteren Spiele in der Gruppenphase. Mit diesem 1:0 haben sie ihre Chancen auf das Erreichen der K.o.-Runde erheblich verbessert. Dieses Resultat bringt nicht nur wichtige drei Punkte auf das Konto der Ghanaer, sondern könnte auch den psychologischen Vorteil für die kommenden Begegnungen mit sich bringen. Panama hingegen wird nun unter Druck stehen, in den verbleibenden Spielen auf Punktejagd zu gehen, um sich die Möglichkeit auf eine Weiterreise im Turnier zu sichern. \n\nInsgesamt bleibt festzuhalten, dass Ghana mit diesem Sieg einen ersten großen Schritt in Richtung Achtelfinale gemacht hat, während Panama vor einer schwierigen Herausforderung steht. Fans und Spieler dürfen sich auf weitere spannende Spiele in dieser aufregenden WM freuen!",
+  "createdAt": "2026-06-18T18:11:14.842Z",
+  "id": 1781806274842,
+  "matchId": "760434",
+  "match": {
+    "id": "760434",
+    "kickoff": "2026-06-17T23:00Z",
+    "phase": "Gruppenphase",
+    "venue": "BMO Field",
+    "city": "Toronto",
+    "attendance": 42942,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Ghana",
+      "abbr": "GHA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Panama",
+      "abbr": "PAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+      "score": 0
+    },
+    "homeTeamId": "4469",
+    "awayTeamId": "2659",
+    "goals": [
+      {
+        "minute": "90'+5'",
+        "scorer": "Caleb Yirenkyi",
+        "teamId": "4469",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
