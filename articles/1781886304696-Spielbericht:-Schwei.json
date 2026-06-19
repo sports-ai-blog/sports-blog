@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Schweiz 4:1 Bosnien-Herzegowina",
+  "content": "# Schweiz dominiert Bosnien-Herzegowina mit 4:1 – Manzambi glänzt im SoFi Stadium\n\nAm Donnerstagabend, dem 18. Juni 2026, erlebten die 70.026 Zuschauer im SoFi Stadium in Inglewood, Kalifornien, einen intensiven und mitreißenden Fußballabend. Die Schweizer Nationalmannschaft feierte in der Gruppenphase der WM einen überzeugenden 4:1-Sieg gegen Bosnien-Herzegowina, der besonders durch den überragenden Johan Manzambi geprägt wurde. Nach einer torlosen ersten Halbzeit nahm die Partie erst in der Schlussphase richtig Fahrt auf.\n\n## So lief das Spiel\n\nDie erste Halbzeit endete ohne Tore, wobei beide Mannschaften hart umkämpfte Zweikämpfe lieferten und sich einen taktischen Schlagabtausch lieferten. In den ersten 45 Minuten wurden die beiden Defensive besonders gefordert, ohne dass sich eine der Mannschaften klare Chancen herausspielen konnte. \n\nIn der zweiten Halbzeit drehte sich das Geschehen: Nach einer Stunde Spielzeit übernahm die Schweiz die Kontrolle. In der 74. Minute erzielte Johan Manzambi das erste Tor des Abends für die Schweizer, was den Schwung der Mannschaft merklich verstärkte. Nur zehn Minuten später, in der 84. Minute, war es erneut Manzambi, dessen hervorragende Leistung durch ein Tor von Rubén Vargas belohnt wurde – die Schweizer führten nun 2:0.\n\nIn der Nachspielzeit, genauer gesagt in der 90. Minute, ließ Manzambi die Fans mit seinem zweiten Tor jubeln und sorgte dafür, dass das Ergebnis auf 3:0 erhöht wurde. Bosnien-Herzegowina gab jedoch nicht auf und erzielte in der 90.+3 Minute durch Ermin Mahmic den Anschlusstreffer. Doch die Schweiz stellte den alten Abstand sofort wieder her: Granit Xhaka verwandelte in der 90.+7 Minute einen Elfmeter und sorgte für den Endstand von 4:1. Dies war besonders bitter für Bosnien-Herzegowina, das zudem in der 80. Minute mit Tarik Muharemovic einen Spieler durch eine rote Karte verlor.\n\n## Spieler des Spiels\n\nJohan Manzambi war der unbestreitbare Spieler des Spiels. Mit zwei Toren in der entscheidenden Phase des Spiels führte er die Schweizer zu einem beeindruckenden Sieg. Seine Fähigkeit, in wichtigen Momenten da zu sein, und seine Präsenz auf dem Spielfeld machten den Unterschied. Manzambi zeigte ein hervorragendes Gespür für Räume und die Fähigkeit, sowohl als Torschütze als auch als Vorbereiter zu agieren.\n\n## Das bedeutet das Ergebnis\n\nDer 4:1-Sieg der Schweiz über Bosnien-Herzegowina setzt ein kräftiges Zeichen im Turnier. Dieser klare Erfolg stärkt nicht nur das Selbstvertrauen des Teams, sondern auch die Position in der Gruppenphase. Mit dieser Leistung ist die Schweiz auf einem guten Weg in Richtung der K.o.-Runde und kann optimistisch auf die nächsten Herausforderungen blicken. Während Bosnien-Herzegowina nach diesem Ergebnis und der vermeidbaren roten Karte nun unter Druck steht, wird es für sie entscheidend sein, im nächsten Spiel zu punkten, um weiterhin im Turnier bleiben zu können.",
+  "createdAt": "2026-06-19T16:25:04.696Z",
+  "id": 1781886304696,
+  "matchId": "760439",
+  "match": {
+    "id": "760439",
+    "kickoff": "2026-06-18T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "attendance": 70026,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Schweiz",
+      "abbr": "SUI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "score": 4
+    },
+    "away": {
+      "name": "Bosnien-Herzegowina",
+      "abbr": "BIH",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+      "score": 1
+    },
+    "homeTeamId": "475",
+    "awayTeamId": "452",
+    "goals": [
+      {
+        "minute": "74'",
+        "scorer": "Johan Manzambi",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "84'",
+        "scorer": "Rubén Vargas",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'",
+        "scorer": "Johan Manzambi",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+3'",
+        "scorer": "Ermin Mahmic",
+        "teamId": "452",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+7'",
+        "scorer": "Granit Xhaka",
+        "teamId": "475",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

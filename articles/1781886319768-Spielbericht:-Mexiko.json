@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Mexiko 1:0 Südkorea",
+  "content": "# Mexiko besiegt Südkorea mit 1:0 im Gruppenphasen-Duell der WM 2026\n\nIn einem hart umkämpften Duell am Freitagmorgen hat Mexiko Südkorea mit 1:0 geschlagen. Nach einer torlosen ersten Halbzeit sorgte Luis Romo in der 50. Minute für die Entscheidung im Estadio Akron in Guadalajara, wo 45.522 Zuschauer auf den Tribünen für eine spannende Kulisse sorgten. Ein Auftakt, der die Hoffnungen des mexikanischen Teams auf den Einzug in die nächsten Runden beflügelt.\n\n## So lief das Spiel\n\nBeide Mannschaften begannen das Spiel mit viel Energie, doch in der ersten Halbzeit lagen klare Torchancen auf der Strecke. Das Mittelfeldkampf prägend, ohne jedoch nennenswerte Höhepunkte zu liefern. Die Zuschauer waren auf der Suche nach dem ersten Treffer, doch keine der beiden Mannschaften konnte die Defensive des Gegners durchbrechen. \n\nMit dem Wiederanpfiff nach der Pause eskalierte das Geschehen jedoch. In der 50. Minute setzte sich Luis Romo auf dem Spielfeld durch und erzielte das einzige Tor des Abends, das Mexiko in Führung brachte. Der Treffer brachte die Fans zum Toben und sorgte für eine ausgelassene Stimmung im Stadion. Südkorea setzte nun alles auf eine Karte, um zurück ins Spiel zu finden, konnte jedoch keinen adäquaten Ausgleich erzielen.\n\nDie letzten Minuten des Spiels waren geprägt von einem intensiven Kampf um jeden Ball. Mexiko verteidigte konsequent und ließ den Südkoreanern keine echte Möglichkeit, um den Ausgleich zu erzielen. Der Schlusspfiff kam schließlich nach einem nervenaufreibenden Finish, in dem Südkorea alles versuchte, um den Druck aufrechtzuerhalten, aber ohne Erfolg.\n\n## Spieler des Spiels\n\nLuis Romo war der herausragende Akteur des Spiels. Mit seinem entscheidenden Tor in der 50. Minute sicherte er Mexiko den Sieg und festigte seine Rolle als Schlüsselspieler. Romos Fähigkeit, im entscheidenden Moment zur Stelle zu sein, machte den Unterschied in einem ansonsten ausgeglichenen Spiel. Seine Leistung war nicht nur spielentscheidend, sondern zeigte auch sein Engagement und seinen kühlen Kopf unter Druck.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wichtigen Sieg hat Mexiko einen optimalen Start in die Gruppenphase hingelegt und sich einen bedeutenden Vorteil im Kampf um die K.-o.-Runden gesichert. Südkorea hingegen steht nun unter Druck, da sie ihre nächsten Spiele dringend gewinnen müssen, um die Chancen auf ein Weiterkommen zu wahren. Der Druck in der Gruppe steigt, die nächsten Begegnungen versprechen Spannung, während sich die Teams auf die bevorstehenden Herausforderungen vorbereiten.",
+  "createdAt": "2026-06-19T16:25:19.768Z",
+  "id": 1781886319768,
+  "matchId": "760441",
+  "match": {
+    "id": "760441",
+    "kickoff": "2026-06-19T01:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Estadio Akron",
+    "city": "Guadalajara",
+    "attendance": 45522,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Mexiko",
+      "abbr": "MEX",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Südkorea",
+      "abbr": "KOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+      "score": 0
+    },
+    "homeTeamId": "203",
+    "awayTeamId": "451",
+    "goals": [
+      {
+        "minute": "50'",
+        "scorer": "Luis Romo",
+        "teamId": "203",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
