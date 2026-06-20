@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Türkei 0:1 Paraguay",
+  "content": "# Türkei unterliegt Paraguay mit 0:1 – Galarza besorgt frühe Entscheidung\n\nIn einem hart umkämpften Gruppenspiel der WM 2026 musste sich die Türkei im Levi's Stadium von Santa Clara, Kalifornien, mit 0:1 geschlagen geben. Bereits in der 2. Minute netzte Matías Galarza für Paraguay ein und stellte damit die Weichen für den Sieg. Die Begegnung wurde von 68.827 Zuschauern verfolgt, die ein spannendes, aber auch nervenaufreibendes Duell sahen. \n\n## So lief das Spiel\n\nDer Anstoß erfolgte am Samstag, den 20. Juni 2026, um 05:00 Uhr deutscher Zeit. Von Beginn an zeigten die Paraguayer, dass sie entschlossen waren, als Sieger vom Platz zu gehen. Nur zwei Minuten nach Anpfiff sorgte Matías Galarza für Jubel bei den paraguayischen Anhängern: Mit einem frühen Tor stellte er die Führung für sein Team her, die den weiteren Spielverlauf prägte. \n\nDie Türkei hatte Schwierigkeiten, sich von diesem frühen Rückstand zu erholen. Trotz intensiver Bemühungen blieben große Chancen Mangelware. Im weiteren Verlauf des Spiels blieb Paraguay defensiv stabil und ließ den Türken kaum Raum für gefährliche Angriffe.\n\nIn der Nachspielzeit der ersten Halbzeit, genau in der 45. Minute, wurde es für Paraguay kompliziert. Miguel Almirón sah nach einem Foulspiel die Rote Karte und verließ das Spielfeld. Dies stellte die Paraguyer vor eine denkbar schwere Herausforderung für die zweite Halbzeit. Mit einer knappen 1:0-Führung, aber in Unterzahl, gingen beide Teams in die Kabinen.\n\nDie zweite Halbzeit bot wenig Ausruhen für die Zuschauer. Auch wenn Paraguay nun in der Defensive gefordert war, konnten sie ihren knappen Vorsprung bis zum Schlusspfiff verteidigen. Die Türkei kämpfte bis zur letzten Minute, doch die Witterung und die gegnerische Abwehr standen einem Ausgleich im Wege.\n\n## Spieler des Spiels\n\nMatías Galarza war der auffälligste Spieler des Spiels und wird als der Mann des Abends gefeiert. Sein frühes Tor in der 2. Minute war nicht nur entscheidend für den Sieg, sondern auch der Grundstein für eine über weite Strecken starke Leistung der paraguayischen Mannschaft. Obwohl das Team in der zweiten Halbzeit in Unterzahl agieren musste, bewies Galarza an der Seite seiner Mitspieler, dass sie als Einheit zusammenhalten können, was für den weiteren Verlauf des Turniers von großer Bedeutung sein wird.\n\n## Das bedeutet das Ergebnis\n\nFür Paraguay ist der Sieg gegen die Türkei ein wichtiger Schritt in der Gruppenphase der WM 2026. Mit drei Punkten im Gepäck zeigen sie, dass sie trotz der Unterzahl in der Lage sind, ihren Kampfgeist und ihren Siegeswillen zu demonstrieren. Die Türkei hingegen steht vor der Herausforderung, nach diesem enttäuschenden Auftakt noch den Kurs zu ändern, um in diesem hochdotierten Turnier möglichst weit zu kommen. Es bleibt spannend, wie sich beide Mannschaften in den kommenden Spielen schlagen werden.",
+  "createdAt": "2026-06-20T12:20:31.195Z",
+  "id": 1781958031195,
+  "matchId": "760443",
+  "match": {
+    "id": "760443",
+    "kickoff": "2026-06-20T03:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "attendance": 68827,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Türkei",
+      "abbr": "TUR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Paraguay",
+      "abbr": "PAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+      "score": 1
+    },
+    "homeTeamId": "465",
+    "awayTeamId": "210",
+    "goals": [
+      {
+        "minute": "2'",
+        "scorer": "Matías Galarza",
+        "teamId": "210",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

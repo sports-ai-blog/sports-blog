@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: USA 2:0 Australien",
+  "content": "# USA siegt gegen Australien mit 2:0 – Cameron Burgess und Alex Freeman bringen die Punkte!\n\nIm hart umkämpften Duell der Gruppenphase der WM 2026 setzten sich die USA am Freitagabend mit 2:0 gegen Australien durch. Vor 66.925 begeisterten Zuschauern im Lumen Field in Seattle zeigten die US-Boys eine starke Leistung und sichern sich damit wichtige Punkte auf dem Weg zu den K.o.-Runden. \n\n## So lief das Spiel\n\nBereits in der 11. Minute fiel der erste Treffer der Partie, und er kam auf ungewöhnliche Weise zustande. Ein Eigentor von Cameron Burgess brachte die USA mit 1:0 in Führung. Burgess, der für seine solide defensive Leistung bekannt ist, hatte an diesem Abend leider kein Glück und sorgte mit seinem Missgeschick dafür, dass die US-Amerikaner früh die Oberhand gewinnen konnten.\n\nDie australische Mannschaft hatte Schwierigkeiten, sich zu sortieren und auf das frühe Gegentor zu reagieren. Die USA waren nun im Spiel und nutzten ihr Heimspiel, um das Publikum mit leidenschaftlichem Fußball zu begeistern. In der 43. Minute jubelten die amerikanischen Fans erneut, als Alex Freeman per Kopfball das 2:0 erzielte. Freeman traf präzise und ließ dem australischen Keeper keine Chance, was die Stimmung im Stadion auf ein neues Level hob.\n\nMit diesem Ergebnis ging es in die Halbzeitpause, und die USA blickten auf eine vielversprechende erste Hälfte zurück, während Australien sich um eine Antwort bemühen musste. Trotz intensiver Bemühungen in der zweiten Halbzeit wollte der Ball für die Australier einfach nicht ins Netz.\n\n## Spieler des Spiels\n\nMit seinem Kopfballtor in der 43. Minute und einer soliden Gesamtleistung sticht Alex Freeman als Spieler des Spiels hervor. Freeman zeigte nicht nur seine Kopfballstärke, sondern trug auch zur stabilen defensive Gesamtleistung der Mannschaft bei. Sein Treffer war der Lohn für eine engagierte Darbietung, die sowohl sein Können als auch seinen Willen, der Mannschaft zu helfen, überzeugend demonstrierte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg setzen die USA ein starkes Zeichen in ihrer Gruppe und kämpfen entschlossen um den Einzug in die K.o.-Runden. Australien hingegen steht nun unter Druck und muss in den kommenden Spielen alles geben, um noch eine Chance auf das Weiterkommen zu haben. Dieses Ergebnis zeigt einmal mehr die Unberechenbarkeit und die Spannung der WM – ein gelungener Auftakt für die Gastgeber und eine Herausforderung für die Australier. In den nächsten Begegnungen wird es entscheidend sein, wie beide Teams auf diese Herausforderung reagieren.",
+  "createdAt": "2026-06-20T12:20:07.776Z",
+  "id": 1781958007776,
+  "matchId": "760442",
+  "match": {
+    "id": "760442",
+    "kickoff": "2026-06-19T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "attendance": 66925,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "USA",
+      "abbr": "USA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Australien",
+      "abbr": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "score": 0
+    },
+    "homeTeamId": "660",
+    "awayTeamId": "628",
+    "goals": [
+      {
+        "minute": "11'",
+        "scorer": "Cameron Burgess",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "43'",
+        "scorer": "Alex Freeman",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}
