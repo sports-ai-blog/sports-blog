@@ -1,0 +1,80 @@
+{
+  "title": "Spielbericht: Niederlande 5:1 Schweden",
+  "content": "# Dominanz der Niederlande: 5:1-Sieg gegen Schweden in Houston\n\nEin unvergesslicher Abend im NRG Stadium von Houston, Texas! Die niederländische Nationalmannschaft hat mit einem beeindruckenden 5:1-Sieg gegen Schweden bei der WM 2026 erneut ihre Ambitionen unterstrichen. Vor 68.777 begeisterten Zuschauern zeigten die Oranje-Spieler eine eindrucksvolle Leistung und setzten sich im ersten Gruppenspiel mit Bravour durch.\n\n## So lief das Spiel\n\nDas Spiel nahm bereits zu Beginn an Fahrt auf. In der 5. Minute sorgte Brian Brobbey für den ersten Aufschrei der niederländischen Fans. Er ließ die schwedische Abwehr hinter sich und hämmerte den Ball im Tor unter. Nur zwölf Minuten später wiederholte Brobbey seine Heldentat und erhöhte auf 2:0. Mit seinem Doppelpack war er der frühzeitige Held der Begegnung.\n\nNach der Halbzeitpause kamen die Niederländer wieder hervorragend aus den Blöcken. In der 47. Minute war es Cody Gakpo, der das Ergebnis auf 3:0 stellte und somit den bisherigen Schweden den Wind aus den Segeln nahm. Nur sieben Minuten später legte Gakpo nach und erhöhte auf 4:0. Die niederländische Vorherrschaft schien unantastbar, und die schwedische Defensive hatte große Mühe, die Möglichkeiten der Holländer zu unterbinden.\n\nIn der 59. Minute gelang Schweden schließlich der Anschlusstreffer. Anthony Elanga nutzte eine kleine Unaufmerksamkeit in der niederländischen Abwehr und traf zum 1:4, was für ein kurzes Aufbäumen sorgte. Doch der niederländische Offensivdrang war nicht zu stoppen, und in der 89. Minute setzte Crysencio Summerville mit dem 5:1 den Schlusspunkt in einer einseitigen Partie.\n\n## Spieler des Spiels\n\nWohl kaum zu übersehen war Brian Brobbey, der mit seinem Doppelpack in den ersten zwanzig Minuten des Spiels der unfreiwillige Bösewicht der schwedischen Abwehr war. Seine Schnelligkeit und Präzision vor dem Tor machten ihn zum Mann des Spiels und ebneten den Weg für den eindrucksvollen Sieg der Niederländer. Doch auch Cody Gakpo verdiente sich mit zwei weiteren Toren seine Meriten und zeigte, dass die offensive Kraft der Niederländer in diesem Turnier enorm ist.\n\n## Das bedeutet das Ergebnis\n\nMit diesem eindrucksvollen Sieg starten die Niederländer ihren WM-Traum mit voller Kraft und Selbstvertrauen. Die hohe Anzahl an geschossenen Toren lässt darauf schließen, dass die Offensive bereit ist, im weiteren Turnierverlauf für Furore zu sorgen. Für Schweden bleibt hingegen noch viel zu tun, um sich in der Gruppe zu rehabilitieren und den Anschluss nicht zu verlieren. Die ersten Partien haben einmal mehr gezeigt, wie schnell sich die Dynamik eines Turniers ändern kann. Fans beider Mannschaften dürfen nun gespannt auf die kommenden Begegnungen blicken.",
+  "createdAt": "2026-06-21T13:24:38.188Z",
+  "id": 1782048278188,
+  "matchId": "760447",
+  "match": {
+    "id": "760447",
+    "kickoff": "2026-06-20T17:00Z",
+    "phase": "Gruppenphase",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "attendance": 68777,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Niederlande",
+      "abbr": "NED",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "score": 5
+    },
+    "away": {
+      "name": "Schweden",
+      "abbr": "SWE",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+      "score": 1
+    },
+    "homeTeamId": "449",
+    "awayTeamId": "466",
+    "goals": [
+      {
+        "minute": "5'",
+        "scorer": "Brian Brobbey",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "17'",
+        "scorer": "Brian Brobbey",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "47'",
+        "scorer": "Cody Gakpo",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "54'",
+        "scorer": "Cody Gakpo",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "59'",
+        "scorer": "Anthony Elanga",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "89'",
+        "scorer": "Crysencio Summerville",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

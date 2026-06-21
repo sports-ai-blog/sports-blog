@@ -1,0 +1,31 @@
+{
+  "title": "Spielbericht: Ecuador 0:0 Curaçao",
+  "content": "# Ecuador gegen Curaçao: Nullnummer im Kansas City – 0:0\n\nIn einer hart umkämpften Partie trennten sich Ecuador und Curaçao am Sonntagmorgen bei der WM 2026 mit einem enttäuschenden 0:0. In der Gruppenphase erwiesen sich beide Teams als gleichwertige Gegner, doch am Ende fehlten den Akteuren die entscheidenden Ideen, um das Spiel mit Toren zu krönen. Bei strahlendem Wetter und vor 68.598 begeisterten Zuschauer:innen im GEHA Field at Arrowhead Stadium in Kansas City, Missouri, war die erhoffte Feier eines siegreichen Spieles ausgeblieben.\n\n## So lief das Spiel\n\nDie Begegnung zwischen Ecuador und Curaçao begann mit einer ausgeglichenen ersten Halbzeit, in der beide Teams mit viel Engagement agierten, doch die Tore blieben aus. Die Zuschauer sahen ein intensives Spiel, in dem sich die Akteure trotz zahlreicher Bemühungen im Angriff nicht durchsetzen konnten. In der ersten Halbzeit gab es keine Tore, und auch die zweite Hälfte brachte keine Entscheidung auf das Scoreboard. Trotz aller Versuche, die Abwehrreihen zu durchbrechen, blieb es ein torloses Unentschieden, das den Erwartungen an ein WM-Spiel nicht ganz gerecht wurde. \n\n## Spieler des Spiels\n\nObwohl es keine Tore gab, sticht ein Spieler hervor: der Torhüter von Ecuador, der mit seiner starken Präsenz in der Defensive dafür sorgte, dass sein Kasten sauber blieb. Er hielt die Abwehrreihe stabil und ließ sich auch durch die Angriffe von Curaçao nicht aus der Ruhe bringen. Seine Leistungen am heutigen Abend waren key für das torlose Ergebnis und unterstreichen die Bedeutung einer soliden defensiven Leistung, selbst in einem bislang chancenarmen Spielverlauf.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Unentschieden müssen beide Mannschaften jetzt alles daran setzen, um in den kommenden Spielen zu zeigen, dass sie im Turnier bleiben wollen. Ecuador und Curaçao haben sich in einem ausgeglichenen Match zwar respektabel präsentiert, doch wird ein Punkt in der Gruppenphase voraussichtlich nicht reichen, um die nächsten Runden zu erreichen. Künftige Partien müssen nun den Fokus auf offensive Spielzüge und mehr Durchschlagskraft legen, um das Weiterkommen in diesem hochkarätigen Turnier zu sichern. Ein erneuter Punktverlust kann fatale Folgen haben und die Träume vom WM-Titel für beide Teams gefährden.",
+  "createdAt": "2026-06-21T13:24:53.358Z",
+  "id": 1782048293358,
+  "matchId": "760446",
+  "match": {
+    "id": "760446",
+    "kickoff": "2026-06-21T00:00Z",
+    "phase": "Gruppenphase",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "attendance": 68598,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Ecuador",
+      "abbr": "ECU",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Curaçao",
+      "abbr": "CUW",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+      "score": 0
+    },
+    "homeTeamId": "209",
+    "awayTeamId": "11678",
+    "goals": []
+  }
+}

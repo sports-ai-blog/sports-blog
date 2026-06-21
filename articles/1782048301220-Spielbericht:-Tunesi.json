@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Tunesien 0:4 Japan",
+  "content": "# Japan überrollt Tunesien mit 4:0 – ein klarer Sieg in der Gruppenphase der WM 2026\n\nIn einem packenden Duell in der Gruppenphase der WM 2026 setzte sich Japan eindrucksvoll gegen Tunesien durch. Mit einem klaren 4:0-Sieg sicherte sich das Team von Trainer Hajime Moriyasu nicht nur die Punkte, sondern auch einen enormen Motivationsschub für den weiteren Turnierverlauf. Die Partie im Estadio BBVA in Guadalupe, vor 51.243 begeisterten Zuschauern, zeigte einmal mehr die Stärke der japanischen Offensive.\n\n## So lief das Spiel\n\nBereits in der 4. Minute zündete Japan den ersten Blitzstart: Daichi Kamada brachte die Japaner mit einem frühen Tor in Führung, das die Zuschauer in Ekstase versetzte. Tunesien war in den ersten Minuten sichtlich geschockt und tat sich schwer, in die Partie zu finden. Japan hingegen spürte die Gelegenheit und drängte auf das nächste Tor.\n\nIn der 31. Minute war es dann Ayase Ueda, der für die nächsten Jubelstürme sorgte – mit seinem Tor erhöhte er auf 2:0 und ließ die tunesische Abwehr erneut alt aussehen. Mit einer komfortablen Führung ging Japan in die Halbzeitpause und ließ seine Fans von weiteren Toren träumen.\n\nNach der Pause drängte Japan weiter auf die Entscheidung. In der 69. Minute war es Junya Ito, der mit einem präzisen Schuss auf 3:0 stellte. Die Vorentscheidung schien gefallen, aber die Japaner hatten noch nicht genug. In der Schlussphase der Partie, genauer gesagt in der 83. Minute, sorgte Ayase Ueda erneut für Aufregung im Stadion – dieses Mal per Kopf erzielte er sein zweites Tor und damit das 4:0. Ein beeindruckender Auftritt des Japaners, der für die tunesischen Abwehrspieler nur schwer zu kontrollieren war.\n\n## Spieler des Spiels\n\nAuffälligster Spieler des Matches war ohne Zweifel Ayase Ueda. Mit zwei Treffern, einem davon per Kopf, zeigte er sich als entscheidender Faktor für den Sieg der Japaner. Seine Beweglichkeit und Torinstinkte waren für die tunesische Defensive kaum zu bewältigen. Ueda bewies eindrucksvoll seine Klasse und zeigte, dass er einer der Schlüsselspieler des japanischen Teams sein könnte auf dem Weg in die K.o.-Runde.\n\n## Das bedeutet das Ergebnis\n\nDer deutliche Sieg für Japan lässt die Mannschaft gestärkt in die kommenden Spiele blicken. Mit dem erlangten Selbstvertrauen und der klaren Spielweise haben die Japaner ein deutliches Zeichen gesetzt, dass sie in diesem Turnier ernst genommen werden müssen. Tunesien hingegen steht vor der Herausforderung, sich schnell zu erholen und in den weiteren Gruppenspielen bessere Leistungen abzurufen, um die Hoffnungen auf ein Weiterkommen zu wahren. Mit diesem Ergebnis bekräftigt Japan seine Ambitionen und könnte auf dem Weg zur ersten Weltmeisterschaft in der Geschichte sein.",
+  "createdAt": "2026-06-21T13:25:01.220Z",
+  "id": 1782048301220,
+  "matchId": "760449",
+  "match": {
+    "id": "760449",
+    "kickoff": "2026-06-21T04:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "attendance": 51243,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Tunesien",
+      "abbr": "TUN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Japan",
+      "abbr": "JPN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+      "score": 4
+    },
+    "homeTeamId": "659",
+    "awayTeamId": "627",
+    "goals": [
+      {
+        "minute": "4'",
+        "scorer": "Daichi Kamada",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "31'",
+        "scorer": "Ayase Ueda",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "69'",
+        "scorer": "Junya Ito",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "83'",
+        "scorer": "Ayase Ueda",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

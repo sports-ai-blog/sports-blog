@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Deutschland 2:1 Elfenbeinküste",
+  "content": "# Dramatisches Comeback: Deutschland besiegt Elfenbeinküste mit 2:1\n\nIn einer packenden Begegnung der Gruppenphase der WM 2026 bezwang die deutsche Nationalmannschaft die Elfenbeinküste mit 2:1. Während die ersten 45 Minuten von den Ivorern dominiert wurden, bewies das deutsche Team im zweiten Durchgang Kampfgeist und drehte das Spiel in der Nachspielzeit. \n\n## So lief das Spiel\n\nVor 43.036 begeisterten Zuschauern im BMO Field in Toronto begann das Duell am Samstag, den 20. Juni 2026, um 22:00 Uhr deutscher Zeit. \n\nDie erste Halbzeit zeigte, dass die Elfenbeinküste einen starken Start hinlegte. In der 30. Minute netzte Franck Kessié zur Führung für die Afrikaner ein und sorgte damit für einen Schockmoment im deutschen Lager. Die deutsche Defensive hatte sichtlich Mühe, die Ivorer zu stoppen, welche ihr Spiel klar strukturiert und selbstbewusst aufzogen. Mit einem 0:1 gingen die Mannschaften in die Kabinen – Deutschland musste sich etwas einfallen lassen.\n\nIm zweiten Durchgang kehrte die deutsche Mannschaft deutlich veränderter auf das Feld zurück. Der Druck auf das ivorische Tor wuchs kontinuierlich. In der 68. Minute war es schließlich so weit: Deniz Undav traf zum Ausgleich und versetzte die deutschen Fans in Ekstase. Sein Tor war das Resultat einer energischen Offensivbemühung, die das Spielgeschehen zugunsten Deutschlands kippte. \n\nPhase um Phase drängte Deutschland weiter auf den Sieg, und der Spielfluss nahm an Fahrt auf. In der dramatischen Nachspielzeit, genauer gesagt in der 90. Minute + 4, fand erneut Deniz Undav den Weg ins Netz. Mit seinem Doppelpack besiegelte er den 2:1-Sieg und katapultierte die deutsche Nationalmannschaft an die Spitze ihrer Gruppe.\n\n## Spieler des Spiels\n\nDeniz Undav trat als strahlender Held des Abends hervor. Mit seinen beiden entscheidenden Toren zeigte der Angreifer nicht nur die nötige Kaltschnäuzigkeit, sondern bewies auch eindrucksvoll, dass er in entscheidenden Momenten zur Stelle ist. Mit seiner Leistung trug Undav maßgeblich zum Sieg seiner Mannschaft bei und sorgte für Jubelstürme unter den deutschen Fans.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wichtigen Sieg gegen die Elfenbeinküste sichert sich Deutschland wertvolle Punkte in der Gruppenphase. Der Kampf um die besten Plätze ist jedoch noch lange nicht entschieden, und die nächste Begegnung wird für das Team von entscheidender Bedeutung sein. Der mentale Aufschwung durch das Comeback und die Rückkehr zu optimaler Form dürften den deutschen Spielern einen Schub für die bevorstehenden Herausforderungen geben. Das Turnier bleibt spannend, und die Augen der Fußballwelt richten sich weiterhin auf die DFB-Elf.",
+  "createdAt": "2026-06-21T13:24:45.887Z",
+  "id": 1782048285887,
+  "matchId": "760448",
+  "match": {
+    "id": "760448",
+    "kickoff": "2026-06-20T20:00Z",
+    "phase": "Gruppenphase",
+    "venue": "BMO Field",
+    "city": "Toronto",
+    "attendance": 43036,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Deutschland",
+      "abbr": "GER",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Elfenbeinküste",
+      "abbr": "CIV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+      "score": 1
+    },
+    "homeTeamId": "481",
+    "awayTeamId": "4789",
+    "goals": [
+      {
+        "minute": "30'",
+        "scorer": "Franck Kessié",
+        "teamId": "4789",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "68'",
+        "scorer": "Deniz Undav",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+4'",
+        "scorer": "Deniz Undav",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
