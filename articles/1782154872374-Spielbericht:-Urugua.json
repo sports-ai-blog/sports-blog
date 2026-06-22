@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Uruguay 2:2 Kap Verde",
+  "content": "# Uruguay und Kap Verde teilen sich die Punkte – 2:2 im spannenden WM-Duell\n\nIn einem packenden Duell zwischen Uruguay und Kap Verde in der Gruppenphase der WM 2026, das am Montagabend um 00:00 Uhr deutscher Zeit im Hard Rock Stadium von Miami Gardens angepfiffen wurde, trennten sich die beiden Teams mit 2:2. Vor 64.003 begeisterten Zuschauern erlebte das Publikum einen echten Schlagabtausch, der die Zuschauer bis zur letzten Minute fesselte.\n\n## So lief das Spiel\n\nDie Partie begann mit schwungvollem Offensivspiel beider Mannschaften. Kap Verde erwischte den besseren Start und ging bereits in der 21. Minute durch Kevin Pina in Führung. Uruguay blieb jedoch ruhig und fand schnell zurück ins Spiel. Kurz vor der Halbzeitpause erzielte Maxi Araújo in der 44. Minute mit einem Kopfball den Ausgleich für Uruguay. Der Treffer fiel in eine Zeit, in der Uruguays Druck zunahm und die Mannschaft besser ins Spiel fand.\n\nDie spektakuläre erste Halbzeit wurde in der Nachspielzeit noch aufregender, als Agustín Canobbio in der 45.+6 Minute Uruguay mit 2:1 in Führung brachte. Mit dieser knappen Führung ging es in die Halbzeitpause, die für beide Teams eine wichtige Phase zur taktischen Anpassung darstellte.\n\nNach dem Seitenwechsel zeigte Kap Verde, dass sie nicht gewillt waren, sich geschlagen zu geben. In der 61. Minute erzielte Hélio Varela den Ausgleich zum 2:2. Der Treffer war das Resultat einer starken Teamleistung und brachte die Spannung zurück ins Spiel. Es blieb spannend bis zum Schluss, als beide Mannschaften alles gaben, um den Sieg zu erringen. Doch trotz mehrerer Bemühungen fiel kein weiteres Tor und das Spiel endete mit einem gerechten Remis.\n\n## Spieler des Spiels\n\nIn dieser aufregenden Begegnung stach insbesondere der uruguayische Spieler Agustín Canobbio hervor. Mit seinem wichtigen Tor in der ersten Halbzeit bewies er nicht nur Torgefahr, sondern auch die Fähigkeit, in entscheidenden Momenten für sein Team da zu sein. Sein Kopfballtor verhalf Uruguay nicht nur zum Ausgleich, sondern gab der Mannschaft zudem das nötige Selbstvertrauen, um in Führung zu gehen. Canobbio zeigte sich als prägende Figur, die dem Spiel ihren Stempel aufdrückte.\n\n## Das bedeutet das Ergebnis\n\nDas Unentschieden lässt beide Mannschaften in der Gruppenphase der WM 2026 weiterhin Titelchancen wahren. Uruguay und Kap Verde können auf eine bisher ausgeglichene Leistung blicken, müssen sich aber nun steigern, um in der Gruppe um die besten Positionen zu kämpfen. Während Uruguay auf seine traditionelle Stärke setzen will, wird Kap Verde versuchen, die Motivation aus dem kraftvollen Auftritt zu nutzen. In der nächsten Runde wird es für beide Teams entscheidend sein, um den Einzug in die K.o.-Runde voranzutreiben. Dieses Spiel hat das Turnier auf jeden Fall einen Tick spannender gemacht!",
+  "createdAt": "2026-06-22T19:01:12.374Z",
+  "id": 1782154872374,
+  "matchId": "760450",
+  "match": {
+    "id": "760450",
+    "kickoff": "2026-06-21T22:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64003,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Uruguay",
+      "abbr": "URU",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Kap Verde",
+      "abbr": "CPV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+      "score": 2
+    },
+    "homeTeamId": "212",
+    "awayTeamId": "2597",
+    "goals": [
+      {
+        "minute": "21'",
+        "scorer": "Kevin Pina",
+        "teamId": "2597",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "44'",
+        "scorer": "Maxi Araújo",
+        "teamId": "212",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "45'+6'",
+        "scorer": "Agustín Canobbio",
+        "teamId": "212",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "61'",
+        "scorer": "Hélio Varela",
+        "teamId": "2597",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
