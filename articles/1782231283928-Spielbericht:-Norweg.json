@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Norwegen 3:2 Senegal",
+  "content": "# Norwegen bezwingt Senegal mit 3:2 im packenden WM-Duell\n\nIn einem spannenden und hart umkämpften Gruppenphasen-Spiel der WM 2026 setzte sich Norwegen im MetLife Stadium gegen Senegal mit 3:2 durch. Ein dramatisches Finish sorgte für Gänsehautmomente und ließ die 80.663 Zuschauer bis zur letzten Sekunde mitfiebern.\n\n## So lief das Spiel\n\nDas Spiel begann mit viel Tempo und Einsatz von beiden Seiten. Norwegen setzte early die ersten Akzente und war oft gefährlich in der Offensive. In der 43. Minute belohnte sich die nordische Auswahl für ihre Bemühungen. Marcus Holmgren Pedersen traf zur 1:0-Führung, die zur Halbzeitpause hielt. Die Norweger gingen mit einer verdienten Führung in die Kabine.\n\nNach dem Seitenwechsel direkt ein Paukenschlag: Erling Haaland, der Star der norwegischen Offensive, erhöhte in der 48. Minute auf 2:0 und stellte die Weichen auf Sieg. Doch Senegal gab sich nicht auf. Nur fünf Minuten später, in der 53. Minute, leuchtete Ismaïla Sarr auf und brachte Senegal mit einem Tor zurück ins Spiel – 2:1. \n\nDie Spannung hielt an, und die Norweger antworteten prompt: In der 58. Minute sorgte Erling Haaland mit seinem zweiten Treffer des Spiels für das 3:1 und schien damit die Partie endgültig zu entscheiden. Doch Senegal hatte andere Pläne. In der Nachspielzeit, genauer gesagt in der 90.+3 Minute, netzte Ismaïla Sarr erneut ein und stellte auf 3:2. \n\nTrotz des späten Tores blieb Norwegen ruhig und sicherte sich den zweiten Sieg im Turnier. Das Spiel endete somit mit einem aufregenden 3:2 für die Skandinavier.\n\n## Spieler des Spiels\n\nErling Haaland stach in dieser Begegnung heraus und war der prägende Spieler des Abends. Mit zwei Toren in der Partie bewies er eindrucksvoll seine herausragende Form und wichtige Rolle im norwegischen Spiel. Seine Nähe zur gegnerischen Abwehr stellte Senegal vor große Herausforderungen und trug entscheidend zum Erfolg seiner Mannschaft bei.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wichtigen Sieg festigte Norwegen seine Position in der Gruppenphase und stellte seine ambitiösen Turnierziele unter Beweis. Senegal hingegen steht vor einer Herausforderung, den Anschluss an die vorderen Plätze in der Gruppe zu halten. Der Ausgang dieses Spiels wird entscheidenden Einfluss auf die kommenden Begegnungen haben, während die Teams ihren Traum vom WM-Titel weiterverfolgen.",
+  "createdAt": "2026-06-23T16:14:43.928Z",
+  "id": 1782231283928,
+  "matchId": "760454",
+  "match": {
+    "id": "760454",
+    "kickoff": "2026-06-23T00:00Z",
+    "phase": "Gruppenphase",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Norwegen",
+      "abbr": "NOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Senegal",
+      "abbr": "SEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+      "score": 2
+    },
+    "homeTeamId": "464",
+    "awayTeamId": "654",
+    "goals": [
+      {
+        "minute": "43'",
+        "scorer": "Marcus Holmgren Pedersen",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "48'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "53'",
+        "scorer": "Ismaïla Sarr",
+        "teamId": "654",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "58'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+3'",
+        "scorer": "Ismaïla Sarr",
+        "teamId": "654",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

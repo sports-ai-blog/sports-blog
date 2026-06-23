@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Jordanien 1:2 Algerien",
+  "content": "# Jordanien verliert gegen Algerien mit 1:2 – Drama im Levi's Stadium!\n\nIn einem packenden Duell um die ersten Punkte in der Gruppenphase der WM 2026 musste sich Jordanien am Dienstagmorgen deutscher Zeit knapp geschlagen geben. Im Levi's Stadium in Santa Clara, Kalifornien, sahen 68.371 Zuschauer, wie die jordanische Mannschaft zunächst in Führung ging, letztlich aber zwei späte Treffer der Algerier hinnehmen musste. Der Endstand lautete 1:2.\n\n## So lief das Spiel\n\nDie Partie begann sehr intensiv. Jordanien, das überraschend entschlossen und aggressiv auftrat, konnte in der 36. Minute durch Nizar Al-Rashdan in Führung gehen. Der Stürmer fand eine Lücke in der algerischen Defensive und ließ den Ball im Netz zappeln, was den Zuschauern einen ersten Grund zur Freude gab. Mit dieser 1:0-Führung ging es in die Halbzeitpause, und die Fans aus Jordanien hofften auf eine Fortsetzung des Erfolgs.\n\nNach dem Seitenwechsel kam Algerien dann jedoch spielerisch besser in die Partie. Die Offensive zeigte nun mehr Schwung, und die Mannschaft drängte auf den Ausgleich. In der 69. Minute war es schließlich Nadhir Benbouali, der den Kopfballtreffer erzielte und die Partie egalisierte. Das Levi's Stadium erlebte ein akustisches Beben, als die algerischen Fans jubelten.\n\nDie Spannung stieg weiter, und die zweite Halbzeit war ein wahrer Krimi, als Algerien in der 82. Minute den Spielverlauf endgültig drehte. Amine Gouiri nutzte eine gute Gelegenheit und brachte Algerien mit seinem Treffer auf die Siegerstraße. Jordanien versuchte in den letzten Minuten alles, um doch noch zum Ausgleich zu kommen, doch es blieb beim 1:2.\n\n## Spieler des Spiels\n\nBesonders hervorzuheben ist Nadhir Benbouali, der mit seinem Kopfballtreffer nicht nur den Ausgleich erzielte, sondern damit das Team zurück ins Spiel brachte. Seine Präsenz im Sturm und der entscheidende Treffer machen ihn zum Spieler des Spiels. Auch Amine Gouiri ist mit seinem Tor erwähnenswert, da er die entscheidende Vorentscheidung herbeiführte, doch Benbouali wird im Gedächtnis bleiben als derjenige, der Algerien den Weg zum Sieg ebnete.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wichtigen Sieg hält Algerien die Türen zur K.-o.-Runde weit offen. Der starke Auftritt nach der ersten Halbzeit zeigt, dass die Mannschaft durchaus das Potenzial hat, in diesem Turnier weit zu kommen. Jordanien hingegen muss nun dringend nachlegen, um die Chance auf ein Weiterkommen nicht zu gefährden. Die WM 2026 bleibt spannend, und beide Teams werden alles daran setzen, ihre nächsten Spiele zu gewinnen.",
+  "createdAt": "2026-06-23T16:14:53.269Z",
+  "id": 1782231293269,
+  "matchId": "760455",
+  "match": {
+    "id": "760455",
+    "kickoff": "2026-06-23T03:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "attendance": 68371,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Jordanien",
+      "abbr": "JOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Algerien",
+      "abbr": "ALG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+      "score": 2
+    },
+    "homeTeamId": "2917",
+    "awayTeamId": "624",
+    "goals": [
+      {
+        "minute": "36'",
+        "scorer": "Nizar Al-Rashdan",
+        "teamId": "2917",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "69'",
+        "scorer": "Nadhir Benbouali",
+        "teamId": "624",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "82'",
+        "scorer": "Amine Gouiri",
+        "teamId": "624",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
