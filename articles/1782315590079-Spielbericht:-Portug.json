@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Portugal 5:0 Usbekistan",
+  "content": "# Portugal überrollt Usbekistan mit 5:0 – Ronaldo glänzt erneut!\n\nIm NRG Stadium von Houston, Texas, überraschten die portugiesischen Kicker am Dienstagabend die Fußballwelt mit einer beeindruckenden Vorstellung gegen Usbekistan. Mit einem klaren 5:0-Sieg in der Gruppenphase der WM 2026 stellte Portugal seine Titelambitionen eindrucksvoll unter Beweis. Cristiano Ronaldo war einmal mehr der Mann des Abends, der zwei Tore erzielte und seine Mannschaft zu einem furiosen Auftakt in das Turnier führte.\n\n## So lief das Spiel\n\nDie Partie begann vor 68.777 Zuschauern in einer elektrisierenden Atmosphäre. Schon in der 6. Minute erlöste Cristiano Ronaldo die portugiesischen Fans, als er das erste Tor erzielte. Damit setzte er die Weichen frühzeitig auf Sieg. In der 17. Minute folgte das zweite Tor durch Nuno Mendes, der sich mutig im Angriff zeigte und den Ball im Netz versenkte. Nur knapp vor der Halbzeitpause, in der 39. Minute, sorgte Ronaldo mit seinem zweiten Treffer des Abends für das 3:0 – die Partie schien bereits zur Halbzeit entschieden.\n\nNach dem Seitenwechsel kam es in der 60. Minute zu einem kuriosen Zwischenfall: Der usbekische Spieler Abduvohid Nematov beförderte den Ball ins eigene Tor, was das Ergebnis auf 4:0 erhöhte und die Verunsicherung in der usbekischen Defensive offensichtlich machte. In der letzten Minute der regulären Spielzeit, in der 87. Minute, setzte Rafael Leão den Schlusspunkt mit dem 5:0 für die Portugiesen. \n\n## Spieler des Spiels\n\nKein Spieler stach an diesem Abend so hervor wie Cristiano Ronaldo. Der Superstar, der in der vergangenen Saison bereits seine Klasse unter Beweis stellte, war gegen Usbekistan nicht zu stoppen. Mit zwei Toren zeigte er einmal mehr, dass er auch im Alter von 41 Jahren noch immer zu den besten Spielern der Welt gehört. Seine Erfahrung und Zielstrebigkeit waren für die Verteidigung der Usbekinnen nicht zu bewältigen. Ronaldo wurde nicht nur zum Torschützen, sondern auch zum Vorbild für sein Team, das durch ihn zu mehr Selbstbewusstsein und Aggressivität fand. \n\n## Das bedeutet das Ergebnis\n\nMit diesem klaren Sieg hat Portugal seine Ambitionen für die WM 2026 eindrucksvoll untermauert. Der hohe Sieg wird nicht nur das Selbstvertrauen der Spieler stärken, sondern auch als Warnsignal an die Konkurrenz dienen. Usbekistan hingegen steht vor einer großen Herausforderung, die Defensive zu stabilisieren und im weiteren Turnierverlauf wieder auf Kurs zu kommen. Beide Teams müssen nun in den kommenden Spielen an ihre ersten Auftritte anknüpfen. Portugal wird weiter um den Einzug in die K.o.-Phase kämpfen, während Usbekistan dringend Punkte sammeln muss, um die Hoffnungen auf ein Weiterkommen aufrechtzuerhalten.",
+  "createdAt": "2026-06-24T15:39:50.079Z",
+  "id": 1782315590079,
+  "matchId": "760461",
+  "match": {
+    "id": "760461",
+    "kickoff": "2026-06-23T17:00Z",
+    "phase": "Gruppenphase",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "attendance": 68777,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Portugal",
+      "abbr": "POR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "score": 5
+    },
+    "away": {
+      "name": "Usbekistan",
+      "abbr": "UZB",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+      "score": 0
+    },
+    "homeTeamId": "482",
+    "awayTeamId": "2570",
+    "goals": [
+      {
+        "minute": "6'",
+        "scorer": "Cristiano Ronaldo",
+        "teamId": "482",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "17'",
+        "scorer": "Nuno Mendes",
+        "teamId": "482",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "39'",
+        "scorer": "Cristiano Ronaldo",
+        "teamId": "482",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "60'",
+        "scorer": "Abduvohid Nematov",
+        "teamId": "482",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "87'",
+        "scorer": "Rafael Leão",
+        "teamId": "482",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

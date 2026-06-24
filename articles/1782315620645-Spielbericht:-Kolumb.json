@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Kolumbien 1:0 Congo DR",
+  "content": "# Kolumbien besiegt die DR Kongo mit 1:0 – Daniel Muñoz trifft zum entscheidenden Sieg\n\nIn einem nervenaufreibenden Duell setzte sich Kolumbien am Mittwochmorgen mit 1:0 gegen die DR Kongo durch. Das Spiel fand im Estadio Akron in Guadalajara statt und sorgte für spannende Momente vor 45.358 begeisterten Zuschauern. Der einzige Treffer des Spiels fiel in der 76. Minute und brachte Kolumbien den wichtigen Sieg in der Gruppenphase der WM 2026.\n\n## So lief das Spiel\n\nDas Spiel begann in der frühen Stunden deutscher Zeit mit viel Dramatik und intensiven Zweikämpfen. Beide Mannschaften traten entschlossen auf, um den ersten Sieg in diesem Turnier zu erringen. In der ersten Halbzeit gab es zahlreiche Bemühungen, jedoch konnten keine der beiden Mannschaften den Ball im Tor unterbringen. Trotz vieler angespannter Phasen blieb der Halbzeitstand von 0:0 bestehen.\n\nDie zweite Hälfte brachte dann die entscheidenden Momente. In der 76. Minute war es Daniel Muñoz, der sich ins Rampenlicht spielte. Mit einem präzisen und soliden Sprint über die rechte Flanke stellte er die Defensive der DR Kongo vor große Herausforderungen. Muñoz nutzte eine gelangweilte Abwehraktion des Gegners und sorgte dafür, dass der Ball zum ersten und entscheidenden Treffer des Spiels im Netz landete. Der Jubel unter den kolumbianischen Fans kannte keine Grenzen und schenkte ihrem Team frischen Auftrieb. Trotz der verbleibenden Zeit war DR Kongo nicht in der Lage, auf diesen Rückstand zu reagieren, und so blieb es beim 1:0 für Kolumbien.\n\n## Spieler des Spiels\n\nDer auffälligste Spieler des Abends war ohne Zweifel Daniel Muñoz. Seine Leistung war entscheidend dafür, dass Kolumbien den Platz mit einem Sieg verlassen konnte. Muñoz zeigte eine bemerkenswerte Übersicht und Effizienz, die es ihm ermöglichte, den entscheidenden Treffer zu erzielen. Seine Dynamik und Teamarbeit waren Schlüssel des kolumbianischen Spiels und verschafften ihm den Status des Matchwinners.\n\n## Das bedeutet das Ergebnis\n\nMit diesem knappen, aber wichtigen Sieg verschafft sich Kolumbien einen vielversprechenden Start in die Gruppenphase der WM 2026. Der Sieg könnte sich in den nächsten Vorrundenspielen als entscheidend erweisen, da das gesamte Team mit viel Selbstvertrauen agieren wird. Während die DR Kongo weiterhin nach ihrem ersten Punkt im Turnier sucht, hat Kolumbien die Möglichkeit, seine Position in der Gruppe zu festigen und könnte auf dem Weg zu den K.-o.-Runden einen entscheidenden Vorteil gewinnen. Die Spannung bleibt hoch und die Fußballwelt blickt gespannt auf die kommenden Spiele.",
+  "createdAt": "2026-06-24T15:40:20.645Z",
+  "id": 1782315620645,
+  "matchId": "760459",
+  "match": {
+    "id": "760459",
+    "kickoff": "2026-06-24T02:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Estadio Akron",
+    "city": "Guadalajara",
+    "attendance": 45358,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Kolumbien",
+      "abbr": "COL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Congo DR",
+      "abbr": "COD",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+      "score": 0
+    },
+    "homeTeamId": "208",
+    "awayTeamId": "2850",
+    "goals": [
+      {
+        "minute": "76'",
+        "scorer": "Daniel Muñoz",
+        "teamId": "208",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

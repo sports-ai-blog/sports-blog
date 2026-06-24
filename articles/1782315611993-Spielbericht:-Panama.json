@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Panama 0:1 Kroatien",
+  "content": "# Kroatien bezwingt Panama mit 1:0 – Budimir sichert den knappen Sieg\n\nIn einem hart umkämpften Duell in der Gruppenphase der WM 2026 setzte sich Kroatien in einem spannenden Match gegen Panama mit 1:0 durch. Ante Budimir erlöste die kroatische Mannschaft mit einem Treffer in der 54. Minute und führte sein Team damit zum ersten wichtigen Sieg im Turnier. Das Spiel fand im bestens gefüllten BMO Field in Toronto statt, wo 43.036 Zuschauer ihren Platz fanden, um diesen packenden Kampf zu erleben.\n\n## So lief das Spiel\n\nDas Duell zwischen Kroatien und Panama begann zunächst mit einer abtastenden Phase, in der beide Teams versuchten, den Gegner zu analysieren und sich taktisch richtig zu positionieren. Trotz der anfänglichen Nervosität konnten keine nennenswerten Torchancen herausgespielt werden. Die erste Halbzeit endete ohne Tore, und beide Mannschaften mussten sich somit mit einem 0:0 zur Halbzeitpause beg zufrieden geben.\n\nNach dem Seitenwechsel kam dann der entscheidende Moment der Partie: In der 54. Minute war es Ante Budimir, der die Löcher in der panamaischen Defensive ausnutzte und den Ball im Netz versenkte. Sein Treffer bescherte Kroatien die Führung und das nötige Selbstvertrauen, um das Aufeinandertreffen zu kontrollieren. Trotz mehrerer Anläufe konnte Panama keine Antwort auf den Rückstand finden und blieb in der Offensive blass. Kroatien verwaltete das Spiel souverän und ließ den Gegner nur selten in aussichtsreiche Positionen kommen.\n\nDie Schlussphase des Spiels war geprägt von einem verzweifelten Versuch Panamas, den Ausgleich zu erzielen, doch Kroatien verteidigte clever und überließ der panamaischen Offensive kaum Raum für kreative Lösungen. Letztlich endete die Begegnung mit einem knappen 1:0 für Kroatien, welches für beide Teams unterschiedliche Bedeutung mit sich bringt.\n\n## Spieler des Spiels\n\nDer unbestrittene Spieler des Spiels war Ante Budimir. Mit seinem entscheidenden Tor in der 54. Minute erwies er sich als Schlüsselspieler für Kroatien. Sein kaltblütiger Abschluss spiegelte die Effizienz wider, die das kroatische Team auszeichnet. Budimir stellte sich mutig den Herausforderungen der panamaischen Abwehr und war stets bemüht, das Geschehen zu dominieren. Seine Leistung trug maßgeblich zum Sieg bei und zeigt, wie wichtig er in der Offensive für die Kroaten sein kann.\n\n## Das bedeutet das Ergebnis\n\nDer knappe Sieg gibt Kroatien wertvolle drei Punkte und damit einen starken Start in die Gruppenphase. Dieser Erfolg stärkt das Selbstvertrauen der Spieler und könnte ihnen im weiteren Verlauf des Turniers den gewünschten Aufschwung geben. Für Panama hingegen ist die Niederlage ein Rückschlag beim Streben nach Punkten in der Gruppe. Sie müssen nun überlegen, wie sie im nächsten Spiel agieren, um die Chancen auf ein Weiterkommen zu wahren. Der Wettkampf in dieser Gruppe bleibt somit spannend und könnte in den kommenden Spielen noch viele Überraschungen bereit halten.",
+  "createdAt": "2026-06-24T15:40:11.993Z",
+  "id": 1782315611993,
+  "matchId": "760460",
+  "match": {
+    "id": "760460",
+    "kickoff": "2026-06-23T23:00Z",
+    "phase": "Gruppenphase",
+    "venue": "BMO Field",
+    "city": "Toronto",
+    "attendance": 43036,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Panama",
+      "abbr": "PAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Kroatien",
+      "abbr": "CRO",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+      "score": 1
+    },
+    "homeTeamId": "2659",
+    "awayTeamId": "477",
+    "goals": [
+      {
+        "minute": "54'",
+        "scorer": "Ante Budimir",
+        "teamId": "477",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
