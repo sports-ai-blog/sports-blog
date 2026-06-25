@@ -1,0 +1,80 @@
+{
+  "title": "Spielbericht: Marokko 4:2 Haiti",
+  "content": "# Marokko besiegt Haiti in spektakulärem Schützenfest mit 4:2\n\nIn einem hitzigen Duell bei der WM 2026 im Mercedes-Benz Stadium von Atlanta, Georgia, setzten sich die marokkanischen Kicker gegen Haiti mit 4:2 durch. Das Spiel bot den 68.239 Zuschauern ein wahres Spektakel, geprägt von Torrausch und spannenden Wendungen. Beide Teams zeigten eine leidenschaftliche Leistung, die das Vorfeld ihrer WM-Kampagnen eindrucksvoll unterstrich.\n\n## So lief das Spiel\n\nDas Match begann mit einem unerwarteten Rückschlag für Haiti. Bereits in der 10. Minute fiel das erste Tor, jedoch nicht durch ein marokkanisches Bein: Yassine Bounou, der haitianische Keeper, sorgte mit einem missglückten Abwehrversuch für ein Eigentor. Marokko ging also früh in Führung, doch Haiti ließ sich nicht entmutigen und kämpfte weiter.\n\nIn der 39. Minute war es Achraf Hakimi, der die marokkanischen Fans mit einem präzisen Schuss jubeln ließ und den Ausgleich für sein Team erzielte. Die Freude währte jedoch nur kurz, denn nur vier Minuten später war es Wilson Isidor, der erneut für Haiti traf und die Führung mit einem tollen Abschluss zurückholte. Mit dem 2:1 für Haiti schien das Spiel zu kippen.\n\nDie Schlussphase der ersten Halbzeit war jedoch von dramatischer Natur. In der Nachspielzeit, genauer gesagt in der 45.+1 Minute, schockte Ismael Saibari die haitianischen Spieler und Fans mit dem erneuten Ausgleich zum 2:2. Die erste Halbzeit endete damit äußerst ausgeglichen und ließ die Zuschauer auf eine packende zweite Halbzeit hoffen.\n\nIn der zweiten Halbzeit übernahmen die Marokkaner schließlich das Zepter. In der 78. Minute schnürte Soufiane Rahimi einen prächtigen Treffer und stellte den Spielstand auf 3:2 zu Gunsten von Marokko. Die Haitianer zeigten zwar weiterhin Einsatzwillen, konnten jedoch den Druck der marokkanischen Offensive nicht mehr standhalten. Den Schlusspunkt setzte in der 89. Minute Gessime Yassine mit seinem Treffer zum 4:2, der die Hoffnungen Haitis auf ein Comeback endgültig begrub.\n\n## Spieler des Spiels\n\nDie MVP-Auszeichnung dieses spannenden Spiels gebührt ohne Zweifel Achraf Hakimi. Mit seinem Tor zum 1:1 bewies der schnelle Flügelspieler nicht nur seine Fähigkeit, in entscheidenden Momenten zu liefern, sondern war auch über die gesamte Spielzeit eine ständige Gefahr für die haitianische Abwehr. Hakimis Dynamik und Technik machten ihn zu einem Schlüsselfaktor im marokkanischen Angriffsspiel und trugen maßgeblich zu dem letztlich verdienten Sieg bei.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg zementiert Marokko seine Ambitionen in der Gruppenphase der WM 2026 und zeigt eine starke Leistung, die Mut für die kommenden Spiele macht. Haiti hingegen wird gezwungen sein, ihre Defensive zu überdenken, um in den verbleibenden Begegnungen möglichst viele Punkte zu sammeln. Die Fans beider Nationen können sich auf weitere aufregende Spiele freuen, während sich der Wettbewerb zuspitzt und die Teams um den Einzug in die K.o.-Runde kämpfen.",
+  "createdAt": "2026-06-25T16:08:07.318Z",
+  "id": 1782403687318,
+  "matchId": "760464",
+  "match": {
+    "id": "760464",
+    "kickoff": "2026-06-24T22:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 68239,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Marokko",
+      "abbr": "MAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+      "score": 4
+    },
+    "away": {
+      "name": "Haiti",
+      "abbr": "HAI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+      "score": 2
+    },
+    "homeTeamId": "2869",
+    "awayTeamId": "2654",
+    "goals": [
+      {
+        "minute": "10'",
+        "scorer": "Yassine Bounou",
+        "teamId": "2654",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "39'",
+        "scorer": "Achraf Hakimi",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "43'",
+        "scorer": "Wilson Isidor",
+        "teamId": "2654",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "45'+1'",
+        "scorer": "Ismael Saibari",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "78'",
+        "scorer": "Soufiane Rahimi",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "89'",
+        "scorer": "Gessime Yassine",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

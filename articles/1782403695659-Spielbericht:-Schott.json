@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Schottland 0:3 Brasilien",
+  "content": "# Brasilien besiegt Schottland klar mit 3:0 – Vinícius Júnior überragend\n\nIn einem mitreißenden Auftaktspiel der Gruppenphase bei der WM 2026 setzte sich Brasilien mit 3:0 gegen Schottland durch. Vor 64.478 Zuschauern im Hard Rock Stadium in Miami Gardens, Florida, zeigten die Brasilianer eine beeindruckende Leistung, wobei der Star des Abends gleich zweimal in der ersten Halbzeit für das Toreschießen sorgte.\n\n## So lief das Spiel\n\nBereits in der 7. Minute dauerte es nicht lange, bis die Brasilianer ihren ersten Nadelstich setzten: Vinícius Júnior netzte zum 1:0 ein und sorgte damit für die frühe Führung. Die schottische Defensive hatte Mühe, sich auf den dribbelstarken Stürmer einzustellen, und es war schnell klar, dass Brasilien im Spiel die Oberhand hatte.\n\nDie ersten 45 Minuten dominierte Brasilien das Geschehen, und kurz vor dem Halbzeitpfiff, in der Nachspielzeit der ersten Hälfte, wurde Vinícius Júnior erneut entscheidend. Mit einem Kopfball, der die Schottland-Abwehr kalt erwischte, stellte er in der 45'+3' Minute auf 2:0. Taktisch klug und mit einem wachen Spielverständnis nutzte er die Gelegenheit eiskalt und machte den Schotten das Leben schwer.\n\nNach dem Seitenwechsel kam Brasilien weiterhin intensiv aus der Kabine und baute die Führung in der 60. Minute durch Matheus Cunha weiter aus, der zum 3:0 traf. Die Schotten versuchten, sich zu wehren, doch die Kontrolle und die Effizienz, mit der die Brasilianer ihre Chancen nutzten, war zu stark.\n\n## Spieler des Spiels\n\nVinícius Júnior war der unbestrittene Spieler des Spiels. Mit seinen beiden Toren in der ersten Halbzeit stellte er die Weichen für den brasilianischen Sieg. Seine explosiven Dribblings und seine Fähigkeit, sich im richtigen Moment am richtigen Ort zu befinden, machten ihn zum Alptraum für die schottische Abwehr. Er bewies nicht nur seine Torgefährlichkeit, sondern auch seine Rolle als Schlüsselspieler in der brasilianischen Offensive.\n\n## Das bedeutet das Ergebnis\n\nMit diesem klaren Sieg haben die Brasilianer einen perfekten Start in das Turnier hingelegt. Der 3:0-Erfolg über Schottland stellt ein starkes Signal an die Konkurrenz dar und festigt die Rolle Brasiliens als einen der Favoriten in diesem Turnier. Schottland hingegen steht vor der Herausforderung, sich nach dieser Niederlage zu berappeln und in den kommenden Spielen dringend Punkte zu sammeln, um ihre Chance auf ein Weiterkommen in der Gruppenphase zu wahren. Der Druck steigt, und die Augen sind nun auf die nächsten Spiele gerichtet.",
+  "createdAt": "2026-06-25T16:08:15.659Z",
+  "id": 1782403695659,
+  "matchId": "760465",
+  "match": {
+    "id": "760465",
+    "kickoff": "2026-06-24T22:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64478,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Schottland",
+      "abbr": "SCO",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Brasilien",
+      "abbr": "BRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "score": 3
+    },
+    "homeTeamId": "580",
+    "awayTeamId": "205",
+    "goals": [
+      {
+        "minute": "7'",
+        "scorer": "Vinícius Júnior",
+        "teamId": "205",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "45'+3'",
+        "scorer": "Vinícius Júnior",
+        "teamId": "205",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "60'",
+        "scorer": "Matheus Cunha",
+        "teamId": "205",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Schweiz 2:1 Kanada",
+  "content": "# Schweiz setzt sich gegen Kanada mit 2:1 durch – ein spannender Auftakt in die WM 2026\n\nIn einem mitreißenden Duell zwischen der Schweiz und Kanada erkämpften sich die Eidgenossen am Mittwochabend im BC Place in Vancouver einen 2:1-Sieg in der Gruppenphase der WM 2026. Mit einem Aufeinandertreffen voller Intensität und Emotionen vor 52.497 begeisterten Zuschauern zeigten beide Teams, dass sie gewillt sind, in diesem Turnier groß aufzutrumpfen. \n\n## So lief das Spiel\n\nDie Partie begann zunächst ohne nennenswerte Höhepunkte. Beide Teams waren darauf bedacht, ihre Defensive zu organisieren und überlegten, wie sie den ersten Zug in diesem wichtigen Gruppenspiel machen könnten. Das erste torreiche Kapitel des Spiels wurde dann erst nach der Halbzeitpause aufgeschlagen.\n\nIm direkten Anschluss an den Seitenwechsel, in der 46. Minute, war es Rubén Vargas, der für die Schweiz zum ersten Mal im Spiel traf. Mit seinem Tor setzte er ein Zeichen und brachte die Schweizer Fans zum Jubeln. Nur elf Minuten später, in der 57. Minute, folgte der zweite Nackenschlag für die kanadische Abwehr, als Johan Manzambi für die Schweiz auf 2:0 erhöhte. Die Gautier-Transit war auf einmal voll im Gange und die Schweizer Mannschaft hatte die Kontrolle übernommen.\n\nTrotz des Rückstands gab jedoch Kanada nicht auf. In der 76. Minute gelang Promise David der Anschlusstreffer, der die Partie wieder spannend machte. Mit diesem Tor schöpfte Kanada neue Hoffnung und die Atmosphäre im Stadion kochte. Trotz Anstrengungen der Kanadier reichte es nicht mehr, um den Ausgleich zu erzielen. \n\n## Spieler des Spiels\n\nBesonders hervorzuheben ist Rubén Vargas, der nicht nur das erste Tor des Spiels erzielte, sondern damit auch den Weg für den Sieg der Schweiz ebnete. Sein Beitrag war entscheidend für den Momentumwechsel in der zweiten Halbzeit. Vargas' Spielintelligenz und sein Mut machten ihn zum Schlüsselspieler bei den Eidgenossen, die trotz der zwischenzeitlichen Druckphase der Kanadier am Sieg festhielten.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg setzt sich die Schweiz in der Gruppenphase der WM 2026 optimal in Szene. Die drei Punkte sind entscheidend, um die Richtung für das Turnier vorzugeben. Kanada hingegen steht vor der Herausforderung, sich nach dieser knappen Niederlage zu berappeln und aus den folgenden Spielen die notwendige Stärke zu schöpfen, um ihre WM-Träume weiterhin am Leben zu halten. Das Turnier ist erst am Anfang, und die nächsten Spiele werden zeigen, wer sich letztendlich für die K.o.-Runde qualifizieren kann.",
+  "createdAt": "2026-06-25T16:07:58.261Z",
+  "id": 1782403678261,
+  "matchId": "760463",
+  "match": {
+    "id": "760463",
+    "kickoff": "2026-06-24T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "attendance": 52497,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Schweiz",
+      "abbr": "SUI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Kanada",
+      "abbr": "CAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+      "score": 1
+    },
+    "homeTeamId": "475",
+    "awayTeamId": "206",
+    "goals": [
+      {
+        "minute": "46'",
+        "scorer": "Rubén Vargas",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "57'",
+        "scorer": "Johan Manzambi",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "76'",
+        "scorer": "Promise David",
+        "teamId": "206",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

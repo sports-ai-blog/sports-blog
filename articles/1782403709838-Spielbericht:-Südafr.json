@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Südafrika 1:0 Südkorea",
+  "content": "# Südafrika besiegt Südkorea mit 1:0 – Maseko sichert den Sieg in der Gruppenphase\n\nIn einem packenden Duell der Gruppenphase der WM 2026 setzte sich die südafrikanische Nationalmannschaft am Donnerstag, dem 25. Juni, mit 1:0 gegen Südkorea durch. Die Partie, die im Estadio BBVA in Guadalupe vor 51.243 begeisterten Zuschauern stattfand, bot Spannung und hohe Intensität, ehe Thapelo Maseko in der zweiten Halbzeit den entscheidenden Treffer erzielte.\n\n## So lief das Spiel\n\nDie erste Halbzeit war geprägt von einem intensiven Geschiebe im Mittelfeld, ohne dass es jedoch zu nennenswerten Torchancen auf beiden Seiten kam. Beide Mannschaften hatten ihre Defensiven gut im Griff, was zu einem torlosen Remis zur Halbzeitpause führte.\n\nNach dem Seitenwechsel zeigte sich Südafrika entschlossener und wirkte frischer. Der Bann brach schließlich in der 63. Minute: Thapelo Maseko erlöste die südafrikanischen Fans mit einem präzisen Schuss, der für den gegnerischen Torwart nicht zu halten war. Mit diesem Treffer brachte er Südafrika in Führung und setzte dem Spiel eine entscheidende Wendung auf dem Spielfeld.\n\nIn den verbleibenden Minuten setzten die Südkoreaner alles daran, den Ausgleich zu erzielen, doch die südafrikanische Abwehr hielt stand. Trotz einiger offensiver Versuche der Asiaten blieb es am Ende beim 1:0 für Südafrika, ein Ergebnis, das den Spieler und die gesamte Mannschaft jubeln ließ.\n\n## Spieler des Spiels\n\nDer auffälligste Akteur war ohne Zweifel Thapelo Maseko. Mit seinem entscheidenden Tor in der 63. Minute stellte er nicht nur die Weichen für den Sieg, sondern bewies auch seine Fähigkeit, in entscheidenden Momenten zu glänzen. Maseko war während des Spiels stets anspielbar und trug maßgeblich zur Offensive seines Teams bei. Sein Tor war der Lohn für seine engagierte Leistung und machte ihn zum Helden des Abends.\n\n## Das bedeutet das Ergebnis\n\nMit diesem vielumkämpften Sieg gegen Südkorea setzt sich Südafrika in der Gruppenphase der WM 2026 deutlich im Rennen um die nächsten Runde ab. Der Sieg gibt dem Team nicht nur das nötige Selbstvertrauen, sondern ist auch ein wichtiger Schritt in Richtung der Qualifikation für die K.o.-Runde. Südkorea hingegen muss sich nach dieser Niederlage weiter steigern, um ihre Chancen im Turnier zu wahren. Die nächsten Spiele versprechen Spannung, während sich die Teams auf dem Weg zur Titelvergabe weiter beweisen müssen.",
+  "createdAt": "2026-06-25T16:08:29.838Z",
+  "id": 1782403709838,
+  "matchId": "760466",
+  "match": {
+    "id": "760466",
+    "kickoff": "2026-06-25T01:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "attendance": 51243,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Südafrika",
+      "abbr": "RSA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Südkorea",
+      "abbr": "KOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+      "score": 0
+    },
+    "homeTeamId": "467",
+    "awayTeamId": "451",
+    "goals": [
+      {
+        "minute": "63'",
+        "scorer": "Thapelo Maseko",
+        "teamId": "467",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

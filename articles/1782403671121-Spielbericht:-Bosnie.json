@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Bosnien-Herzegowina 3:1 Katar",
+  "content": "# Bosnien-Herzegowina besiegt Katar mit 3:1 in Seattle\n\nIm Lumen Field von Seattle zeigte Bosnien-Herzegowina eine starke Leistung in ihrem Gruppenspiel gegen Katar und sicherte sich einen 3:1-Sieg. Mit den Augen der Welt auf sich gerichtet, glänzten die Bosnier und hinterließen einen bleibenden Eindruck in der Gruppenphase der WM 2026.\n\n## So lief das Spiel\n\nDer Anstoß fand am Mittwoch, den 24. Juni 2026, um 21:00 Uhr deutscher Zeit statt. Schon in der ersten Halbzeit zeigten die Bosnier ihre Ambitionen. In der 29. Minute eröffnete Kerim Alajbegovic den Torreigen mit einem präzisen Treffer. Nur fünf Minuten später, in der 34. Minute, erhöhten die Bosnier durch ein unglückliches Eigentor von Mahmoud Abunada auf 2:0. Doch Katar gab sich nicht geschlagen und antwortete kurz vor der Halbzeit, als Hassan Al-Haydos in der 42. Minute den Anschluss zum 1:2 erzielte. \n\nIn der zweiten Hälfte hatten beide Teams Chancen, doch es war Bosnien-Herzegowina, das in der 80. Minute entscheidend zuschlug. Ermin Mahmic stellte mit seinem Treffer auf 3:1 und sicherte damit den klaren Erfolg. Das Spiel endete vor 66.925 Zuschauern in atemberaubender Atmosphäre, die das Team aus Bosnien-Herzegowina lautstark unterstützten.\n\n## Spieler des Spiels\n\nKerim Alajbegovic war zweifellos einer der herausragenden Spieler des Abends. Als Torschütze des ersten Treffers bewies er seine Offensivstärke und legte den Grundstein für den Sieg seines Teams. Auch Ermin Mahmic zeigte sich als wichtiges Puzzlestück, da er den endgültigen Treffer zum 3:1 erzielte. Beide Spieler trugen maßgeblich zum Erfolg von Bosnien-Herzegowina bei und demonstrierten eindrucksvoll ihre Fähigkeiten auf der großen Bühne.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg positioniert sich Bosnien-Herzegowina in der Gruppenphase der WM 2026 gut und rankt sich unter den Favoriten für die nächsten Spiele. Der Sieg gibt dem Team nicht nur Selbstvertrauen, sondern auch die nötige momentum für die kommenden Herausforderungen im Turnierverlauf. Katar wird nach dieser Niederlage gefordert sein, sich neu zu orientieren und die nächsten Spiele mit frischem Elan anzugehen. Die Zuschauer können sich auf spannende Begegnungen in dieser hochkarätigen WM freuen.",
+  "createdAt": "2026-06-25T16:07:51.121Z",
+  "id": 1782403671121,
+  "matchId": "760462",
+  "match": {
+    "id": "760462",
+    "kickoff": "2026-06-24T19:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "attendance": 66925,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Bosnien-Herzegowina",
+      "abbr": "BIH",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Katar",
+      "abbr": "QAT",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
+      "score": 1
+    },
+    "homeTeamId": "452",
+    "awayTeamId": "4398",
+    "goals": [
+      {
+        "minute": "29'",
+        "scorer": "Kerim Alajbegovic",
+        "teamId": "452",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "34'",
+        "scorer": "Mahmoud Abunada",
+        "teamId": "452",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "42'",
+        "scorer": "Hassan Al-Haydos",
+        "teamId": "4398",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "80'",
+        "scorer": "Ermin Mahmic",
+        "teamId": "452",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
