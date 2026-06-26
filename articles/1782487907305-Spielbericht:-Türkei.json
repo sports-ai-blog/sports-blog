@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Türkei 3:2 USA",
+  "content": "# Türkei besiegt USA in einem dramatischen Duell mit 3:2\n\nIn einem packenden und hochintensiven Gruppenspiel der WM 2026 setzte sich die Türkei mit 3:2 gegen die USA durch. Die Partie, die am Freitag, den 26. Juni 2026, um 04:00 Uhr deutscher Zeit im SoFi Stadium in Inglewood, Kalifornien, stattfand, zog 70.492 Zuschauer in ihren Bann. Von Beginn an war es ein Spiel voller Emotionen und Leidenschaft, bei dem jeder Moment entscheidend war. \n\n## So lief das Spiel\n\nDie Begegnung begann mit einem Paukenschlag: Bereits in der 3. Minute sorgte Auston Trusty für die frühe Führung der USA, was die vereinten Fans im Stadion jubeln ließ. Doch die Freude der US-Amerikaner währte nicht lange. Nur sieben Minuten später glich Arda Güler für die Türkei aus (10.). In der 31. Minute stellte Baris Alper Yilmaz mit seinem Treffer die Weichen auf Sieg für die Türkei, die nun mit 2:1 in Führung ging.\n\nNach der Halbzeitpause drückte die US-Auswahl auf den Ausgleich. In der 49. Minute war es Sebastian Berhalter, der den Ausgleich erzielte und das Spiel auf 2:2 stellte – ein echter Nackenschlag für die Türkei. Doch das dramatische Ende dieses Spiels war noch lange nicht erreicht. In der Nachspielzeit, genauer gesagt in der 90. Minute + 8, brachte Kaan Ayhan die türkische Mannschaft mit seinem Treffer zurück in Führung und sicherte den 3:2-Sieg.\n\n## Spieler des Spiels\n\nBesonders hervorzuheben ist Kaan Ayhan, der in der letzten Minute des Spiels als Held der Türkei auftrat. Sein entscheidendes Tor in der Nachspielzeit ließ die Herzen der türkischen Fans höher schlagen und verhalf der Türkei zu einem wichtigen Sieg in der Gruppenphase. Ayhans Leistung war nicht nur entscheidend für das Ergebnis, sondern zeugt auch von seinem unermüdlichen Einsatzgeist und seiner Fähigkeit, in Drucksituationen zu glänzen.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg gegen die USA ist ein entscheidender Schritt für die Türkei im Wettlauf um die K.o.-Runde. Mit diesem wichtigen Erfolg sichern sich die Türken wertvolle Punkte in der Gruppenphase und schaffen somit eine gute Ausgangsposition für die nächsten Spiele. Für die USA hingegen wird die Aufgabe in den kommenden Begegnungen nicht einfacher, denn dieser Rückschlag könnte sich als kostspielig erweisen, wenn sie ihre Ambitionen auf eine erfolgreiche WM-Teilnahme wahren wollen. Beide Teams stehen vor Herausforderungen, die den weiteren Verlauf des Turniers entscheidend beeinflussen könnten.",
+  "createdAt": "2026-06-26T15:31:47.305Z",
+  "id": 1782487907305,
+  "matchId": "760470",
+  "match": {
+    "id": "760470",
+    "kickoff": "2026-06-26T02:00Z",
+    "phase": "Gruppenphase",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "attendance": 70492,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Türkei",
+      "abbr": "TUR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+      "score": 3
+    },
+    "away": {
+      "name": "USA",
+      "abbr": "USA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "score": 2
+    },
+    "homeTeamId": "465",
+    "awayTeamId": "660",
+    "goals": [
+      {
+        "minute": "3'",
+        "scorer": "Auston Trusty",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "10'",
+        "scorer": "Arda Güler",
+        "teamId": "465",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "31'",
+        "scorer": "Baris Alper Yilmaz",
+        "teamId": "465",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "49'",
+        "scorer": "Sebastian Berhalter",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+8'",
+        "scorer": "Kaan Ayhan",
+        "teamId": "465",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

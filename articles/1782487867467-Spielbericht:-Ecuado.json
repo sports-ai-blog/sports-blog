@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Ecuador 2:1 Deutschland",
+  "content": "# Ecuador bezwingt Deutschland mit 2:1 – Ein spannender Gruppenphasenkrimi in New Jersey\n\nIn einer packenden Begegnung der Gruppenphase der WM 2026 trafen im MetLife Stadium, East Rutherford, Ecuador und Deutschland aufeinander. Die Südamerikaner konnten nach einem spannenden Spiel die deutsche Auswahl mit 2:1 besiegen und sorgten so für eine kleine Sensation. Vor 80.663 begeisterten Zuschauern entwickelte sich ein hart umkämpfter Abend, der für beide Teams von großer Bedeutung sein könnte.\n\n## So lief das Spiel\n\nDer Anstoß zum Match erfolgte am Donnerstag, den 25. Juni 2026, um 22:00 Uhr deutscher Zeit. Die Partie begann fulminant und ließ die Fans auf der Tribüne jubeln. Bereits in der 2. Minute ließ Leroy Sané die deutschen Anhänger aufhorchen, als er mit einem frühen Treffer für die Führung sorgte. Doch die Freude auf Seiten der DFB-Elf währte nur kurz. Nur seven Minuten später, in der 9. Minute, war es Nilson Angulo, der für Ecuador ausglich und die Ecuadoreaner zurück ins Spiel brachte.\n\nIn der ersten Halbzeit entwickelte sich ein intensives Duell, in dem beide Teams um jeden Ball kämpften. Trotz einiger Möglichkeiten auf beiden Seiten blieb es bis zur Halbzeitpause beim 1:1. Die Spannung war greifbar, und die Zuschauer erwarteten mit Vorfreude die zweite Halbzeit.\n\nDer zweite Durchgang schien zunächst wenig spektakulär, doch das Blatt wendete sich in der 77. Minute. Gonzalo Plata sorgte für das 2:1 zugunsten Ecuadors und ließ die Herzen der ecuadorianischen Fans höher schlagen. Deutschland hatte zwar noch einige Minuten Zeit, um zu reagieren, doch der Ausgleich wollte einfach nicht gelingen. So blieb es bis zum Schlusspfiff beim 2:1 für Ecuador.\n\n## Spieler des Spiels\n\nGonzalo Plata war ohne Zweifel der auffälligste Spieler des Abends. Mit seinem entscheidenden Tor in der 77. Minute verwandelte er das Schicksal des Spiels und sicherte Ecuador einen wichtigen Sieg gegen die deutsche Nationalmannschaft. Sein Einsatz und seine Spielfreude trugen maßgeblich zum Erfolg des Teams bei und machten ihn zum Spieler des Spiels.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg hat Ecuador ein wichtiges Zeichen in der Gruppenphase gesetzt und sich in einer potenziell schwierigen Gruppe einen Vorteil verschafft. Für Deutschland wird die Situation nach diesem Ergebnis herausfordernder, da jede weitere Niederlage die Hoffnungen auf ein Weiterkommen erheblich schmälern könnte. Die Fans beider Nationalmannschaften dürfen sich auf spannende Begegnungen im weiteren Verlauf des Turniers freuen, während Ecuador mit neuem Selbstbewusstsein auf die kommenden Herausforderungen zusteuert.",
+  "createdAt": "2026-06-26T15:31:07.467Z",
+  "id": 1782487867467,
+  "matchId": "760468",
+  "match": {
+    "id": "760468",
+    "kickoff": "2026-06-25T20:00Z",
+    "phase": "Gruppenphase",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Ecuador",
+      "abbr": "ECU",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Deutschland",
+      "abbr": "GER",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+      "score": 1
+    },
+    "homeTeamId": "209",
+    "awayTeamId": "481",
+    "goals": [
+      {
+        "minute": "2'",
+        "scorer": "Leroy Sané",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "9'",
+        "scorer": "Nilson Angulo",
+        "teamId": "209",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "77'",
+        "scorer": "Gonzalo Plata",
+        "teamId": "209",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

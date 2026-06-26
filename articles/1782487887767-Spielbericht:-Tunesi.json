@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Tunesien 1:3 Niederlande",
+  "content": "# Niederlande besiegt Tunesien mit 3:1 – Ein furioser Auftakt in die WM 2026!\n\nIn einem packenden Duell in Kansas City sorgten die Niederlande am Freitag, dem 26. Juni 2026, um 01:00 Uhr deutscher Zeit für einen eindrucksvollen Auftakt in die Gruppenphase der WM 2026. Mit einem klaren 3:1-Sieg über Tunesien setzten die Oranjes ein echtes Ausrufezeichen und übernahmen früh im Spiel die Kontrolle. Vor 68.391 begeisterten Zuschauern im GEHA Field at Arrowhead Stadium durften die Fans eine spannende Begegnung voller Emotionen, Dramatik und Tore erleben.\n\n## So lief das Spiel\n\nDie Partie begann mit einem frühen Schock für die Niederlande. Bereits in der 3. Minute gelang Ellyes Skhiri ein unglückliches Eigentor, das den Tunesiern einen psychologischen Vorteil verschaffte. Doch die Antwort der Niederländer ließ nicht lange auf sich warten. Nur vier Minuten später, in der 7. Minute, stellte Brian Brobbey den Ausgleich her und sorgte damit für einen Stimmungsumschwung in der niederländischen Offensive. Die Mannschaft zeigte sich schnell gefasst und setzte Tunesien weiter unter Druck.\n\nBis zur Halbzeitpause dominierten die Niederländer das Geschehen auf dem Platz. Es war ein hart umkämpfter Abend, in dem die Tunesier zwar versuchten, ihr Spiel aufzuziehen, jedoch oft an der kompakten niederländischen Defensive scheiterten. Erst in der zweiten Halbzeit, genauer gesagt in der 54. Minute, war es Hazem Mastouri, der für Tunesien per Kopfball traf und damit die Hoffnung auf eine Wende zurückbrachte. Doch auch diese Euphorie währte nur kurz, denn Jan Paul van Hecke stellte in der 62. Minute den alten Abstand wieder her und machte das 3:1 für die Niederlande. Mit diesem Treffer schlossen die Niederlande die Partie letztendlich ab und sicherten sich die drei Punkte.\n\n## Spieler des Spiels\n\nBesonders hervorgetan hat sich Brian Brobbey, der mit seinem frühen Tor entscheidend zum Sieg der Niederländer beitrug. Durch seine brillante Technik und Schnelligkeit stellte er die tunesische Abwehr vor große Herausforderungen und trug aktiv zur stabilen Offensive bei. Brobbeys Präsenz auf dem Platz war unübersehbar und machte ihn zum Spieler des Spiels – seine Leistung wurde von den Fans begeistert gefeiert.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wichtigen Sieg haben die Niederländer einen bedeutenden Schritt in Richtung der nächsten Runde gemacht. Die drei Punkte sind ein entscheidender Baustein auf dem Weg zum Erreichen der K.O.-Phase. Für Tunesien hingegen bleibt es, trotz des Kampfgeistes und des zwischenzeitlichen Treffers, eine schwierige Aufgabe, sich in dieser stark umkämpften Gruppe zu behaupten. Die Tür zur Hoffnung bleibt jedoch offen – es wird spannend sein zu beobachten, wie sich beide Teams in den kommenden Partien schlagen.",
+  "createdAt": "2026-06-26T15:31:27.767Z",
+  "id": 1782487887767,
+  "matchId": "760472",
+  "match": {
+    "id": "760472",
+    "kickoff": "2026-06-25T23:00Z",
+    "phase": "Gruppenphase",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "attendance": 68391,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Tunesien",
+      "abbr": "TUN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Niederlande",
+      "abbr": "NED",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "score": 3
+    },
+    "homeTeamId": "659",
+    "awayTeamId": "449",
+    "goals": [
+      {
+        "minute": "3'",
+        "scorer": "Ellyes Skhiri",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      },
+      {
+        "minute": "7'",
+        "scorer": "Brian Brobbey",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "54'",
+        "scorer": "Hazem Mastouri",
+        "teamId": "659",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "62'",
+        "scorer": "Jan Paul van Hecke",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

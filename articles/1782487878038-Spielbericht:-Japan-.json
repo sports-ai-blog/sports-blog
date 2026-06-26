@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Japan 1:1 Schweden",
+  "content": "# Japan und Schweden trennen sich leistungsgerecht 1:1\n\nIn einem hart umkämpften Duell der Gruppenphase der WM 2026 haben sich Japan und Schweden am Freitag, den 26. Juni, mit einem Unentschieden 1:1 getrennt. Das Spiel im AT&T Stadium in Arlington, Texas, vor 70.137 begeisterten Zuschauern, bot Spannung und dramatische Momente.\n\n## So lief das Spiel\n\nDie Partie begann intensiv, ohne dass sich jedoch bis zur Halbzeitpause ein klarer Vorteil für eines der Teams herauskristallisierte. Beide Mannschaften agierten defensiv stark und ließen wenig Raum für gefährliche Aktionen. Die ersten 45 Minuten endeten folgerichtig ohne Tore, die Zuschauer mussten sich bis zur zweiten Halbzeit gedulden, um die ersten Treffer zu sehen.\n\nIn der 56. Minute war es schließlich Daizen Maeda, der für Japan jubeln durfte. Mit einem präzisen Abschluss brachte er sein Team in Führung und sorgte für einen ersten Höhepunkt der Begegnung. Japan schien in dieser Phase das bessere Team zu sein, doch die Schweden ließen sich nicht entmutigen und antworteten nur wenige Minuten später.\n\nAnthony Elanga sorgte in der 62. Minute für den Ausgleich und stellte den Spielverlauf auf den Kopf. Mit einem energischen Spielzug und einer engagierten Vorstellung ließ er Japans Abwehr keine Chance und bescherte seinem Team den verdienten Ausgleich. Es war ein echter Kopf-an-Kopf-Kampf, der die Spannung im Stadion weiter anheizte.\n\nIn der verbleibenden Spielzeit hatten beide Mannschaften ihre Möglichkeiten, sich die volle Punkteausbeute zu sichern, doch die Abwehrreihen standen sicher und machten das Tor verhindern. Das Spiel endete mit einem leistungsgerechten 1:1, was für beide Teams wichtige Punkte in der Gruppenphase bedeutet.\n\n## Spieler des Spiels\n\nDer auffälligste Spieler des Spiels war ohne Zweifel Daizen Maeda. Mit seinem Führungstreffer in der 56. Minute bewies er nicht nur seine Treffsicherheit, sondern sorgte auch für den entscheidenden Moment, der Japan gedachte, das Spiel für sich zu entscheiden. Trotz des späteren Ausgleichs durch Schweden ließ Maeda sein Team nie im Stich und kämpfte bis zum Schluss. Sein Einsatz und seine Offensiveinstinkte machten ihn zum entscheidenden Faktor und sicherten Japan einen Punkt in diesem intensiven Duell.\n\n## Das bedeutet das Ergebnis\n\nDas Unentschieden hat für beide Teams weitreichende Konsequenzen für den weiteren Verlauf des Turniers. Japan und Schweden haben sich mit diesem Punkt einen soliden Grundstein gelegt, um im weiteren Verlauf der Gruppenphase um die nächsten Punkte zu kämpfen. Beide Mannschaften werden darum bemüht sein, ihre Chancen in den kommenden Spielen besser zu nutzen, um ihre Position für die K.o.-Runde zu festigen. Die Fans dürfen gespannt sein, wie sich die Teams in den nächsten Begegnungen präsentieren werden!",
+  "createdAt": "2026-06-26T15:31:18.038Z",
+  "id": 1782487878038,
+  "matchId": "760471",
+  "match": {
+    "id": "760471",
+    "kickoff": "2026-06-25T23:00Z",
+    "phase": "Gruppenphase",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 70137,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Japan",
+      "abbr": "JPN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Schweden",
+      "abbr": "SWE",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+      "score": 1
+    },
+    "homeTeamId": "627",
+    "awayTeamId": "466",
+    "goals": [
+      {
+        "minute": "56'",
+        "scorer": "Daizen Maeda",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "62'",
+        "scorer": "Anthony Elanga",
+        "teamId": "466",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

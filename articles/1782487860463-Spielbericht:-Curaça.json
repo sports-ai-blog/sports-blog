@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Curaçao 0:2 Elfenbeinküste",
+  "content": "# Curaçao vs. Elfenbeinküste: Pépé führt die Elefanten zum 2:0-Sieg\n\nAm Donnerstagabend, dem 25. Juni 2026, trafen im Lincoln Financial Field in Philadelphia die Nationalmannschaften von Curaçao und der Elfenbeinküste in der Gruppenphase der WM 2026 aufeinander. Vor 68.324 Fans sicherten sich die Elefanten dank eines starken Auftritts von Nicolas Pépé den 2:0-Sieg und damit wichtige Punkte im Kampf um die K.o.-Runde.\n\n## So lief das Spiel\n\nDer Anpfiff erfolgte pünktlich um 22:00 Uhr deutscher Zeit und die Elfenbeinküste übernahm von Beginn an die Kontrolle über das Geschehen. Bereits in der 7. Minute zeigten sie ihre Offensivkraft. Nicolas Pépé, der Flügelstürmer des Spiels, brachte seine Mannschaft in Führung. Mit einem präzisen Schuss vollendete er eine gelungene Kombination und sorgte für Aufregung bei den Fans der Elfenbeinküste, die zahlreich in die Arena gekommen waren.\n\nCuraçao versuchte, den Rückstand schnellstmöglich zu kompensieren, fand jedoch kein Durchkommen gegen die gut organisierte Abwehr der Elefanten. Die erste Halbzeit endete mit einem 0:1 für die Elfenbeinküste, wobei die Partie an Intensität nicht verlor. \n\nDer zweite Durchgang startete, und die Erwartungen der Zuschauer waren hoch. In der 64. Minute war es erneut Nicolas Pépé, der für den nächsten Höhepunkt sorgte. Mit einem weiteren Treffer stellte er auf 2:0 und begrub damit die Hoffnungen der Curaçao-Spieler auf eine mögliche Wende im Spiel. Trotz mehrerer Versuche konnte Curaçao kein Tor erzielen und musste sich schlussendlich geschlagen geben. Der Schlusspfiff ertönte und die Elfenbeinküste feierte den verdienten Sieg mit ihrer treuen Fangemeinde.\n\n## Spieler des Spiels\n\nDer unangefochtene Spieler des Spiels war zweifellos Nicolas Pépé. Mit seinen beiden Toren bewies er nicht nur seine überragende Torgefahr, sondern auch seine Fähigkeit, in entscheidenden Momenten zu glänzen. Pépé war das Gesicht der Elfenbeinküste bei diesem Spiel und sorgte dafür, dass seine Mannschaft die drei Punkte mit nach Hause nehmen konnte. Seine Leistung war voller Dynamik und Entschlossenheit, was ihn zum Star des Abends machte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg festigt die Elfenbeinküste ihre Position in der Gruppe und bringt sich in eine vielversprechende Ausgangslage für die nächsten Matches. Die drei Punkte sind ein wichtiger Schritt in Richtung der K.o.-Runde, während Curaçao nun unter Druck steht, um noch Chancen auf ein Weiterkommen zu wahren. Die spannende Gruppenphase wird mit Sicherheit weitere unerwartete Wendungen mit sich bringen, und beide Teams werden in den kommenden Spielen alles geben müssen, um ihre Ziele zu erreichen.",
+  "createdAt": "2026-06-26T15:31:00.463Z",
+  "id": 1782487860463,
+  "matchId": "760473",
+  "match": {
+    "id": "760473",
+    "kickoff": "2026-06-25T20:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "attendance": 68324,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Curaçao",
+      "abbr": "CUW",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Elfenbeinküste",
+      "abbr": "CIV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+      "score": 2
+    },
+    "homeTeamId": "11678",
+    "awayTeamId": "4789",
+    "goals": [
+      {
+        "minute": "7'",
+        "scorer": "Nicolas Pépé",
+        "teamId": "4789",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "64'",
+        "scorer": "Nicolas Pépé",
+        "teamId": "4789",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
