@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Ägypten 1:1 Iran",
+  "content": "# Ägypten und Iran teilen sich die Punkte: 1:1 nach packendem Duell\n\nIm ersten Gruppenspiel zwischen Ägypten und Iran bei der WM 2026 in Seattle endete es 1:1. In einem intensiven und hart umkämpften Spiel konnten die Zuschauer im ausverkauften Lumen Field am Samstagmorgen spannende Momente erleben. Beide Mannschaften zeigten Kampfgeist und drängten darauf, die drei Punkte zu holen. Letztlich reichte es jedoch nur für einen Punkt für jeden.\n\n## So lief das Spiel\n\nDer Anstoß erfolgte pünktlich um 05:00 Uhr deutscher Zeit. Die Partie begann unmittelbar mit einem Paukenschlag für die Ägypter, die schon in der 5. Minute jubelten. Mahmoud Saber fand früh den Weg ins Netz und ließ die Fans in rot und weiß aufhorchen. Doch die Freude der Ägypter währte nicht lange. Nur neun Minuten später, in der 14. Minute, schlug der Iran zurück. Ramin Rezaeian erzielte den Ausgleich und sorgte dafür, dass das Spiel wieder in völlig offene Bahnen lenkte. \n\nDer Rest der ersten Halbzeit war geprägt von intensivem Mittelfeldspiel, in dem beide Teams versuchten, das Zepter zu übernehmen. Die Zuschauer, die mit 66.925 im Stadion versammelt waren, erlebten eine spannende erste Halbzeit, die mit dem 1:1 in die Pause ging.\n\nDie zweite Halbzeit bot keine Tore mehr, doch die Action nahm nicht ab. Beide Mannschaften lieferten sich ein Duell um die Kontrolle im Mittelfeld, während sie gleichzeitig versuchten, die gegnerische Abwehr zu durchbrechen. Ein weiterer Treffer sollte jedoch nicht fallen, und somit blieb es beim Unentschieden.\n\n## Spieler des Spiels\n\nMahmoud Saber von Ägypten stach durch sein frühes Tor hervor und war unbestreitbar einer der auffälligsten Akteure auf dem Platz. Mit seinem schnellen Treffer setzte er ein deutliches Zeichen und trug maßgeblich zur Stimmung im Stadion bei. Saber zeigte nicht nur seine Torjägerqualitäten, sondern war auch während des gesamten Spiels aktiv und anspielbar. Auch Ramin Rezaeian, der den Ausgleich erzielte, kann in dieser Kategorie erwähnt werden, doch Sabers frühe Einwirkung auf das Spiel macht ihn zum Spieler des Spiels in dieser Begegnung.\n\n## Das bedeutet das Ergebnis\n\nMit dem 1:1-Unentschieden teilen sich Ägypten und der Iran die Punkte in ihrem ersten Gruppenspiel. Dieses Ergebnis könnte für den weiteren Verlauf des Turniers sowohl für Ägypten als auch für den Iran entscheidend werden. Beide Teams haben gezeigt, dass sie in der Lage sind, sich gegenseitig zu fordern, und die Zuschauer dürfen gespannt sein, wie sie sich im Verlauf der Gruppenphase präsentieren werden. Ein Punkt ist im Kampf um die K.o.-Runden sicher besser als nichts, dennoch wird es für beide Mannschaften wichtig sein, in den kommenden Spielen an die Leistungen anzuknüpfen und sich vielleicht sogar zu steigern. Die WM 2026 ist noch lang und voller Überraschungen.",
+  "createdAt": "2026-06-27T11:52:18.704Z",
+  "id": 1782561138704,
+  "matchId": "760476",
+  "match": {
+    "id": "760476",
+    "kickoff": "2026-06-27T03:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "attendance": 66925,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Ägypten",
+      "abbr": "EGY",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Iran",
+      "abbr": "IRN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
+      "score": 1
+    },
+    "homeTeamId": "2620",
+    "awayTeamId": "469",
+    "goals": [
+      {
+        "minute": "5'",
+        "scorer": "Mahmoud Saber",
+        "teamId": "2620",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "14'",
+        "scorer": "Ramin Rezaeian",
+        "teamId": "469",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
