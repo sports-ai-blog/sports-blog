@@ -1,0 +1,80 @@
+{
+  "title": "Spielbericht: Algerien 3:3 Österreich",
+  "content": "# Spektakuläres Unentschieden: Algerien und Österreich trennen sich 3:3\n\nIn einem mitreißenden und hart umkämpften Match der Gruppenphase bei der WM 2026 in Kansas City fuhren Algerien und Österreich ein packendes Remis ein. Das Spiel, das am Sonntag, den 28. Juni 2026, um 04:00 Uhr deutscher Zeit angepfiffen wurde, hielt die 69.045 Zuschauer bis zur letzten Sekunde in Atem. Mit einem Endstand von 3:3 zeigen beide Teams ihre Kampfbereitschaft und Offensivqualitäten.\n\n## So lief das Spiel\n\nDas Spiel begann temporeich, und sowohl Algerien als auch Österreich zeigten von Anfang an ihre Ambitionen. In der 28. Minute war es Marko Arnautovic, der Österreich mit 1:0 in Führung brachte. Diese frühe Führung ließ die Fans aus Österreich jubeln, doch Algerien blieb gelassen und kämpfte weiter. In der Nachspielzeit der ersten Halbzeit, genau in der 45. Minute, gelang es Rafik Belghali, für Algerien auszugleichen und so mit einem 1:1 in die Pause zu gehen.\n\nNach der Halbzeitpause setzte sich der Schlagabtausch zwischen beiden Mannschaften fort. Marcel Sabitzer brachte Österreich in der 55. Minute erneut in Führung, aber Algerien erwies sich schnell als gleichwertiger Gegner. Nur fünf Minuten später, in der 60. Minute, war es der Superstar Riyad Mahrez, der den Ausgleich für sein Team erzielte und das Spiel wieder auf 2:2 stellte. \n\nDer Höhepunkt des Spiels sollte jedoch noch warten: In der 90. Minute, in der die Nachspielzeit bereits begonnen hatte, erzielte Mahrez erneut ein Tor für Algerien und sorgte für das 3:2. Doch Österreich gab sich nicht geschlagen und kämpfte bis zur letzten Sekunde. In der 90.+6 Minute erzielte Sasa Kalajdzic per Kopfball das 3:3 und sicherte damit seinen Mannschaftskameraden einen Punkt in diesem aufregenden Match.\n\n## Spieler des Spiels\n\nRiyad Mahrez stach an diesem Abend besonders hervor. Der Algerier war nicht nur für den Ausgleich nach dem Rückstand verantwortlich, sondern sorgte auch in der entscheidenden Phase für den kurzfristigen Vorteil seines Teams, als er in der Nachspielzeit das 3:2 erzielte. Als Spielmacher war Mahrez ein ständiger Unruheherd für die österreichische Abwehr und sicherte sich somit nicht nur zwei Treffer, sondern auch den Titel \"Spieler des Spiels\" in einem insgesamt sehr ausgeglichenen Duell.\n\n## Das bedeutet das Ergebnis\n\nDas Unentschieden lässt beide Teams mit gemischten Gefühlen zurück, da sie spannende und engagierte Leistungen gezeigt haben. Für die weiteren Vorrundenspiele ist dieses Ergebnis von großer Bedeutung. Sowohl Algerien als auch Österreich wissen, dass sie in den restlichen Matches ihre Form stabilisieren und die gewonnenen Punkte ausbauen müssen, um die Chancen auf das Weiterkommen in dieser hoch angesehenen Turnierphase zu wahren. Die Zuschauer dürfen weiterhin auf spannende Begegnungen mit hochmotivierten Mannschaften hoffen.",
+  "createdAt": "2026-06-28T12:08:01.018Z",
+  "id": 1782648481018,
+  "matchId": "760484",
+  "match": {
+    "id": "760484",
+    "kickoff": "2026-06-28T02:00Z",
+    "phase": "Gruppenphase",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "attendance": 69045,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Algerien",
+      "abbr": "ALG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Österreich",
+      "abbr": "AUT",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+      "score": 3
+    },
+    "homeTeamId": "624",
+    "awayTeamId": "474",
+    "goals": [
+      {
+        "minute": "28'",
+        "scorer": "Marko Arnautovic",
+        "teamId": "474",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "45'",
+        "scorer": "Rafik Belghali",
+        "teamId": "624",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "55'",
+        "scorer": "Marcel Sabitzer",
+        "teamId": "474",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "60'",
+        "scorer": "Riyad Mahrez",
+        "teamId": "624",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+3'",
+        "scorer": "Riyad Mahrez",
+        "teamId": "624",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+6'",
+        "scorer": "Sasa Kalajdzic",
+        "teamId": "474",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Congo DR 3:1 Usbekistan",
+  "content": "# Congo DR besiegt Usbekistan 3:1 – Drama nach Rückstand im Mercedes-Benz Stadium!\n\nIn einem packenden Duell in der Gruppenphase der WM 2026 setzte sich die Congo DR mit 3:1 gegen Usbekistan durch. Nach einem frühen Rückstand bewiesen die Afrikaner Rückgrat und drehten die Partie im Mercedes-Benz Stadium in Atlanta vor 68.239 begeisterten Zuschauern. Es war ein Spiel voller Emotionen, das die Fans mit einem dramatischen Comeback in den Bann zog.\n\n## So lief das Spiel\n\nDie Begegnung begann mit einem Paukenschlag: Bereits in der 10. Minute brachte Eldor Shomurodov die Usbekischen Zuschauer zum Jubeln, als er das erste Tor des Spiels erzielte. Der frühe Rückstand stellte die Congo DR vor eine große Herausforderung, und das Team musste sich erst einmal sammeln, um eine Antwort zu finden. Usbekistan zeigte sich nach dem Führungstreffer defensiv solide und hielt die Überhand in den ersten 45 Minuten.\n\nNach dem Seitenwechsel nahmen die Dinge jedoch eine dramatische Wendung. In der 68. Minute wurde Congo DRs Yoane Wissa im Strafraum gefoult und trat zum Elfmeter an. Er verwandelte sicher und glich damit den Stand aus – 1:1. Das Spiel war wieder völlig offen, und die Congo DR nutzte den Aufwind: Nur zehn Minuten später, in der 78. Minute, erzielte Fiston Mayele das zweite Tor für sein Team und setzte die Usbekische Abwehr mächtig unter Druck.\n\nDie Congo DR ließ nicht locker und krönte ihre Aufholjagd mit einem weiteren Treffer in der Nachspielzeit. In der 90. Minute erzielte erneut Yoane Wissa, der an diesem Abend zu brillieren wusste, sein zweites Tor. Der Jubel der Congo DR-Fans kannte keine Grenzen, während Usbekistan enttäuscht zurückblickte.\n\n## Spieler des Spiels\n\nYoane Wissa war der herausragende Spieler des Abends. Mit einem Tor aus dem Elfmeter und einem weiteren Treffer in der Nachspielzeit führte er sein Team nicht nur zurück ins Spiel, sondern schien auch die gesamte Mannschaft auf seine Seite zu ziehen. Wissa zeigte sich als unverzichtbare Größe im Angriff der Congo DR und wird sicherlich in Erinnerung bleiben als der Spieler, der sein Team zum Sieg führte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem hart erkämpften Sieg steht die Congo DR im Rennen um die K.o.-Runde der WM 2026 glänzend da. Der Erfolg gibt den Afrikanern einen großen Schub für die kommenden Spiele und lässt die Hoffnung auf das Weiterkommen wachsen. Usbekistan hingegen muss sich nach dieser Niederlage neu sortieren und wird sich anstrengen müssen, um die nächste Phase des Turniers zu erreichen. Beide Mannschaften haben noch alles möglich – die Spannung bleibt bis zur letzten Gruppenphase bestehen!",
+  "createdAt": "2026-06-28T12:07:52.739Z",
+  "id": 1782648472739,
+  "matchId": "760482",
+  "match": {
+    "id": "760482",
+    "kickoff": "2026-06-27T23:30Z",
+    "phase": "Gruppenphase",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 68239,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Congo DR",
+      "abbr": "COD",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Usbekistan",
+      "abbr": "UZB",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+      "score": 1
+    },
+    "homeTeamId": "2850",
+    "awayTeamId": "2570",
+    "goals": [
+      {
+        "minute": "10'",
+        "scorer": "Eldor Shomurodov",
+        "teamId": "2570",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "68'",
+        "scorer": "Yoane Wissa",
+        "teamId": "2850",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "78'",
+        "scorer": "Fiston Mayele",
+        "teamId": "2850",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+1'",
+        "scorer": "Yoane Wissa",
+        "teamId": "2850",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Kroatien 2:1 Ghana",
+  "content": "# Kroatien besiegt Ghana mit 2:1 – Ein dramatisches Duell in Philadelphia\n\nIn einem packenden Auftaktspiel der Gruppenphase der WM 2026 triumphierte Kroatien über Ghana mit 2:1. Vor 68.324 begeisterten Zuschauern im Lincoln Financial Field, Philadelphia, konnten die europäischen Stars nach einem frühen Treffer in der ersten Halbzeit und einem späten Tor in der zweiten Halbzeit den Sieg einfahren, während Ghana tapfer zurückkämpfte.\n\n## So lief das Spiel\n\nDie Partie begann stimmungsvoll und beide Teams suchten schnell die Offensive. In der 31. Minute war es Petar Sucic, der das erste Tor des Spiels erzielte und Kroatien in Führung brachte. Dieser Treffer sorgte für eine energische Reaktion der Ghaneaner, die in der ersten Halbzeit jedoch nicht in der Lage waren, die kroatische Abwehr zu überwinden. Mit dem 1:0 für Kroatien ging es in die Halbzeitpause.\n\nNach Wiederanpfiff wurde das Spiel intensiver. Ghana setzte alles auf eine Karte und drängte auf den Ausgleich. In der 73. Minute gelang Derrick Luckassen dann der ersehnte Treffer für Ghana. Mit diesem Tor keimte neuen Hoffnung auf und die Ghaneaner machten Druck, um die Partie zu drehen.\n\nDoch Kroatien ließ sich nicht beeindrucken. In der 83. Minute stellte Nikola Vlasic den alten Abstand wieder her. Nach einem wohlplatzierten Kopfball sorgte Vlasic für Freude auf den Rängen und machte das 2:1 für Kroatien. In den verbleibenden Minuten versuchten die Ghanaer, erneut zurückzukommen, konnten jedoch keinen weiteren Treffer erzielen. Der Schlusspfiff des Schiedsrichters besiegelte den kroatischen Sieg in einem spannenden und hart umkämpften Spiel.\n\n## Spieler des Spiels\n\nPetar Sucic war ohne Zweifel der Spieler des Spiels. Mit seinem frühen Tor zeigte er große Klasse und legte somit den Grundstein für den kroatischen Sieg. Auch Nikola Vlasic's Kopfballtreffer in der Schlussphase war entscheidend, doch es war Sucics Treffer, der den Rhythmus des Spiels maßgeblich beeinflusste. Seine Fähigkeiten am Ball und seine Präsenz auf dem Feld waren ein echter Hingucker und machten ihn zum entscheidenden Faktor für das kroatische Team.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg bringt Kroatien einen wichtigen Schritt näher zu einer erfolgreichen Gruppenphase in der WM 2026. Mit der vollen Punkteausbeute aus diesem ersten Spiel hat die kroatische Mannschaft eine solide Grundlage geschaffen, um in den kommenden Partien weiter zu glänzen. Ghana hingegen steht nun vor der Herausforderung, sich in den nächsten Spielen zu rehabilitieren und die Chance auf das Weiterkommen zu bewahren. Während Kroatien mit viel Selbstvertrauen in die nächsten Partien gehen kann, muss Ghana sich neu formieren und an der fehlenden Effektivität im Angriff arbeiten. Die Gruppenphase verspricht weiterhin Spannung und hochkarätigen Fußball!",
+  "createdAt": "2026-06-28T12:07:25.387Z",
+  "id": 1782648445387,
+  "matchId": "760480",
+  "match": {
+    "id": "760480",
+    "kickoff": "2026-06-27T21:00Z",
+    "phase": "Gruppenphase",
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "attendance": 68324,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Kroatien",
+      "abbr": "CRO",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Ghana",
+      "abbr": "GHA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
+      "score": 1
+    },
+    "homeTeamId": "477",
+    "awayTeamId": "4469",
+    "goals": [
+      {
+        "minute": "31'",
+        "scorer": "Petar Sucic",
+        "teamId": "477",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "73'",
+        "scorer": "Derrick Luckassen",
+        "teamId": "4469",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "83'",
+        "scorer": "Nikola Vlasic",
+        "teamId": "477",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Panama 0:2 England",
+  "content": "# England besiegt Panama mit 2:0 – Bellingham und Kane treffen\n\nIn einem mit Spannung erwarteten Duell der Gruppenphase der WM 2026 setzte sich England am Samstagabend im MetLife Stadium in East Rutherford, New Jersey, mit 2:0 gegen Panama durch. Nach einer torlosen ersten Halbzeit sorgten Jude Bellingham und Harry Kane mit ihren Treffern in der zweiten Hälfte für den verdienten Sieg der Three Lions. Vor 80.663 begeisterten Zuschauern zeigten die Engländer eine solide Leistung und festigten damit ihre Position im Turnier.\n\n## So lief das Spiel\n\nDie Begegnung begann vor einer beeindruckenden Kulisse im MetLife Stadium. England übernahm von Beginn an die Initiative, doch Panama hielt tapfer dagegen und konnte die ersten 45 Minuten schadlos überstehen. Trotz einiger Ansätze von England blieb das Tor zunächst aus, und die Zuschauer sahen eine ausgeglichene Partie ohne nennenswerte Höhepunkte.\n\nDie Wende im Match kam in der 62. Minute, als Jude Bellingham mit einem präzisen Schuss die Führung für England erzielte. Das Tor gab der britischen Elf zusätzlichen Auftrieb und dominierte zunehmend das Geschehen auf dem Platz. Fünf Minuten später, in der 67. Minute, war es dann Harry Kane, der nach einer Flanke einen Kopfball ins Netz beförderte und den Spielstand auf 2:0 erhöhte. Mit diesem Doppelpack schien die Partie entschieden, und England spielte das Ergebnis souverän über die Zeit. Panama hatte keine Antwort auf die geschlossene Defensive der Engländer, die ihren Vorsprung mit Geschick und Übersicht verwalteten.\n\n## Spieler des Spiels\n\nJude Bellingham hat sich als herausragender Spieler in diesem Match erwiesen. Mit seinem ersten Tor in der WM-Geschichte brachte er nicht nur seine Mannschaft in Führung, sondern verlieh England auch die dringend benötigte Sicherheit. Sein Engagement und seine spielerischen Fähigkeiten machten ihn zu einer unübersehbaren Figur auf dem Platz. Auch Harry Kane, der sein zweites Tor in dieser WM erzielte, zeigte seine Kopfballstärke und Erfahrung, doch es war Bellingham, der das Spiel entscheidend beeinflusste und somit verdientermaßen als Spieler des Spiels hervorgehoben werden kann.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg gegen Panama bringt England auf einen vielversprechenden Kurs in der Gruppenphase der WM 2026. Nach diesem Erfolg können die Three Lions mit Selbstbewusstsein in die kommenden Spiele gehen. Das Team hat gezeigt, dass es sowohl in der Offensive als auch in der Defensive konstant stark agieren kann. Für Panama wird es wichtig sein, aus diesem Spiel zu lernen und sich auf die nächsten Herausforderungen im Turnier vorzubereiten. Während England mit diesem Resultat einen großen Schritt in Richtung der K.o.-Runde gemacht hat, bleibt abzuwarten, wie sich die Panamaer in ihrem nächsten Match behaupten können.",
+  "createdAt": "2026-06-28T12:07:31.955Z",
+  "id": 1782648451955,
+  "matchId": "760485",
+  "match": {
+    "id": "760485",
+    "kickoff": "2026-06-27T21:00Z",
+    "phase": "Gruppenphase",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Panama",
+      "abbr": "PAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+      "score": 0
+    },
+    "away": {
+      "name": "England",
+      "abbr": "ENG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "score": 2
+    },
+    "homeTeamId": "2659",
+    "awayTeamId": "448",
+    "goals": [
+      {
+        "minute": "62'",
+        "scorer": "Jude Bellingham",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "67'",
+        "scorer": "Harry Kane",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Spielbericht: Kolumbien 0:0 Portugal",
+  "content": "# Kolumbien gegen Portugal: Ein torloses Remis in Miami\n\nIn einer hochspannenden Begegnung trafen Kolumbien und Portugal am Sonntag, den 28. Juni 2026, im Hard Rock Stadium in Miami Gardens, Florida, aufeinander. Trotz einer packenden Atmosphäre und 64.478 lautstarken Zuschauern konnten beide Mannschaften ihre Offensive nicht in Tore ummünzen. Das Spiel endete letztlich mit einem enttäuschenden 0:0.\n\n## So lief das Spiel\n\nVon der ersten Minute an war die Begegnung hart umkämpft. Beide Teams zeigten großen Einsatz und Engagement, doch obwohl zahlreiche Angriffe und Gegenangriffe das Spiel prägten, blieb das Netz unberührt. Die kolumbianische Mannschaft versuchte, das Spiel zu dominieren und setzte Portugal unter Druck, doch die defensiven Bemühungen der Europäer erwiesen sich als stabil. \n\nIn einer Atmosphäre der Nervosität und des Mitfieberns blieb das Scoreboard bis zur Schlusssirene leer. Die Spieler auf beiden Seiten suchten vergeblich nach der Lücke in der gegnerischen Verteidigung. Eine besondere Dramatik lag in der Tatsache, dass trotz der Torlosigkeit die Emotionen hochkochten, da die Zuschauer in Miami Gardens Zeugen eines packenden Geduldsspiels wurden. \n\n## Spieler des Spiels\n\nAbgesehen von den ausbleibenden Toren könnte man den Fokus auf die stabilen Abwehrreihen beider Mannschaften richten. Besonders hervorzuheben ist der kolumbianische Innenverteidiger, der mit einem soliden Auftritt dafür sorgte, dass keine gegnerischen Chancen ins gefährliche Terrain gelangen konnten. Seine Zweikampfstatistik und die Körpersprache auf dem Platz machten ihn zu einer Schlüsselperson für die kolumbianischen Bemühungen. Es war jedoch die gesamte Defensive, die in dieser Partie ihre Stärke demonstrierte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Unentschieden ist die Ausgangslage für beide Teams im Turnier spannend. Zwar konnten Kolumbien und Portugal je einen Punkt auf ihrem Konto verbuchen, doch der Blick auf die kommenden Spiele wird entscheidend sein, um die Ambitionen auf das Weiterkommen ins Viertelfinale zu überprüfen. Die Frage bleibt, inwiefern beide Mannschaften ihre offensive Leistung in den nächsten Begegnungen steigern können, um die Gruppe für sich zu entscheiden und das Ziel „WM-Titel“ nicht aus den Augen zu verlieren.",
+  "createdAt": "2026-06-28T12:07:39.507Z",
+  "id": 1782648459507,
+  "matchId": "760481",
+  "match": {
+    "id": "760481",
+    "kickoff": "2026-06-27T23:30Z",
+    "phase": "Gruppenphase",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64478,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Kolumbien",
+      "abbr": "COL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Portugal",
+      "abbr": "POR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "score": 0
+    },
+    "homeTeamId": "208",
+    "awayTeamId": "482",
+    "goals": []
+  }
+}
