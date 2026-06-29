@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Südafrika 0:1 Kanada",
+  "content": "# Drama im SoFi Stadium: Südafrika unterliegt Kanada mit 0:1 im Sechzehntelfinale\n\nIm Schatten von Inglewood, Kalifornien, kam es am Sonntagabend zu einem packenden Sechzehntelfinal-Duell zwischen Südafrika und Kanada. Vor 69.237 begeisterten Zuschauern erkämpfte sich die kanadische Nationalmannschaft in der Nachspielzeit den entscheidenden Sieg. Stephen Eustáquio schrieb in der 90. Minute Geschichte, als er den einzigen Treffer des Spiels erzielte und Kanada in das Achtelfinale katapultierte.\n\n## So lief das Spiel\n\nDer Anstoß des Spiels erfolgte um 21:00 Uhr deutscher Zeit und das Stadion pulsierte von der ersten Minute an vor Spannung. Beide Mannschaften hatten sich viel vorgenommen und begegneten sich ohne große Zurückhaltung. Während die ersten Minuten von viel Ballbesitz geprägt waren, kam das Spiel zunehmend in Fahrt. Allerdings blieben nennenswerte Torchancen bis zur Halbzeit aus. Der Halbzeitstand von 0:0 spiegelte die hart umkämpfte Begegnung wider, in der sich beide Teams beäugten und keine Fehler zulassen wollten.\n\nMit Anbruch der zweiten Halbzeit wuchs die Intensität. Die Zuschauer im SoFi Stadium spürten, dass das Spiel auf der Kippe stand. In der Schlussphase nahmen beide Teams mehr Risiken auf sich, doch die Defensivreihen ließen nichts anbrennen. Vor allem die Abwehr von Kanada und der Torwart waren konzentriert bei der Sache. Doch der entscheidende Moment sollte erst in der zweiten Minute der Nachspielzeit kommen. In dieser dramatischen Situation fand Eustáquio den Weg zum Tor und verwandelte, zur Freude der kanadischen Fans, den Ball zum 1:0. Dieser Treffer stellte den Endstand dar und sorgte für ein kollektives Aufatmen der kanadischen Anhänger.\n\n## Spieler des Spiels\n\nDer gefeierte Held des Abends war ohne Zweifel Stephen Eustáquio. Mit seinem späten Tor sicherte er nicht nur den Sieg, sondern auch den Einzug in das nächste Turniersegment. Eustáquio zeigte sich kampfestark und war stets präsenter Teil des Spiels. Sein unermüdlicher Einsatz und die Fähigkeit, in den entscheidenden Momenten da zu sein, machten ihn zum Spieler des Spiels. In der 90.+2 Minute bewies er seine Nervenstärke und ließ die kanadischen Fans den Moment in vollen Zügen genießen.\n\n## Das bedeutet das Ergebnis\n\nMit diesem wertvollen Sieg im Rücken zieht Kanada ins Achtelfinale ein, während Südafrika die Heimreise antreten muss. Die knappe Niederlage für das Team von Kapitänin Janine van Wyk ist ein herber Rückschlag, doch sie können auf eine leistungsstarke WM zurückblicken. Kanada hingegen darf sich berechtigte Hoffnungen auf eine gute Platzierung im weiteren Verlauf des Turniers machen. Die erste Hürde wurde erfolgreich gemeistert, nun blickt die Mannschaft verhalten optimistisch dem nächsten Gegner entgegen. Das Turnier bleibt heiß umkämpft, und es bleibt abzuwarten, was die nächsten Spiele bringen werden.",
+  "createdAt": "2026-06-29T17:17:18.522Z",
+  "id": 1782753438522,
+  "matchId": "760486",
+  "match": {
+    "id": "760486",
+    "kickoff": "2026-06-28T19:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "attendance": 69237,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Südafrika",
+      "abbr": "RSA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Kanada",
+      "abbr": "CAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+      "score": 1
+    },
+    "homeTeamId": "467",
+    "awayTeamId": "206",
+    "goals": [
+      {
+        "minute": "90'+2'",
+        "scorer": "Stephen Eustáquio",
+        "teamId": "206",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
