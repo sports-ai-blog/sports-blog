@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Brasilien 2:1 Japan",
+  "content": "# Brasilien besiegt Japan 2:1 im Sechzehntelfinale der WM 2026\n\nIm NRG Stadium in Houston, Texas, sorgte Brasilien für einen dramatischen Comeback-Sieg gegen Japan im Sechzehntelfinale der Weltmeisterschaft 2026. Nach einem Rückstand zur Halbzeit drehten die Südamerikaner die Partie und setzten sich am Ende mit 2:1 durch. Ein packendes Duell, das die 68.777 Zuschauer bis zur letzten Sekunde fesselte.\n\n## So lief das Spiel\n\nBereits in der ersten Halbzeit zeigte Japan, dass man die Brasilianer nicht unterschätzen sollte. In der 29. Minute war es Kaishu Sano, der die asiatische Mannschaft in Führung brachte und die Fans im Stadion jubeln ließ. Brasilien hatte Schwierigkeiten, sich gegen die gut aufgestellte japanische Defensive durchzusetzen. Der Rückstand zur Halbzeit war somit mehr als verdient.\n\nNach dem Seitenwechsel kam Brasilien jedoch mit neuem Elan aus der Kabine. In der 56. Minute erlöste Casemiro die brasilianischen Anhänger mit einem kraftvollen Kopfballtor, das das Gleichgewicht in die Partie zurückbrachte. Von diesem Moment an war die Stimmung im Stadion am Siedepunkt. Brasilien spielte druckvoll und übernahm das Kommando, während Japan versuchte, das Unentschieden zu halten.\n\nDie Schlussphase des Spiels wurde intensiv, die Zuschauer auf den Rängen erlebten ein wahres Drama. In der Nachspielzeit, genauer gesagt in der fünften Minute der Nachspielzeit, sorgte Gabriel Martinelli für das entscheidende Tor. Mit einem fulminanten Treffer stellte er den Endstand von 2:1 her und sicherte Brasilien den Einzug ins Viertelfinale.\n\n## Spieler des Spiels\n\nBesonders hervorzuheben ist Casemiro, der nicht nur den Ausgleich erzielte, sondern auch durch seine Präsenz im Mittelfeld maßgeblich zum Erfolg seines Teams beitrug. Mit seiner Erfahrung und Spielintelligenz schaltete er mehrfach die Offensive Japans aus und leitete Gegenangriffe ein. Sein Kopfballtreffer war der Wendepunkt des Spiels und machte ihn zu einem der Schlüsselspieler für Brasilien an diesem Abend.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg gegen Japan bringt Brasilien ins Viertelfinale der WM 2026, wo sie auf einen weiteren starken Gegner treffen werden. Das Comeback nach einem Rückstand zeigt die mentale Stärke und den Siegeswillen dieser brasilianischen Mannschaft. In der K.o.-Phase ist jeder Fehler entscheidend, und Brasilien hat bewiesen, dass sie in der Lage sind, auch in schwierigen Situationen zurückzukommen. Japan hingegen muss den Kopf hochhalten und aus diesem Spiel lernen, denn sie haben eindrucksvoll gezeigt, dass sie mit den besten Teams der Welt konkurrieren können.",
+  "createdAt": "2026-06-30T13:28:21.978Z",
+  "id": 1782826101978,
+  "matchId": "760487",
+  "match": {
+    "id": "760487",
+    "kickoff": "2026-06-29T17:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "attendance": 68777,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Brasilien",
+      "abbr": "BRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Japan",
+      "abbr": "JPN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+      "score": 1
+    },
+    "homeTeamId": "205",
+    "awayTeamId": "627",
+    "goals": [
+      {
+        "minute": "29'",
+        "scorer": "Kaishu Sano",
+        "teamId": "627",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "56'",
+        "scorer": "Casemiro",
+        "teamId": "205",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "90'+5'",
+        "scorer": "Gabriel Martinelli",
+        "teamId": "205",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

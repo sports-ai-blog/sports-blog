@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Deutschland 1:1 Paraguay",
+  "content": "# Deutschland gegen Paraguay: Drama im Gillette Stadium endet 1:1 nach Elfmeterschießen\n\nIn einer aufregenden Partie im Gillette Stadium von Foxborough, Massachusetts, haben sich Deutschland und Paraguay im Sechzehntelfinale der WM 2026 mit einem 1:1 unentschieden getrennt. Während die deutsche Nationalmannschaft in der ersten Halbzeit einem Rückstand hinterherlief, konnte Kai Havertz in der zweiten Halbzeit für den wichtigen Ausgleich sorgen. Ein spannendes Elfmeterschießen musste dann die Entscheidung bringen.\n\n## So lief das Spiel\n\nDie Begegnung begann vor ausverkauftem Haus, mit 63.945 Zuschauern, die ein hart umkämpftes Duell erwarteten. Paraguay stellte sich als durchaus hartnäckiger Gegner heraus, und so sollte es bis zur 42. Minute dauern, bis das erste Tor fiel. Julio Enciso kam nach einem hohen Ball im Strafraum zum Kopfball und brachte Paraguay mit 1:0 in Führung. Ein Schock für das deutsche Team, das sich in der ersten Halbzeit schwer tat, Zugriff zu finden.\n\nNach dem Seitenwechsel kam Deutschland deutlich stärker aus der Kabine. Die deutsche Mannschaft setzte Paraguay früh unter Druck und erzielte bereits in der 54. Minute den Ausgleich. Kai Havertz war zur Stelle und netzte ebenfalls mit einem Kopfball ein, nachdem er geschickt die Abwehr der Südamerikaner austanzte. Der Ausgleich sorgte für frischen Wind und die Hoffnung auf eine Wende im Spiel.\n\nDas Spiel blieb bis zum Ende spannend, doch keine der beiden Mannschaften konnte in der regulären Spielzeit den Siegtreffer erzielen. So ging es in die Verlängerung. Beide Teams kämpften tapfer, doch das Blatt wendete sich nicht – das Unentschieden blieb bestehen. Es war nun das Elfmeterschießen, das die Entscheidung bringen sollte.\n\n## Spieler des Spiels\n\nKlarer Spieler des Spiels war Kai Havertz, der mit seinem Kopfballtor zum 1:1 nicht nur für den Ausgleich sorgte, sondern auch das gesamte Spiel der Deutschen auf ein neues Level hob. Havertz bewies sich als wichtiger Schlüsselspieler und sorgte für Auftrieb in einer Begegnung, in der Deutschland lange Zeit einem Rückstand hinterherlief. Seine Präsenz im Strafraum und sein Gespür für die richtigen Positionen machten ihn zu einem unverzichtbaren Bestandteil des deutschen Spiels an diesem Abend.\n\n## Das bedeutet das Ergebnis\n\nDas Remis bringt Deutschland in eine schwierige Situation, da nun das Elfmeterschießen über das Weiterkommen entscheiden muss. Paraguay hat gezeigt, dass sie ein ernstzunehmender Gegner sind, und das werden sie im weiteren Turnierverlauf hoffentlich mit ebenso viel Kampfgeist und Entschlossenheit umsetzen. Für Deutschland bleibt die Frage, ob sie in der K.o.-Phase das nötige Quäntchen Glück haben, um in das Viertelfinale einzuziehen. Die nächsten Spiele werden entscheidend sein, um die starken Nerven der deutschen Mannschaft auf die Probe zu stellen und den Traum von der Weltmeisterschaft am Leben zu halten.",
+  "createdAt": "2026-06-30T13:28:28.229Z",
+  "id": 1782826108229,
+  "matchId": "760489",
+  "match": {
+    "id": "760489",
+    "kickoff": "2026-06-29T20:30Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "attendance": 63945,
+    "statusDetail": "Beendet (i.E.)",
+    "home": {
+      "name": "Deutschland",
+      "abbr": "GER",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Paraguay",
+      "abbr": "PAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+      "score": 1
+    },
+    "homeTeamId": "481",
+    "awayTeamId": "210",
+    "goals": [
+      {
+        "minute": "42'",
+        "scorer": "Julio Enciso",
+        "teamId": "210",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "54'",
+        "scorer": "Kai Havertz",
+        "teamId": "481",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

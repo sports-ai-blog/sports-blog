@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Niederlande 1:1 Marokko",
+  "content": "# Dramatisches Unentschieden: Niederlande und Marokko trennen sich 1:1 im Sechzehntelfinale\n\nIm Estadio BBVA in Guadalupe fand in der Nacht von Dienstag auf Mittwoch ein packendes Duell zwischen der Niederlande und Marokko statt, das nach 90 intensiven Minuten mit einem 1:1-Unentschieden endete. Beide Mannschaften zeigten sich kämpferisch, doch es war ein Kopfballtor von Issa Diop in der zweiten Minute der Nachspielzeit, das für die größte Erleichterung unter den marokkanischen Fans sorgte. Das Elfmeterschießen sollte die Entscheidung bringen.\n\n## So lief das Spiel\n\nDie Partie begann ohne viele hochkarätige Chancen, wobei beide Teams sich zunächst abtasteten. Es war ein taktisch geprägter Kampf, der die Zuschauer bis zur 72. Minute in Atem hielt. Nach einem langen Ball und einer cleveren Aktion war es schließlich Cody Gakpo, der sich durchsetzte und mit einem präzisen Schuss das 1:0 für die Niederlande erzielte. Die niederländischen Fans jubelten, denn es schien, als würde diese Führung für den Einzug ins Viertelfinale genügen.\n\nDoch die Marokkaner steckten nicht auf und intensivierten ihr Pressing. In der Nachspielzeit setzte sich das Team um Trainer Walid Regragui in der Offensive gegen die niederländische Abwehr durch. In der 91. Minute spielte ein marokkanischer Spieler eine Flanke in den Strafraum, wo Issa Diop im richtigen Moment hochstieg und den Ball mit dem Kopf im Netz versenkte. Das Stadion explodierte förmlich, als die Marokkaner auf die Tribüne strömten und ihre Fans feierten – der Ausgleich kam in der letzten Sekunde und sorgte für pure Ekstase. \n\nMit dem 1:1 ging die Partie in die Entscheidung im Elfmeterschießen.\n\n## Spieler des Spiels\n\nCody Gakpo war der strahlende Held der ersten Hälfte und bis zur 72. Minute für das Spiel seines Teams prägend. Mit seinem Treffer sorgte er nicht nur für die erste Führung, sondern zeigte auch seine individuelle Klasse und Fähigkeit, in entscheidenden Momenten zu brillieren. Gakpos Tor war ein Zeichen für die Durchschlagskraft der niederländischen Offensive und seine Bedeutung für das Team. Doch auch Issa Diop verdiente sich an diesem Abend seinen Platz in den Schlagzeilen, denn sein später Ausgleich war nicht nur spektakulär, sondern auch folgenschwer für den Verlauf des Spiels und das Schicksal seines Teams.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Unentschieden steht die Niederlande nun vor der Herausforderung, ihre Nerven im bevorstehenden Elfmeterschießen zu bewähren, das für beide Mannschaften eine immense Drucksituation darstellt. Marokko hat durch den späten Ausgleich neuen Auftrieb erhalten und könnte damit in die Lage kommen, den Favoriten aus den Niederlanden aus dem Turnier zu werfen. Für die Zuschauer war es ein spannendes Sechzehntelfinale, das die Vorfreude auf das Elfmeterschießen nur noch verstärkte. Der Ausgang dieses Spiels könnte die Richtung beider Mannschaften im Turnier entscheidend beeinflussen, während das Schicksal nun mit Elfmeter zu entscheiden ist.",
+  "createdAt": "2026-06-30T13:28:35.428Z",
+  "id": 1782826115428,
+  "matchId": "760488",
+  "match": {
+    "id": "760488",
+    "kickoff": "2026-06-30T01:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Estadio BBVA",
+    "city": "Guadalupe",
+    "attendance": 51243,
+    "statusDetail": "Beendet (i.E.)",
+    "home": {
+      "name": "Niederlande",
+      "abbr": "NED",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Marokko",
+      "abbr": "MAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+      "score": 1
+    },
+    "homeTeamId": "449",
+    "awayTeamId": "2869",
+    "goals": [
+      {
+        "minute": "72'",
+        "scorer": "Cody Gakpo",
+        "teamId": "449",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+1'",
+        "scorer": "Issa Diop",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}
