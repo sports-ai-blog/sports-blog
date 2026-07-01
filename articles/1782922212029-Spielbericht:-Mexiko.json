@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Mexiko 2:0 Ecuador",
+  "content": "# Mexiko schlägt Ecuador 2:0 im Sechzehntelfinale der WM 2026\n\nIn einem elektrisierenden Duell im Estadio Banorte in Mexico City setzte sich Mexiko am Mittwochmorgen mit 2:0 gegen Ecuador durch und sicherte sich damit den Einzug ins Achtelfinale der WM 2026. Vor beeindruckenden 80.824 Zuschauern zeigten die mexikanischen Spieler eine überzeugende Leistung und ließen dem Gegner keine Chance.\n\n## So lief das Spiel\n\nDie Partie begann mit einem fulminanten Auftakt für die Gastgeber. Bereits in der 22. Minute zappelte der Ball im Netz, als Julián Quiñones für den ersten Treffer sorgte. Die Mexikaner setzten ihr präzises Kombinationsspiel fort und in der 31. Minute erhöhte Raúl Jiménez auf 2:0. Mit dieser komfortablen Führung dominierte Mexiko das Geschehen und ließ Ecuador kaum zur Entfaltung kommen. \n\nIm späteren Verlauf des Spiels wurde es für Ecuador noch dramatischer. In der Nachspielzeit, genauer gesagt in der 90. Spielminute plus 5, musste Piero Hincapié mit einer roten Karte vom Platz. Diese Entscheidung sorgte für Erheiterung unter den mexikanischen Fans, die den klaren Sieg ihrer Mannschaft bejubelten.\n\n## Spieler des Spiels\n\nJulián Quiñones war ohne Zweifel der herausragende Spieler des Abends. Sein frühes Tor brachte das Selbstvertrauen der mexikanischen Mannschaft auf ein neues Level und legte den Grundstein für den Sieg. Zudem zeigte er während der gesamten Partie eine bemerkenswerte Einsatzbereitschaft und trug maßgeblich zur offensiven Stabilität seines Teams bei.\n\n## Das bedeutet das Ergebnis\n\nDurch den Sieg im Sechzehntelfinale hat Mexiko nicht nur die nächste Runde erreicht, sondern sich auch ein Ausrufezeichen im internationalen Wettbewerb gesetzt. Der Weg ins Achtelfinale ist nun geebnet, und die Mexikaner dürfen mit viel Selbstvertrauen weitere Aufgaben in diesem Turnier angehen. Ecuador hingegen wird enttäuscht aus dem Turnier ausscheiden, doch es bleibt die Hoffnung auf eine erfolgreiche Rückkehr in zukünftige Wettbewerbe.",
+  "createdAt": "2026-07-01T16:10:12.029Z",
+  "id": 1782922212029,
+  "matchId": "760491",
+  "match": {
+    "id": "760491",
+    "kickoff": "2026-07-01T02:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Estadio Banorte",
+    "city": "Mexico City",
+    "attendance": 80824,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Mexiko",
+      "abbr": "MEX",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Ecuador",
+      "abbr": "ECU",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
+      "score": 0
+    },
+    "homeTeamId": "203",
+    "awayTeamId": "209",
+    "goals": [
+      {
+        "minute": "22'",
+        "scorer": "Julián Quiñones",
+        "teamId": "203",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "31'",
+        "scorer": "Raúl Jiménez",
+        "teamId": "203",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

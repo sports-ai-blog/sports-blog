@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Frankreich 3:0 Schweden",
+  "content": "# Frankreich bezwingt Schweden mit 3:0 im Sechzehntelfinale der WM 2026\n\nIn einem hart umkämpften Sechzehntelfinale der FIFA-Weltmeisterschaft 2026 setzte sich die französische Nationalmannschaft deutlich mit 3:0 gegen Schweden durch. Vor 80.663 begeisterten Zuschauern im MetLife Stadium in East Rutherford, New Jersey, zeigten die \"Les Bleus\" ihre Stärke und zogen damit ins Achtelfinale ein.\n\n## So lief das Spiel\n\nDer erste Durchgang war geprägt von taktischem Feingefühl beider Teams, doch es war Kylian Mbappé, der kurz vor dem Pausenpfiff das erste Zeichen setzte. In der 45. Minute traf der französische Superstar ins Netz und sorgte für jubelnde Gesichter auf den Rängen. Mit einer knappen 1:0-Führung ging es in die Halbzeitpause.\n\nDie zweite Halbzeit sah dann einen dominanten Auftritt der Franzosen. Bereits in der 53. Minute erhöhte Bradley Barcola auf 2:0 und verstärkte den Druck auf die schwedische Abwehr. Schweden versuchte, zurück ins Spiel zu kommen, doch die französische Defensive ließ wenig zu. In der 74. Minute war es erneut Kylian Mbappé, der das Spiel endgültig entschied. Sein zweiter Treffer an diesem Abend stellte den Endstand von 3:0 her. Die französischen Fans feierten ausgelassen, während Schweden mit hängenden Köpfen das Spielfeld verließ.\n\n## Spieler des Spiels\n\nOhne Zweifel ist Kylian Mbappé der Spieler des Spiels. Mit seinem Doppelpack krönte der Angreifer einen spektakulären Auftritt und bewies einmal mehr, warum er zu den besten Fußballern der Welt zählt. Sein erstes Tor zur 1:0-Führung war nicht nur entscheidend, sondern setzte auch den Ton für den Rest der Partie. Mbappé zeigte sich läuferisch stark und war ständig anspielbar, ein echter Alptraum für die schwedische Abwehr. Zusammen mit Bradley Barcola, der das zweite Tor erzielte, sorgte er dafür, dass Frankreich in die nächste Runde einziehen konnte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem klaren Sieg hat Frankreich nun die Tür zum Achtelfinale weit aufgestoßen und beweist erneut, dass sie zu den Favoriten auf den Titel gehören. Die französische Nationalmannschaft hat mit ihrer offensiven Leistung ein starkes Zeichen gesetzt und wird mit viel Selbstvertrauen in die kommenden Begegnungen gehen. Schweden hingegen muss die Koffer packen und sich auf die Rückreise vorbereiten. Dieses Turnier bleibt für das skandinavische Team ohne weiteres Glück, während Frankreich sich auf die nächsten Herausforderungen in diesem spannenden Turnier einstellen kann.",
+  "createdAt": "2026-07-01T16:10:05.024Z",
+  "id": 1782922205024,
+  "matchId": "760492",
+  "match": {
+    "id": "760492",
+    "kickoff": "2026-06-30T21:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Frankreich",
+      "abbr": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Schweden",
+      "abbr": "SWE",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+      "score": 0
+    },
+    "homeTeamId": "478",
+    "awayTeamId": "466",
+    "goals": [
+      {
+        "minute": "45'",
+        "scorer": "Kylian Mbappé",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "53'",
+        "scorer": "Bradley Barcola",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "74'",
+        "scorer": "Kylian Mbappé",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

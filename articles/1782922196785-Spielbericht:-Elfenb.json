@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Elfenbeinküste 1:2 Norwegen",
+  "content": "# Elfenbeinküste gegen Norwegen: 1:2 – Norwegen zieht ins Achtelfinale ein\n\nIm AT&T Stadium von Arlington, Texas, begegneten sich am Dienstagabend, den 30. Juni 2026, die Elfenbeinküste und Norwegen im Sechzehntelfinale der WM 2026. Vor 69.665 begeisterten Zuschauern sicherte sich Norwegen mit einem 2:1-Sieg den Einzug ins Achtelfinale und setzte damit ein erstes Ausrufezeichen im Turnier.\n\n## So lief das Spiel\n\nDie Partie begann mit intensiven Zweikämpfen und einem hohen Tempo, doch es war Norwegen, das in der ersten Halbzeit die Oberhand gewann. In der 39. Minute erzielte Antonio Nusa mit einem geschickten Schuss das erste Tor des Spiels. Dies gab dem Team von Trainer Stale Solbakken einen psychologischen Vorteil, den sie bis zur Halbzeitpause erfolgreich verteidigen konnten. \n\nNach der Pause kamen die Spieler aus der Elfenbeinküste mit frischem Elan zurück. In der 74. Minute war es dann Amad Diallo, der die Hoffnung seines Teams wiederbelebte, als er den Ausgleich erzielte. Das Stadion tobte und die Fans der Elfenbeinküste fanden neuen Glauben an ihr Team.\n\nDoch die Freude währte nur kurz. Norwegen kam in der 86. Minute durch ihren Starstürmer Erling Haaland zurück in Führung und erzielte das entscheidende Tor zum 2:1. Haaland zeigte erneut seine Qualitäten als Torjäger und ließ die Elfenbeinküste mit leeren Händen dastehen. Das Endergebnis von 2:1 besiegelte den Aufstieg Norwegens ins Achtelfinale.\n\n## Spieler des Spiels\n\nDer unbestrittene Spieler des Spiels war Erling Haaland. Mit seinem späten Tor in der 86. Minute sicherte er nicht nur den Sieg für sein Team, sondern bewies einmal mehr, dass er in entscheidenden Momenten zur Stelle ist. Der Stürmer, der in der Saison für seine Torjägerqualität bekannt ist, nutzte seine Chance und enormen Einfluss auf das Spiel, um Norwegen in die nächste Runde zu führen. Sein Treffer zeigt, wie wichtig er für die norwegische Mannschaft ist.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg tritt Norwegen in die nächste Runde ein und setzt damit ein starkes Zeichen für den weiteren Verlauf des Turniers. Die Elfenbeinküste hingegen muss sich verabschieden und zurückblicken auf ein Turnier, das gegen Ende hin so gut zu laufen schien. Norwegen hat nicht nur das Achtelfinale erreicht, sondern zeigt auch, dass sie bereit sind, im Wettbewerb nochmals für Aufsehen zu sorgen. Die elfköpfige Truppe aus Skandinavien wird sicherlich mit viel Selbstvertrauen und Motivation in die nächste Herausforderung gehen.",
+  "createdAt": "2026-07-01T16:09:56.785Z",
+  "id": 1782922196785,
+  "matchId": "760490",
+  "match": {
+    "id": "760490",
+    "kickoff": "2026-06-30T17:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 69665,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Elfenbeinküste",
+      "abbr": "CIV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Norwegen",
+      "abbr": "NOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "score": 2
+    },
+    "homeTeamId": "4789",
+    "awayTeamId": "464",
+    "goals": [
+      {
+        "minute": "39'",
+        "scorer": "Antonio Nusa",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "74'",
+        "scorer": "Amad Diallo",
+        "teamId": "4789",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "86'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
