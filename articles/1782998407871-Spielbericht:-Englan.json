@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: England 2:1 Congo DR",
+  "content": "# England bezwingt Congo DR mit 2:1 – Kane dreht das Spiel!\n\nIn einem packenden Sechzehntelfinale der FIFA-Weltmeisterschaft 2026 setzte sich England am Mittwochabend gegen die Demokratische Republik Kongo mit 2:1 durch. Nachdem die Engländer zur Halbzeit einem Rückstand hinterherlaufen mussten, zeigte sich Kapitän Harry Kane in der zweiten Halbzeit in bestechender Form und sicherte seinem Team den Einzug ins Achtelfinale. \n\n## So lief das Spiel\n\nDie Begegnung im Mercedes-Benz Stadium in Atlanta begann mit einer überraschenden Wendung: Bereits in der 7. Minute erzielte Brian Cipenga das 1:0 für die Congo DR und ließ die 68.239 Zuschauer zunächst jubeln. England wirkte zu Beginn des Spiels sichtlich geschockt und benötigte einige Zeit, um sich von diesem frühen Rückstand zu erholen. Trotz offensiver Bemühungen gelang es den \"Three Lions\" in der ersten Halbzeit nicht, den Ausgleich zu erzielen.\n\nErst in der zweiten Halbzeit, genau genommen in der 75. Minute, war es dann Harry Kane, der per Kopf den vielumjubelten Ausgleich markierte und für neue Hoffnung im englischen Lager sorgte. Kaum gedämpft durch den Ausgleich, drängte England weiter auf den Führungstreffer. Nur elf Minuten später, in der 86. Minute, war es erneut Kane, der mit seinem zweiten Treffer die Partie endgültig drehte und England auf die Siegerstraße brachte.\n\n## Spieler des Spiels\n\nDer unbestrittene Spieler des Spiels war Harry Kane. Der Kapitän der englischen Nationalmannschaft zeigte sein ganzes Können und sorgte mit seinem Doppelpack dafür, dass England das Spiel noch drehen konnte. Seine beiden Kopfballtore waren nicht nur entscheidend für den Spielausgang, sondern unterstrichen auch seine Bedeutung als Anführer und Haupttorschütze der Mannschaft. Kane bewies, dass er in schwierigen Situationen stets zur Stelle ist und somit das Vertrauen, das in ihn gesetzt wurde, eindrucksvoll zurückzahlte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg über die Congo DR zieht England ins Achtelfinale der WM 2026 ein und festigt damit seine Ambitionen auf den Titel. Das Team von Trainer Gareth Southgate wird auf einen weiteren starken Gegner treffen, während die Kongolesen sich nach einem beeindruckenden Auftritt in diesem Duell etwas enttäuscht aus dem Turnier verabschieden müssen. England kann mit neuem Selbstbewusstsein und dem unaufhaltsamen Kane an der Spitze in die nächste Runde blicken – ein spannendes Turnier steht ihnen noch bevor!",
+  "createdAt": "2026-07-02T13:20:07.871Z",
+  "id": 1782998407871,
+  "matchId": "760495",
+  "match": {
+    "id": "760495",
+    "kickoff": "2026-07-01T16:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 68239,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "England",
+      "abbr": "ENG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Congo DR",
+      "abbr": "COD",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png",
+      "score": 1
+    },
+    "homeTeamId": "448",
+    "awayTeamId": "2850",
+    "goals": [
+      {
+        "minute": "7'",
+        "scorer": "Brian Cipenga",
+        "teamId": "2850",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "75'",
+        "scorer": "Harry Kane",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "86'",
+        "scorer": "Harry Kane",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

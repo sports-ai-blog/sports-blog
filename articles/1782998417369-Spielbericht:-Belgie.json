@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Belgien 3:2 Senegal",
+  "content": "# Belgien besiegt Senegal mit 3:2 im dramatischen Sechzehntelfinale der WM 2026\n\nIn einem spannenden und hart umkämpften Sechzehntelfinale der Weltmeisterschaft 2026 setzte sich Belgien gegen Senegal durch. Nach einem Rückstand zur Halbzeit siegten die \"Roten Teufel\" mit 3:2, wobei das Spiel erst in der Verlängerung entschieden wurde. Das Lumen Field in Seattle, vor 66.925 aufgeregten Zuschauern, bot die perfekte Kulisse für dieses packende Duell.\n\n## So lief das Spiel\n\nDie Partie begann mit einer frühen Führung für Senegal, als Habib Diarra in der 24. Minute für das erste Highlight sorgte und das Team aus Afrika mit 1:0 in Führung brachte. Belgien, ansonsten als Favorit ins Spiel gestartet, hatte Schwierigkeiten, sich gegen die druckvolle Spielweise der Senegalese durchzusetzen.\n\nIn der zweiten Halbzeit zeigte sich Belgien jedoch entschlossen, den Rückstand wettzumachen. Gleich zu Beginn, in der 51. Minute, gelang es Ismaïla Sarr, Senegal erneut in Führung zu bringen und das Ergebnis auf 2:0 zu erhöhen. Die belgischen Spieler waren nun unter Druck und mussten ein Comeback einleiten.\n\nDie Wende kam in der 86. Minute, als Romelu Lukaku das Publikum mit einem Tor zum 1:2 zurück ins Spiel brachte. Nur drei Minuten später, in der 89. Minute, gelang es Youri Tielemans, mit einem Kopfball den Ausgleich zum 2:2 zu erzielen. Das Stadion bebte, und die belgischen Fans sahen ihre Mannschaft auf dem Weg in eine mögliche Verlängerung.\n\nIn der Nachspielzeit, genauer gesagt in der 120. Minute und 5 Sekunden, sorgte Youri Tielemans dann für die Entscheidung: Ein Elfmeter, sicher verwandelt, brachte Belgien den 3:2-Sieg. Die Spieler brachen in Jubel aus, während die senegalesischen Fans das emotional knappe Ende ihrer Hoffnungen verarbeiten mussten.\n\n## Spieler des Spiels\n\nYouri Tielemans war der entscheidende Spieler des Abends und sorgte nicht nur für den Ausgleich mit seinem Kopfballtor, sondern verwandelte auch den entscheidenden Elfmeter in der Nachspielzeit. Seine beiden Tore innerhalb weniger Minuten machten ihn zum Helden der belgischen Nationalmannschaft und waren entscheidend für den Fortschritt ins Achtelfinale. \n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg zieht Belgien ins Achtelfinale ein und beweist einmal mehr, dass sie trotz Rückständen in der Lage sind, sich zurückzukämpfen. Senegal hingegen scheidet mit erhobenen Köpfen aus, nachdem sie im Turnier eine starke Leistung gezeigt haben. Das belgische Team wird nun in den kommenden Spielen auf sein Potenzial setzen, um den Traum vom Titel weiter zu verfolgen.",
+  "createdAt": "2026-07-02T13:20:17.369Z",
+  "id": 1782998417369,
+  "matchId": "760493",
+  "match": {
+    "id": "760493",
+    "kickoff": "2026-07-01T20:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "attendance": 66925,
+    "statusDetail": "Beendet (n.V.)",
+    "home": {
+      "name": "Belgien",
+      "abbr": "BEL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Senegal",
+      "abbr": "SEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
+      "score": 2
+    },
+    "homeTeamId": "459",
+    "awayTeamId": "654",
+    "goals": [
+      {
+        "minute": "24'",
+        "scorer": "Habib Diarra",
+        "teamId": "654",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "51'",
+        "scorer": "Ismaïla Sarr",
+        "teamId": "654",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "86'",
+        "scorer": "Romelu Lukaku",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "89'",
+        "scorer": "Youri Tielemans",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "120'+5'",
+        "scorer": "Youri Tielemans",
+        "teamId": "459",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

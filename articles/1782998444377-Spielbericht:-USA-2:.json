@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: USA 2:0 Bosnien-Herzegowina",
+  "content": "# USA besiegen Bosnien-Herzegowina 2:0 im Sechzehntelfinale der WM 2026\n\nIn einem packenden Duell im Levi's Stadium in Santa Clara setzten sich die USA im Sechzehntelfinale der WM 2026 mit 2:0 gegen Bosnien-Herzegowina durch. Vor 68.827 begeisterten Fans sorgten Folarin Balogun und Malik Tillman für den verdienten Einzug in das Achtelfinale, während ein Platzverweis für Balogun den Abend zusätzlich prägte.\n\n## So lief das Spiel\n\nDer Anstoß fiel am Donnerstag, dem 2. Juli 2026, um 02:00 Uhr deutscher Zeit. Von Beginn an war die Atmosphäre im Stadion elektrisierend, als die beiden Teams in die Partie gingen. Die USA erarbeiteten sich frühzeitige Chancen und zeigten, dass sie entschlossen waren, das Spiel zu kontrollieren. \n\nIn der 45. Minute war es dann soweit: Folarin Balogun brachte die USA mit seinem Treffer in Führung. Die ersten 45 Minuten waren geprägt von intensivem Kampf um jede einzelne Ballaktion, doch die Amerikaner gingen mit einer knappen, aber verdienten Führung in die Pause.\n\nDie zweite Halbzeit begann mit einer spannenden Dynamik, in der Bosnien-Herzegowina versuchte, den Druck zu erhöhen und den Ausgleich zu erzielen. Doch die USA blieben gefallenträchtig und lauffreudig in ihrem Spiel. In der 64. Minute nahm das Geschehen eine unerwartete Wendung: Folarin Balogun erhielt die Rote Karte und musste das Feld vorzeitig verlassen. Die Amerikaner standen fortan mit einem Mann weniger da, was die Situation für Bosnien-Herzegowina scheinbar vereinfachte.\n\nTrotz des numerischen Übergewichts behielten die USA die Übersicht und gestalteten das Spiel weiter aktiv. Am Ende der Partie setzte Malik Tillman in der 82. Minute den Schlusspunkt. Sein Tor fiel in einer entscheidenden Phase, als Bosnien-Herzegowina noch einmal alles nach vorne warf, um den Rückstand zu reduzieren. Doch Tillman machte mit seinem Treffer alles klar und sicherte den USA den verdienten Sieg.\n\n## Spieler des Spiels\n\nFolarin Balogun war ohne Zweifel der auffälligste Spieler der Begegnung. Mit seinem entscheidenden Tor zur Führung in der ersten Halbzeit setzte er den Grundstein für den Sieg der USA. Obwohl ihm die Rote Karte in der zweiten Halbzeit die Schlussphase verhagelte, bleibt sein Beitrag zu diesem Erfolg nicht unerwähnt. Seine Offensivakzente und das Treffer sind der Schlüssel, warum die USA in der Runde der letzten 16 stehen.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg ziehen die USA in das Achtelfinale ein und zeigen, dass sie mit großer Entschlossenheit auf die Herausforderungen der WM 2026 vorbereitet sind. Das Team hat bewiesen, dass es auch in Drucksituationen bestehen kann, was für den weiteren Verlauf des Turniers von großer Bedeutung sein wird. Die Mannschaft wird nun auf einen neuen Gegner treffen und hat die Möglichkeit, mit diesem Momentum im kommenden Spiel weiterzuwachsen. Bosnien-Herzegowina hingegen muss enttäuscht die Heimreise antreten, während die USA die positive Energie aus diesem Sieg mitnehmen wollen.",
+  "createdAt": "2026-07-02T13:20:44.377Z",
+  "id": 1782998444377,
+  "matchId": "760494",
+  "match": {
+    "id": "760494",
+    "kickoff": "2026-07-02T00:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "attendance": 68827,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "USA",
+      "abbr": "USA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Bosnien-Herzegowina",
+      "abbr": "BIH",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+      "score": 0
+    },
+    "homeTeamId": "660",
+    "awayTeamId": "452",
+    "goals": [
+      {
+        "minute": "45'",
+        "scorer": "Folarin Balogun",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "82'",
+        "scorer": "Malik Tillman",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
