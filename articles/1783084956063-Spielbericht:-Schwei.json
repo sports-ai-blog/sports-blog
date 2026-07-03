@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Schweiz 2:0 Algerien",
+  "content": "# Schweiz behält die Oberhand: 2:0-Sieg gegen Algerien im Sechzehntelfinale der WM 2026\n\nIm ersten Sechzehntelfinale der WM 2026 setzte sich die Schweiz am Freitag, den 3. Juli, mit 2:0 gegen Algerien durch und sicherte sich damit den Einzug ins Achtelfinale. Ein packendes Duell im BC Place in Vancouver zog 52.497 Zuschauer in seinen Bann und bot alles, was ein spannendes Turnierspiel braucht.\n\n## So lief das Spiel\n\nDie Schweizer Nationalmannschaft startete fulminant in die Partie und ließ von der ersten Minute an keinen Zweifel an ihren Ambitionen aufkommen. Bereits in der 10. Minute war es Breel Embolo, der die Schweiz mit einem frühen Tor in Führung brachte. Dieses frühe Erfolgserlebnis gab der Nati das nötige Selbstvertrauen und sie kontrollierten das Spielgeschehen. \n\nAlgerien war bemüht, ins Spiel zu finden, konnte die Defensive der Schweiz jedoch nicht überwinden. Die erste Halbzeit endete mit einem 1:0 für die Schweizer, die das Spielgeschehen über weite Strecken dominierten.\n\nNach der Halbzeitpause legte die Schweiz direkt nach. In der 46. Minute sorgte Dan Ndoye für die Vorentscheidung, als er auf 2:0 erhöhte. Die algerische Mannschaft versuchte, zurück ins Spiel zu finden, konnte jedoch keine nennenswerte Gefahr für das Tor der Schweizer ausstrahlen. \n\nDamit endete das Sechzehntelfinale schließlich mit 2:0 für die Schweiz, die sich mit dieser Leistung ein Ticket für die nächste Runde sicherte.\n\n## Spieler des Spiels\n\nBreel Embolo war zweifellos der Spieler des Spiels. Sein frühes Tor in der 10. Minute legte den Grundstein für den souveränen Auftritt der Schweiz. Mit einer hohen Präsenz auf dem Platz und exzellenter Spielverlagerung trug er entscheidend zum Erfolg seiner Mannschaft bei. Dan Ndoye zeigte ebenfalls seine Qualität mit dem zweiten Tor, aber Embolos bemerkenswerter Start war es, der das Spiel für die Schweiz prägte.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg über Algerien ermöglicht der Schweiz, mit großem Selbstvertrauen in das Achtelfinale einzuziehen. Nach einem starken Auftritt kann die Mannschaft darauf hoffen, ihre Erfolgsserie fortzusetzen und sich somit weiteren Herausforderungen in diesem hochkarätigen Turnier zu stellen. Die Eliminierung Algeriens bedeutet jedoch einen schmerzlichen Abschied für die Nordafrikaner, die sich in der Gruppenphase tapfer geschlagen hatten. Alles in allem war es ein denkwürdiger Morgen für die Schweiz, die nun auf den nächsten Gegner im Viertelfinale wartet.",
+  "createdAt": "2026-07-03T13:22:36.063Z",
+  "id": 1783084956063,
+  "matchId": "760498",
+  "match": {
+    "id": "760498",
+    "kickoff": "2026-07-03T03:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "attendance": 52497,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Schweiz",
+      "abbr": "SUI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Algerien",
+      "abbr": "ALG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+      "score": 0
+    },
+    "homeTeamId": "475",
+    "awayTeamId": "624",
+    "goals": [
+      {
+        "minute": "10'",
+        "scorer": "Breel Embolo",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "46'",
+        "scorer": "Dan Ndoye",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
