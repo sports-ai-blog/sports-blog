@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Australien 1:1 Ägypten",
+  "content": "# Australien vs. Ägypten: Dramatisches 1:1 im Sechzehntelfinale der WM 2026\n\nIn einem packenden Sechzehntelfinalspiel der WM 2026 trennten sich Australien und Ägypten am Freitagabend im AT&T Stadium in Arlington, Texas mit einem 1:1-Remis. Während Ägypten in der ersten Halbzeit durch ein frühes Kopfballtor von Emam Ashour in Führung ging, musste Australien den Ausgleich durch ein Eigentor von Mohamed Hany in der zweiten Halbzeit hinnehmen. Der Kampf um den Einzug ins Achtelfinale endete somit torlos nach der Verlängerung.\n\n## So lief das Spiel\n\nDie Begegnung begann am Freitag, dem 3. Juli 2026, um 20:00 Uhr deutscher Zeit vor 70.244 begeisterten Zuschauern. Schon früh in der Partie konnte Ägypten durch Emam Ashour in der 13. Minute jubeln. Der Spieler zeigte seine Kopfballstärke und brachte seine Mannschaft in Front, was für eine erste Halbzeit mit vielen taktischen Spielzügen und heißen Duellen sorgte.\n\nAustralien kämpfte tapfer, fand jedoch nur schwer in den Rhythmus und konnte nicht die entscheidenden Nadelstiche setzen. Die erste Hälfte endete mit einem 0:1-Rückstand für das Team von der oberen Halbkugel der Erde.\n\nNach dem Seitenwechsel drängten die Australier offensiv auf den Ausgleich. Dieser fiel schließlich in der 55. Minute, allerdings auf unglückliche Weise. Mohamed Hany, ein Schlüsselspieler der ägyptischen Defensive, beförderte den Ball unglücklich ins eigene Netz und stellte damit den Spielstand auf 1:1. Die jubelnden australischen Fans im Stadion spürten einen neuen Aufwind in ihrer Mannschaft, die nun mit voller Kraft auf den Führungstreffer drängte.\n\nDen Tempowechsel in der zweiten Halbzeit beantwortete Ägypten mit weiteren defensiven Maßnahmen, um das Gleichgewicht im Spiel zu sichern. Trotz aller Bemühungen auf beiden Seiten konnten keine weiteren Tore erzielt werden, sodass das Spiel in die Verlängerung und im Anschluss ins Elfmeterschießen ging. Die Zuschauer erlebten einen nervenaufreibenden Abend, der trotz aller Dramatik letztlich ohne Sieger endete.\n\n## Spieler des Spiels\n\nEmam Ashour war ohne Zweifel der auffälligste Akteur des Spiels. Mit seinem frühen Tor in der 13. Minute legte er den Grundstein für die ägyptische Führung und wurde zum Hoffnungsträger seiner Mannschaft. Sein Kopfball bewies nicht nur seine Torgefahr, sondern auch seine Fähigkeit, entscheidende Momente im Spiel zu kreieren. Mit einem derartigen Start in ein K.-o.-Spiel zeigte Ashour, warum er einen Platz in der Startelf der Nationalmannschaft verdient hat.\n\n## Das bedeutet das Ergebnis\n\nDas Unentschieden führt dazu, dass der Ausgang des Spiels über die Teilnahme an der nächsten Runde entschieden werden muss. Mit einem 1:1 wird das Duell äußerst spannend in die nächste Runde weitergetragen. Beide Teams haben nun die Möglichkeit, sich auf das Elfmeterschießen vorzubereiten, in dem Nerven aus Stahl und hervorragende Technik gefragt sind. Das Turnier bleibt mit diesem knappen Resultat unverändert spannend, und sowohl Ägypten als auch Australien müssen nun alles daransetzen, um ihre WM-Träume am Leben zu halten.",
+  "createdAt": "2026-07-04T11:49:13.831Z",
+  "id": 1783165753831,
+  "matchId": "760499",
+  "match": {
+    "id": "760499",
+    "kickoff": "2026-07-03T18:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 70244,
+    "statusDetail": "Beendet (i.E.)",
+    "home": {
+      "name": "Australien",
+      "abbr": "AUS",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Ägypten",
+      "abbr": "EGY",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+      "score": 1
+    },
+    "homeTeamId": "628",
+    "awayTeamId": "2620",
+    "goals": [
+      {
+        "minute": "13'",
+        "scorer": "Emam Ashour",
+        "teamId": "2620",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "55'",
+        "scorer": "Mohamed Hany",
+        "teamId": "628",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      }
+    ]
+  }
+}

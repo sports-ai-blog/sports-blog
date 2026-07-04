@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Argentinien 3:2 Kap Verde",
+  "content": "# Argentinien schlägt Kap Verde im Sechzehntelfinale mit 3:2 nach Verlängerung\n\nIn einem packenden und emotionalen Duell im Hard Rock Stadium von Miami Gardens setzte sich Argentinien im Sechzehntelfinale der WM 2026 gegen Kap Verde mit 3:2 nach Verlängerung durch. Die Partie, die am Samstag, dem 4. Juli 2026, um 00:00 Uhr deutscher Zeit angepfiffen wurde, zog 64.478 Zuschauer in ihren Bann und sorgte für aufregende Momente auf dem Feld.\n\n## So lief das Spiel\n\nDer Start in die erste Halbzeit war von intensiven Zweikämpfen und einem hohen Einsatz beider Mannschaften geprägt. In der 29. Spielminute war es schließlich Lionel Messi, der das erste Tor des Abends erzielte und Argentinien mit 1:0 in Führung brachte. Dieser Treffer schien den Argentiniern eine gewisse Sicherheit zu geben, während Kap Verde weiterhin nach der Offensive suchte, aber bis zur Halbzeitpause keine nennenswerten Chancen herausspielen konnte.\n\nDie zweite Halbzeit begann mit frischem Elan für Kap Verde, das in der 59. Minute durch Deroy Duarte den Ausgleich zum 1:1 erzielte. Dies sorgte für eine Wendung in der Partie, da nun auch Argentinien gefordert war, darauf zu reagieren. Es entwickelte sich ein spannendes Spiel, in dem beide Teams durchaus ihre Möglichkeiten hatten. Doch in der Nachspielzeit der zweiten Halbzeit, genauer gesagt in der 92. Minute, erzielte Lisandro Martínez das 2:1 für Argentinien und schien sein Team auf die Siegerstraße zu bringen.\n\nDoch Kap Verde gab sich nicht geschlagen. In der 103. Minute stellte Sidny Lopes Cabral mit seinem Tor zum 2:2 den Ausgleich her und schickte das Spiel in die Verlängerung. Mit der Spannung im Stadion grenzte die Atmosphäre an den Höhepunkt, als in der 111. Minute ein unglückliches Eigentor von Diney Borges die Argentinier wieder in die Führungsposition versetzte. Argentinien ging mit 3:2 in Führung und hielt diesen knappen Vorsprung bis zum finalen Abpfiff.\n\n## Spieler des Spiels\n\nOhne Zweifel war Lionel Messi der herausragende Spieler des Abends. Er eröffnete den Torreigen mit einem präzisen Treffer in der ersten Halbzeit und trug maßgeblich zur Führung Argentiniens bei. Seine Erfahrung und Klasse waren entscheidend, um das Team in der ersten Phase des Spiels zu stabilisieren. Auch Lisandro Martínez verdient Erwähnung, da er mit seinem späten Treffer in der regulären Spielzeit wichtige Lichtblicke für die Argentinier setzte.\n\n## Das bedeutet das Ergebnis\n\nMit diesem packenden Sieg zieht Argentinien ins Achtelfinale der WM 2026 ein und festigt seine Ambitionen im Turnier. Kap Verde hat zwar frühzeitig die Koffer gepackt, aber die Mannschaft kann mit Stolz auf ihre Leistung und die Möglichkeit, gegen einen der Favoriten auf den Titel zu bestehen, zurückblicken. Argentinien hingegen muss sich auf die kommenden Herausforderungen vorbereiten, wo sie sich gegen noch stärkere Gegner behaupten müssen. Der Weg zum Titel bleibt nun offen und voller Spannung.",
+  "createdAt": "2026-07-04T11:49:25.667Z",
+  "id": 1783165765667,
+  "matchId": "760500",
+  "match": {
+    "id": "760500",
+    "kickoff": "2026-07-03T22:00Z",
+    "phase": "Sechzehntelfinale",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64478,
+    "statusDetail": "Beendet (n.V.)",
+    "home": {
+      "name": "Argentinien",
+      "abbr": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Kap Verde",
+      "abbr": "CPV",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+      "score": 2
+    },
+    "homeTeamId": "202",
+    "awayTeamId": "2597",
+    "goals": [
+      {
+        "minute": "29'",
+        "scorer": "Lionel Messi",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "59'",
+        "scorer": "Deroy Duarte",
+        "teamId": "2597",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "92'",
+        "scorer": "Lisandro Martínez",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "103'",
+        "scorer": "Sidny Lopes Cabral",
+        "teamId": "2597",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "111'",
+        "scorer": "Diney Borges",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": true,
+        "header": false
+      }
+    ]
+  }
+}
