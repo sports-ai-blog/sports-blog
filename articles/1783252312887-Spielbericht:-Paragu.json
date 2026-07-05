@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Paraguay 0:1 Frankreich",
+  "content": "# Paraguay gegen Frankreich: Kylian Mbappé sichert den knappen 1:0-Sieg im Achtelfinale\n\nIn einem spannenden Achtelfinale der Fußball-Weltmeisterschaft 2026 setzte sich Frankreich dank eines Treffers von Kylian Mbappé mit 1:0 gegen Paraguay durch. In einem packenden Duell im Lincoln Financial Field in Philadelphia mussten die Tricolores bis zur 70. Minute warten, um endlich die entscheidende Führung zu erzielen. Mit diesem knappen Sieg zieht Frankreich ins Viertelfinale ein und bewahrt seinen Traum vom Titelgewinn.\n\n## So lief das Spiel\n\nDer Anstoß zum Duell zwischen Paraguay und Frankreich erfolgte am Samstag, den 4. Juli 2026, pünktlich um 23:00 Uhr deutscher Zeit. Die Zuschauer im Lincoln Financial Field konnten sich auf ein spannendes Duell gefasst machen. Die erste Halbzeit verlief torlos und war geprägt von intensiven Zweikämpfen und einer hohen taktischen Disziplin beider Mannschaften. Trotz guter Ansätze auf beiden Seiten brachten es weder die Paraguayer noch die Franzosen fertig, die Abwehrreihen zu überwinden, und so ging es mit einem 0:0 in die Halbzeitpause.\n\nIn der zweiten Hälfte blieb das Geschehen auf dem Platz eng und umkämpft. Die Zuschauer mussten bis zur 70. Minute auf den ersten Treffer warten. Kylian Mbappé, der bereits in der Gruppenphase auf sich aufmerksam gemacht hatte, trat an den Punkt und verwandelte einen Elfmeter souverän. Mit diesem entscheidenden Tor brachte er nicht nur Frankreich in Führung, sondern zeichnete sich erneut als unverzichtbarer Schlüsselspieler in der Offensive aus.\n\nTrotz des Rückstands versuchte Paraguay, den Druck zu erhöhen und sich zurück ins Spiel zu kämpfen, doch die französische Defensive ließ keinen weiteren Treffer zu. Der Schlusspfiff ertönte und besiegelte den knappen, aber verdienten Sieg für die Europäer.\n\n## Spieler des Spiels\n\nKylian Mbappé war der unbestrittene Spieler des Spiels. Mit seinem entscheidenden Tor in der 70. Minute zeigte er einmal mehr, warum er zu den besten Fußballern der Welt zählt. Seine Fähigkeit, in Drucksituationen die Nerven zu bewahren und den Elfmeter sicher zu verwandeln, war entscheidend für den Erfolg der französischen Mannschaft. Mbappé bewies sein großes Talent und seine Bedeutung für die Equipe Tricolore, die auf ihn als Schlüsselspieler in dieser K.o.-Phase angewiesen ist.\n\n## Das bedeutet das Ergebnis\n\nMit diesem 1:0-Sieg hat Frankreich einen wichtigen Schritt in Richtung Viertelfinale gemacht und sich in der Turnierstruktur fest etabliert. Das Team um Trainer Didier Deschamps wird mit Selbstvertrauen in die nächste Runde gehen, wo ihnen vermutlich stärkere Gegner gegenüberstehen. Paraguay hingegen muss sich nach dem Ausscheiden neu orientieren und auf die kommenden Herausforderungen im internationalen Fußball vorbereiten. Die WM 2026 bleibt spannend, und die Fans dürfen sich auf weitere mitreißende Spiele freuen!",
+  "createdAt": "2026-07-05T11:51:52.887Z",
+  "id": 1783252312887,
+  "matchId": "760503",
+  "match": {
+    "id": "760503",
+    "kickoff": "2026-07-04T21:00Z",
+    "phase": "Achtelfinale",
+    "venue": "Lincoln Financial Field",
+    "city": "Philadelphia, Pennsylvania",
+    "attendance": 68324,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Paraguay",
+      "abbr": "PAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Frankreich",
+      "abbr": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "score": 1
+    },
+    "homeTeamId": "210",
+    "awayTeamId": "478",
+    "goals": [
+      {
+        "minute": "70'",
+        "scorer": "Kylian Mbappé",
+        "teamId": "478",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

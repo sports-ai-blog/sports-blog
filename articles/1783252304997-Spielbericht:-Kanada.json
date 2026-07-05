@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Kanada 0:3 Marokko",
+  "content": "# Kanada gegen Marokko: 0:3 - Marokko zieht ins Viertelfinale ein\n\nEin hart umkämpfter Abend im NRG Stadium in Houston, Texas, endete mit einem überzeugenden Sieg für Marokko im Achtelfinale der WM 2026. Kanada fand kein Mittel, um die marokkanische Defensive zu überwinden und musste sich am Ende mit einem klaren 0:3 geschlagen geben. Azzedine Ounahi stellte mit zwei Toren in der zweiten Halbzeit seine Klasse unter Beweis, während Soufiane Rahimi den Schlusspunkt setzte.\n\n## So lief das Spiel\n\nNach einer ausgeglichenen ersten Halbzeit, in der beide Teams sich gegenseitig neutralisierten und keine nennenswerten Torchancen erzeugten, ging es torlos in die Pause. Die 68.777 Zuschauer im Stadion warfen sich jedoch in eine aufgeladene Stimmung, in der die Vorfreude auf die zweite Hälfte allmählich anstieg.\n\nDas Spiel nahm an Fahrt auf, als Azzedine Ounahi in der 50. Minute das erste Tor des Abends erzielte und Marokko in Führung brachte. Mit einem präzisen Schuss schickte er den Ball ins Netz und entfachte damit den marokkanischen Jubel unter den anwesenden Fans.\n\nDiese Führung gab Marokko die nötige Sicherheit, um die Kontrolle über das Spiel zu übernehmen. Kanada agierte bemüht, konnte jedoch oftmals keinen Durchbruch gegen die gut organisierte Abwehr der Nordafrikaner erzielen. In der 82. Minute war es wieder Ounahi, der für eine weitere Entscheidung sorgte. Mit seinem zweiten Tor stellte er auf 2:0 und ließ den kanadischen Spielern kaum Zeit, sich zu sammeln.\n\nMarokko schloss das Spiel mit einem dritten Treffer ab: In der Nachspielzeit, genau genommen in der 90. Spielminute plus 8, stellte Soufiane Rahimi den Endstand von 3:0 her. Damit unterstrichen die Marokkaner ihre Überlegenheit in dieser Partie und sicherten sich den Platz im Viertelfinale.\n\n## Spieler des Spiels\n\nAzzedine Ounahi stellte sich als der entscheidende Spieler des Abends heraus. Seine beiden Treffer in der zweiten Halbzeit waren nicht nur entscheidend für den Sieg, sondern auch ein Beleg für seine Spielfreude und Qualität. Mit einem beeindruckenden Auftritt hat er sich in die Herzen der marokkanischen Fans gespielt und wird mit dieser starken Leistung als Schlüsselspieler für die kommenden Herausforderungen gelten.\n\n## Das bedeutet das Ergebnis\n\nMit dem Sieg über Kanada zieht Marokko verdient ins Viertelfinale der WM 2026 ein. Die Mannschaft hat gezeigt, dass sie in der Lage ist, gegen starke Gegner zu bestehen und den Druck in entscheidenden Momenten auszuhalten. Dieser Triumph gibt den Nordafrikanern zusätzlichen Rückenwind und Selbstbewusstsein für die nächsten Spiele, während Kanada frühzeitig aus dem Turnier ausscheidet und sich nun auf die kommenden Herausforderungen in der Qualifikation konzentrieren muss.",
+  "createdAt": "2026-07-05T11:51:44.997Z",
+  "id": 1783252304997,
+  "matchId": "760502",
+  "match": {
+    "id": "760502",
+    "kickoff": "2026-07-04T17:00Z",
+    "phase": "Achtelfinale",
+    "venue": "NRG Stadium",
+    "city": "Houston, Texas",
+    "attendance": 68777,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Kanada",
+      "abbr": "CAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Marokko",
+      "abbr": "MAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+      "score": 3
+    },
+    "homeTeamId": "206",
+    "awayTeamId": "2869",
+    "goals": [
+      {
+        "minute": "50'",
+        "scorer": "Azzedine Ounahi",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "82'",
+        "scorer": "Azzedine Ounahi",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+8'",
+        "scorer": "Soufiane Rahimi",
+        "teamId": "2869",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
