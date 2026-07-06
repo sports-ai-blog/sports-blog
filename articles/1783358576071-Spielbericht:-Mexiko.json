@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Mexiko 2:3 England",
+  "content": "# Mexiko vs. England: packendes Achtelfinale endet 2:3\n\nIn einem mitreißenden Achtelfinale der FIFA-Weltmeisterschaft 2026 setzte sich England gegen Mexiko mit 3:2 durch. Die Begegnung, die am Montag, den 6. Juli 2026, um 03:00 Uhr deutscher Zeit im Estadio Banorte in Mexico City stattfand und von 80.824 Zuschauern verfolgt wurde, bot alles, was das Herz eines Fußballfans begehrt: Dramatik, spannende Tore und einen packenden Fight bis zur letzten Minute.\n\n## So lief das Spiel\n\nDie Partie begann sehr lebhaft, und bereits in der 36. Minute war es Jude Bellingham, der mit einem prächtigen Kopfball zur Führung für die Engländer traf. Kaum zwei Minuten später, in der 38. Minute, sorgte derselbe Spieler mit einem weiteren Treffer für das 2:0. England schien die Kontrolle über das Spiel zu haben, doch Mexiko ließ sich nicht unterkriegen. Nur vier Minuten nach dem zweiten englischen Tor, in der 42. Minute, gelang Julián Quiñones der Anschluss für die Gastgeber und sorgte für neue Hoffnung auf einen Aufstieg ins Viertelfinale.\n\nNach der Halbzeitpause, in der sich beide Mannschaften neu formierten, zeichnete sich ein neuer Spielverlauf ab. England bekam in der 60. Minuten einen Elfmeter zugesprochen, den Harry Kane souverän zum 3:1 verwandelte. Doch Mexiko fand erneut zurück ins Spiel: In der 69. Minute verwandelte Raúl Jiménez ebenfalls einen Elfmeter und stellte auf 2:3. Die Partie wurde intensiver, vor allem für England, das in der 54. Minute Jarell Quansah mit einer roten Karte verlor. Die verbleibende Zeit wurde zu einem wahren Nervenkrimi, in dem Mexiko alles daran setzte, den Ausgleich zu erzielen, England jedoch mit viel Einsatz verteidigte und den knappen Vorsprung über die Zeit brachte.\n\n## Spieler des Spiels\n\nJude Bellingham war mit seinen zwei Toren der herausragende Akteur des Spiels und hat entscheidend zum Sieg der Engländer beigetragen. Mit seiner Fähigkeit, zur richtigen Zeit am richtigen Ort zu sein, stellte er sich als der Schlüsselspieler heraus, der das Spiel im entscheidenden Moment für England entschied. Sein Kopfballtreffer und der sehenswerte zweite Treffer zeugen von seiner Klasse und seinem Potenzial, das er im Laufe des Turniers weiter unter Beweis stellen dürfte.\n\n## Das bedeutet das Ergebnis\n\nDurch diesen knappen Sieg zieht England ins Viertelfinale ein und wird sicherlich mit großem Selbstvertrauen in die nächste Runde gehen. Mexiko hingegen muss sich nach einem weiteren spannenden Auftritt aus dem Turnier verabschieden, hat jedoch bewiesen, dass sie auf diesem wichtigen internationalen Parkett konkurrenzfähig sind. Die hohen Zuschauerzahlen und die leidenschaftliche Unterstützung ihrer Fans zeigen, dass der Fußball in Mexiko lebendig ist und auch in Zukunft für Furore sorgen wird. England kann mit der Form, die sie gezeigt haben, auf eine erfolgreiche WM hoffen – der Weg zum Titel scheint weiterhin offen.",
+  "createdAt": "2026-07-06T17:22:56.071Z",
+  "id": 1783358576071,
+  "matchId": "760505",
+  "match": {
+    "id": "760505",
+    "kickoff": "2026-07-06T01:00Z",
+    "phase": "Achtelfinale",
+    "venue": "Estadio Banorte",
+    "city": "Mexico City",
+    "attendance": 80824,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Mexiko",
+      "abbr": "MEX",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+      "score": 2
+    },
+    "away": {
+      "name": "England",
+      "abbr": "ENG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "score": 3
+    },
+    "homeTeamId": "203",
+    "awayTeamId": "448",
+    "goals": [
+      {
+        "minute": "36'",
+        "scorer": "Jude Bellingham",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "38'",
+        "scorer": "Jude Bellingham",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "42'",
+        "scorer": "Julián Quiñones",
+        "teamId": "203",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "60'",
+        "scorer": "Harry Kane",
+        "teamId": "448",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "69'",
+        "scorer": "Raúl Jiménez",
+        "teamId": "203",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

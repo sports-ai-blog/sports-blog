@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Brasilien 1:2 Norwegen",
+  "content": "# Norwegen besiegt Brasilien mit 2:1 im Achtelfinale der WM 2026\n\nEin spannender und dramatischer Abend im MetLife Stadium von East Rutherford, New Jersey, brachte eine Sensation im Achtelfinale der WM 2026: Norwegen setzte sich mit 2:1 gegen die fußballerische Übermacht Brasilien durch. In einem hart umkämpften Match, das bis in die Schlussminuten auf der Kippe stand, zog Norwegen den Kürzeren, während die Brasilianer am Ende auf einen Elfmeter hoffen mussten.\n\n## So lief das Spiel\n\nDie Partie begann mit vielversprechenden Anzeichen auf beiden Seiten, doch trotz diverser Versuche blieb die erste Halbzeit torlos. Beide Mannschaften zeigten sich kampfbereit vor 80.663 Zuschauern im Stadion, jedoch konnten weder Brasilien noch Norwegen ihren offensive Spielstil in zählbare Erfolge ummünzen. Nach einer spannungsgeladenen ersten Hälfte, in der sich die Teams nichts schenkten, ging es mit einem 0:0 in die Kabine.\n\nDie Wendung des Spiels kam in der 79. Minute, als Erling Haaland mit einem wuchtigen Kopfball das 1:0 für Norwegen erzielte. Seine Präsenz im Strafraum ließ die brasilianische Abwehr verzweifeln und katapultierte die Norweger in die Führung. In der Nachspielzeit – genauer gesagt in der 90. Minute – sorgte Haaland mit seinem zweiten Treffer des Abends für die endgültige Entscheidung und machte das 2:0 für Norwegen. Brasilien war geschockt und ließ den Rückstand schwer auf sich wirken.\n\nIn der allerletzten Minute der Nachspielzeit, genauer gesagt in der 10. Minute der Nachspielzeit (90'+10'), erhielt Brasilien die Chance, das Spiel doch noch spannend zu machen, als sie einen Elfmeter zugesprochen bekamen. Neymar trat an und verwandelte sicher, aber die Zeit reichte nicht mehr aus, um eine Wende herbeizuführen. Schließlich war der Schlusspfiff da, und Norwegen durfte über einen überraschenden, aber verdienten 2:1-Erfolg jubeln.\n\n## Spieler des Spiels\n\nDer unbestrittene Spieler des Spiels war Erling Haaland. Mit zwei entscheidenden Toren – das erste in der 79. Minute per Kopfball und das zweite Sekunden vor dem Schlusspfiff – demonstrierte der Norweger seine Klasse und bewies, warum er zu den besten Stürmern der Welt zählt. Haalands Fähigkeit, sowohl in der Luft als auch in der Ballverarbeitung zu überzeugen, machte ihn zum Alptraum für die brasilianische Defensive und verhalf Norwegen zu diesem historischen Sieg.\n\n## Das bedeutet das Ergebnis\n\nFür Brasilien bedeutet das Ausscheiden im Achtelfinale das Ende eines unbestrittenen Turniers für eine der Fußballnationen schlechthin, die als Favorit in die WM gestartet war. Norwegen hingegen zieht mit diesem Sieg in das Viertelfinale ein und kann auf eine mögliche Sensation bei diesem Turnier hoffen. Der Erfolg wird als Meilenstein im norwegischen Fußball in die Geschichte eingehen und weckt große Erwartungen für die kommenden Spiele.",
+  "createdAt": "2026-07-06T17:22:42.034Z",
+  "id": 1783358562034,
+  "matchId": "760504",
+  "match": {
+    "id": "760504",
+    "kickoff": "2026-07-05T20:00Z",
+    "phase": "Achtelfinale",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Brasilien",
+      "abbr": "BRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Norwegen",
+      "abbr": "NOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "score": 2
+    },
+    "homeTeamId": "205",
+    "awayTeamId": "464",
+    "goals": [
+      {
+        "minute": "79'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "90'",
+        "scorer": "Erling Haaland",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+10'",
+        "scorer": "Neymar",
+        "teamId": "205",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
