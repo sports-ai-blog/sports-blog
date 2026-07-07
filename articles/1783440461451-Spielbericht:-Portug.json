@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Portugal 0:1 Spanien",
+  "content": "# Portugal vs. Spanien: Ein spannendes Duell endet 0:1 im Achtelfinale der WM 2026\n\nIm AT&T Stadium von Arlington, Texas, erkämpfte sich die spanische Nationalmannschaft im Achtelfinale der WM 2026 einen knappen 1:0-Sieg gegen Portugal. Der Treffer von Mikel Merino in der Nachspielzeit katapultierte die Iberer in die nächste Runde und ließ 70.649 Zuschauer begeistert zurück.\n\n## So lief das Spiel\n\nDer Abend begann mit großer Vorfreude und einem knisternden Spannungsfeld zwischen den beiden Nachbarn, Portugal und Spanien. Beide Teams spielten vor einer imposanten Kulisse im AT&T Stadium und boten den Fans ein hart umkämpftes Duell. In der ersten Halbzeit konnten weder Portugal noch Spanien klare Akzente setzen, sodass der Halbzeitstand von 0:0 in die Statistiken einging. \n\nDie zweite Halbzeit brachte mehr Intensität und Dramatik. Beide Mannschaften suchten nach der entscheidenden Möglichkeit, doch es dauerte bis zur allerletzten Minute des Spiels, bis die Entscheidung fiel. In der Nachspielzeit, genauer gesagt in der 90. Spielminute, war es Mikel Merino, der den Ball ins Netz beförderte und damit den entscheidenden Treffer für Spanien erzielte. Der Jubel kannte kein Halt und die spanischen Spieler feierten diesen wichtigen Erfolg, während die portugiesischen Spieler niedergeschlagen auf dem Rasen verharrten.\n\n## Spieler des Spiels\n\nMikel Merino war der herausragende Spieler des Abends. Mit seinem entscheidenden Tor in der Nachspielzeit sicherte er Spanien den Einzug ins Viertelfinale. Der Spieler, der für seine Spielintelligenz und seinen Kampfgeist bekannt ist, trat zum richtigen Zeitpunkt in Erscheinung und machte den Unterschied aus. Auch wenn er während des Spiels nicht durchgehend im Mittelpunkt stand, bestätigte er mit seinem Tor, dass man im Fußball immer für die entscheidenden Momente bereit sein muss. \n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg zieht Spanien ins Viertelfinale der WM 2026 ein und setzt sich somit in der internationalen Fußballszene weiter durch. Für Portugal hingegen ist das Turnier an dieser Stelle beendet, was angesichts der hohen Erwartungen an das Team eine bittere Enttäuschung darstellt. Spanien wird nun mit neuem Selbstvertrauen und dem Rückenwind aus diesem emotionalen Sieg in die nächste Runde gehen und erwartet mit großer Vorfreude die kommenden Herausforderungen im Turnier.",
+  "createdAt": "2026-07-07T16:07:41.451Z",
+  "id": 1783440461451,
+  "matchId": "760506",
+  "match": {
+    "id": "760506",
+    "kickoff": "2026-07-06T19:00Z",
+    "phase": "Achtelfinale",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 70649,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Portugal",
+      "abbr": "POR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Spanien",
+      "abbr": "ESP",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "score": 1
+    },
+    "homeTeamId": "482",
+    "awayTeamId": "164",
+    "goals": [
+      {
+        "minute": "90'+1'",
+        "scorer": "Mikel Merino",
+        "teamId": "164",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: USA 1:4 Belgien",
+  "content": "# USA gegen Belgien: 1:4 im Achtelfinale der WM 2026\n\nIn einem packenden Achtelfinalspiel der FIFA-Weltmeisterschaft 2026 setzten sich die Belgier souverän gegen die USA durch und gewannen mit 4:1. Die Partie fand am Dienstag, dem 7. Juli 2026, im Lumen Field in Seattle, Washington, vor 66.925 begeisterten Zuschauern statt. Während die Amerikaner nach einer starken Reaktion suchten, zeigten die Belgier ihre Klasse und zogen mit diesem Sieg ins Viertelfinale ein.\n\n## So lief das Spiel\n\nDas Spiel begann mit hohem Tempo und großen Erwartungen auf Seiten der Fans. Bereits in der 9. Minute brachte Charles De Ketelaere die Belgier mit 1:0 in Führung. Die US-Mannschaft ließ sich jedoch nicht entmutigen und zeigte umgehend Reaktionen. Knapp 20 Minuten später, in der 31. Minute, erzielte Malik Tillman den Ausgleich und sorgte für eine kurze Hoffnung auf Seiten der amerikanischen Fans. Doch die Belgier stellten nur zwei Minuten später den alten Abstand wieder her: De Ketelaere gelang es, per Kopfball in der 33. Minute das 2:1 zu erzielen und damit sein Tor-Konto in diesem Spiel auf zwei Treffer zu erhöhen.\n\nMit einem Rückstand ging es in die Kabinen, und die Amerikaner hatten sich für die zweite Hälfte einiges vorgenommen. Doch Belgien erwies sich als abgebrüht und ließ in der 57. Minute mit Hans Vanaken das nächste Tor folgen, was das Ergebnis auf 3:1 erhöhte. Die Schlussphase des Spiels gehörte dann erneut den Belgiern: In der Nachspielzeit, genau genommen in der 90.+3 Minute, traf Romelu Lukaku zum 4:1 und machte damit den Deckel auf die Partie. Es war ein denkwürdiger Abend für das belgische Team, das über die gesamte Spielzeit hinweg die Oberhand behielt.\n\n## Spieler des Spiels\n\nCharles De Ketelaere verdiente sich den Titel „Spieler des Spiels“. Mit zwei Toren, darunter ein wuchtiger Kopfball, trug der junge Stürmer nicht nur entscheidend zum Sieg bei, sondern bewies auch seine außergewöhnliche Technik und Spielintelligenz. Seine Leistung war für das gesamte belgische Team inspirierend und zeigte, dass er bereit ist, in den entscheidenden Momenten zu glänzen.\n\n## Das bedeutet das Ergebnis\n\nMit diesem überzeugenden Sieg zieht Belgien ins Viertelfinale ein und bleibt im Rennen um den WM-Titel. Für die USA hingegen bedeutet das Ausscheiden das Ende einer hoffnungsvollen WM-Reise, die durch Leidenschaft und Engagement geprägt war. Belgien hat mit einer starken Mannschaftsleistung die Weichen für eine potenziell erfolgreiche Titelverteidigung gestellt. Fans und Experten dürfen gespannt sein, wie der weitere Turnierverlauf sich entwickeln wird – Belgien hat mit diesem klaren Erfolg eindrucksvoll ihre Ambitionen untermauert.",
+  "createdAt": "2026-07-07T16:07:50.199Z",
+  "id": 1783440470199,
+  "matchId": "760507",
+  "match": {
+    "id": "760507",
+    "kickoff": "2026-07-07T00:00Z",
+    "phase": "Achtelfinale",
+    "venue": "Lumen Field",
+    "city": "Seattle, Washington",
+    "attendance": 66925,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "USA",
+      "abbr": "USA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Belgien",
+      "abbr": "BEL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "score": 4
+    },
+    "homeTeamId": "660",
+    "awayTeamId": "459",
+    "goals": [
+      {
+        "minute": "9'",
+        "scorer": "Charles De Ketelaere",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "31'",
+        "scorer": "Malik Tillman",
+        "teamId": "660",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "33'",
+        "scorer": "Charles De Ketelaere",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "57'",
+        "scorer": "Hans Vanaken",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+3'",
+        "scorer": "Romelu Lukaku",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
