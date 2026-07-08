@@ -1,0 +1,72 @@
+{
+  "title": "Spielbericht: Argentinien 3:2 Ägypten",
+  "content": "# Argentinien besiegt Ägypten mit 3:2 im Achtelfinale der WM 2026\n\nIn einem dramatischen Achtelfinalspiel hat Argentinien Ägypten mit 3:2 besiegt und sich somit den Platz im Viertelfinale der WM 2026 gesichert. Nach einem Rückstand zur Halbzeit gelang es der Albiceleste, das Spiel in der zweiten Halbzeit zu drehen und die Zuschauer im Mercedes-Benz Stadium in Atlanta in einen wahren Fußballrausch zu versetzen.\n\n## So lief das Spiel\n\nDas Spiel begann mit viel Intensität und einer spannenden Atmosphäre, während über 68.000 Fans das Mercedes-Benz Stadium befeuerten. Ägypten setzte bereits früh ein erstes Ausrufezeichen. In der 15. Minute war es Yasser Ibrahim, der mit einem Kopfball nach einer Ecke für die Führung der Nordafrikaner sorgte. Argentinien tat sich zunächst schwer, um zurück ins Spiel zu finden, und so ging es mit 0:1 in die Halbzeitpause.\n\nDie zweite Halbzeit sollte jedoch eine 180-Grad-Wende bringen. In der 67. Minute erhöhte Mostafa Zico für Ägypten und stellte die Argentinier vor eine schwierige Aufgabe, da sie nun mit 0:2 ins Hintertreffen geraten waren. Doch die Hoffnung kam für die Südamerikaner zurück, als Cristian Romero in der 79. Minute mit einem Kopfball den Anschlusstreffer erzielte. Die Spannung war greifbar!\n\nNur vier Minuten später, in der 83. Minute, war es der Maestro Lionel Messi, der mit einem Treffer das Stadion zum Beben brachte und den 2:2-Ausgleich erzielte. Das Spiel war nun komplett offen und beide Teams spielten voller Leidenschaft auf den Sieg. In der Nachspielzeit, genauer gesagt in der 90+2. Minute, nutzte Enzo Fernández eine weitere Kopfballchance, um für Argentinien das 3:2 zu erzielen und den Finaleinzug perfekt zu machen. Das Stadium war ekstatisch!\n\n## Spieler des Spiels\n\nOhne Zweifel verdient Lionel Messi die Auszeichnung als Spieler des Spiels. Der Superstar zeigte einmal mehr sein außergewöhnliches Talent, indem er nicht nur einen entscheidenden Treffer erzielte, sondern auch maßgeblich am Comeback seiner Mannschaft beteiligt war. Sein Einfluss auf das Spiel war spürbar, und die Fans hätten wohl niemand anderen bevorzugt, um das Spiel zu drehen. Mit gekonnten Dribblings und seiner Spielintelligenz sorgte er dafür, dass Argentinien nicht nur im Spiel blieb, sondern schlussendlich zum Sieger wurde.\n\n## Das bedeutet das Ergebnis\n\nDer Sieg über Ägypten bedeutet für Argentinien, dass sie im Turnier einen Schritt weitergekommen sind und sich auf die nächsten Herausforderungen in der K.o.-Phase einstellen können. Nach einem hart umkämpften Spiel, in dem sie sich nach einem 0:2-Rückstand zurückkämpfen mussten, können die Argentinier nun mit neuem Selbstvertrauen in das Viertelfinale gehen. Die Fans dürfen gespannt sein, wie sich die Albiceleste in der kommenden Runde behaupten wird und ob sie ihren Traum von einer weiteren Weltmeisterschaft weiterverfolgen können.",
+  "createdAt": "2026-07-08T12:07:00.519Z",
+  "id": 1783512420519,
+  "matchId": "760509",
+  "match": {
+    "id": "760509",
+    "kickoff": "2026-07-07T16:00Z",
+    "phase": "Achtelfinale",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 68239,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Argentinien",
+      "abbr": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Ägypten",
+      "abbr": "EGY",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+      "score": 2
+    },
+    "homeTeamId": "202",
+    "awayTeamId": "2620",
+    "goals": [
+      {
+        "minute": "15'",
+        "scorer": "Yasser Ibrahim",
+        "teamId": "2620",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "67'",
+        "scorer": "Mostafa Zico",
+        "teamId": "2620",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "79'",
+        "scorer": "Cristian Romero",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "83'",
+        "scorer": "Lionel Messi",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+2'",
+        "scorer": "Enzo Fernández",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Spielbericht: Schweiz 0:0 Kolumbien",
+  "content": "# Schweiz gegen Kolumbien: Torloses Unentschieden im Achtelfinale der WM 2026\n\nEin packendes Duell zwischen der Schweiz und Kolumbien endete im Achtelfinale der WM 2026 mit einem torlosen Unentschieden (0:0). Bei einem ausverkauften BC Place in Vancouver, wo 52.497 Zuschauer die beiden Mannschaften anfeuerten, konnte keine der beiden Nationalmannschaften den entscheidenden Treffer erzielen. Der spannende Abend kündete von intensiven Zweikämpfen und taktischen Finessen, jetzt heißt es, für beide Teams den Fokus auf die bevorstehenden Herausforderungen zu richten.\n\n## So lief das Spiel\n\nVon der ersten Minute an war die Begegnung ein intensives Kräftemessen. Die Zuschauer erlebten ein hart umkämpftes Match, bei dem sich beide Teams am eigenen Strafraum begegneten. Trotz des großen Engagements und der offensiven Bemühungen blieb das Netz jedoch unberührt. Taktische Finesse und solide Defensivleistungen prägten das Geschehen auf dem Rasen – ein echtes Duell der Strategen, in dem sich kein Team entscheidend durchsetzen konnte.\n\nDie erste Halbzeit brachte wenig Aufregung auf den Rängen, die Zuschauer mussten sich mit einem 0:0 zur Halbzeit begnügen. Auch in der zweiten Hälfte, die mit viel Spannung begann, fand kein Team den Weg zum Tor. Zahlreiche Konter und geordnete Angriffe führten nicht zu einem Treffer. So endete das Match, wie es begonnen hatte: torlos und in der regulären Spielzeit ohne nennenswerte Höhepunkte. \n\nSowohl die Schweiz als auch Kolumbien zogen sich nach dem Schlusspfiff in die Verlängerung zurück, jedoch auch hier blieb das Gerangel ohne Treffer. In einer weiteren halben Stunde voller strategischer Wechsel und Versuche, die gegnerische Defensive zu überwinden, sorgte der Spielverlauf dafür, dass der Ausgang ohne Tore blieb.\n\n## Spieler des Spiels\n\nIn einem Spiel ohne Tore hebt sich nur der Spieler hervor, der trotz des torlosen Ergebnisses eine entscheidende Rolle spielte. In diesem Fall kann man die stabilen Defensivleistungen und die Organisation im Mittelfeld herausstellen. Es ist schwierig, einen bestimmten Akteur zu benennen, wenn das Match von der Defensive geprägt war, aber dennoch war es die gesamte Teamleistung, die die Null hielt. Sowohl die Abwehrreihen beider Mannschaften bestanden dem Druck unter den Augen der Zuschauer.\n\nDie Torhüter verhinderten in dem teuflisch engen Duell mehrmals einen Rückstand, doch das Augenmerk lag auf der soliden Zusammenarbeit der Spieler und der kompromisslosen Arbeit im Mittelfeld, die das Spiel lange auf einem ausgeglichenen Niveau hielt.\n\n## Das bedeutet das Ergebnis\n\nDas torlose Unentschieden bedeutet für beide Teams, dass sie sich nun in der anstehenden Elfmeterlotterie beweisen müssen. In einem Turnier, in dem jede Entscheidung über Wohl und Wehe einer Mannschaft entscheidet, wird der Druck größer. Wer in der Verlängerung ins Schussverfahren gelangt, muss sich auf die Nervenstärke und die Präzision am Punkt verlassen. Beide Mannschaften sind bereits in dieser Phase weit gekommen und die nächste Runde verlangt nach neuen Strategien und zur Verfügung stehenden Ressourcen. Der Traum vom Weltmeistertitel wird nun im Elfmeterschießen entschieden. Wer wird den nächsten Schritt wagen, wer wird aus dem Turnier ausscheiden? Es bleibt spannend und die gesamte Fußballwelt blickt in die kommenden Tage mit großer Vorfreude.",
+  "createdAt": "2026-07-08T12:07:13.934Z",
+  "id": 1783512433934,
+  "matchId": "760508",
+  "match": {
+    "id": "760508",
+    "kickoff": "2026-07-07T20:00Z",
+    "phase": "Achtelfinale",
+    "venue": "BC Place",
+    "city": "Vancouver",
+    "attendance": 52497,
+    "statusDetail": "Beendet (i.E.)",
+    "home": {
+      "name": "Schweiz",
+      "abbr": "SUI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Kolumbien",
+      "abbr": "COL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+      "score": 0
+    },
+    "homeTeamId": "475",
+    "awayTeamId": "208",
+    "goals": []
+  }
+}
