@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Frankreich 2:0 Marokko",
+  "content": "# Frankreich besiegt Marokko im Viertelfinale der WM 2026 mit 2:0\n\nMit einem klaren 2:0-Sieg über Marokko zieht die französische Nationalmannschaft ins Halbfinale der WM 2026 ein. Die Partie fand am Donnerstag, den 9. Juli 2026, im Gillette Stadium in Foxborough, Massachusetts, vor 63.811 begeisterten Zuschauern statt. Nach einer torlosen ersten Halbzeit waren es Kylian Mbappé und Ousmane Dembélé, die mit ihren Treffern in der zweiten Halbzeit die Weichen auf Sieg stellten.\n\n## So lief das Spiel\n\nDie ersten 45 Minuten der Begegnung waren von Intensität und taktischer Disziplin geprägt. Beide Mannschaften schenkten sich nichts und neutralisierten sich weitestgehend im Mittelfeld. Trotz einiger Ansätze und Bemühungen auf beiden Seiten blieb das Tor jedoch bis zur Halbzeitpause aus. Das Publikum im Gillette Stadium verharrte gespannt, während die Spieler in die Kabine gingen.\n\nDer zweite Durchgang begann mit mehr Offensivdrang der Franzosen. In der 60. Minute war es schließlich Kylian Mbappé, der das erste Tor des Abends erzielte und France in Führung brachte. Nur sechs Minuten später, in der 66. Minute, erhöhte Ousmane Dembélé auf 2:0. Damit war der Grundstein für den Einzug ins Halbfinale gelegt. Marokko versuchte, den Druck zu erhöhen, konnte jedoch in der verbleibenden Spielzeit keine signifikanten Akzente setzen.\n\n## Spieler des Spiels\n\nDer auffälligste Spieler auf dem Platz war ohne Zweifel Kylian Mbappé, der mit seinem entscheidenden Treffer nicht nur für die Führung sorgte, sondern auch seine unbestrittene Klasse unter Beweis stellte. Seine Schnelligkeit und Kreativität machten ihn zu einer ständigen Bedrohung für die marokkanische Abwehr. Auch Ousmane Dembélé verdiente sich durch sein Tor Anerkennung, das den Franzosen zusätzliche Sicherheit brachte und das Spiel frühzeitig entschied.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg festigt Frankreich seinen Status als einer der Turnierfavoriten und zieht ins Halbfinale der WM 2026 ein. Marokko hingegen muss den Kopf hochhalten, hat es doch bis zu diesem Punkt eine beeindruckende Leistung gezeigt. Die französische Mannschaft wird nun auf die nächste Herausforderung im Kampf um den Titel warten, während Marokko die Möglichkeit hat, aus dieser Erfahrung zu lernen und gestärkt in zukünftige Wettbewerbe zu gehen.",
+  "createdAt": "2026-07-10T13:35:36.572Z",
+  "id": 1783690536572,
+  "matchId": "760510",
+  "match": {
+    "id": "760510",
+    "kickoff": "2026-07-09T20:00Z",
+    "phase": "Viertelfinale",
+    "venue": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "attendance": 63811,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Frankreich",
+      "abbr": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Marokko",
+      "abbr": "MAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+      "score": 0
+    },
+    "homeTeamId": "478",
+    "awayTeamId": "2869",
+    "goals": [
+      {
+        "minute": "60'",
+        "scorer": "Kylian Mbappé",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "66'",
+        "scorer": "Ousmane Dembélé",
+        "teamId": "478",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
