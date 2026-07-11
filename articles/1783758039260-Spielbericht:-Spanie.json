@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Spanien 2:1 Belgien",
+  "content": "# Spanien besiegt Belgien im Viertelfinale der WM 2026 mit 2:1\n\nIn einem packenden Viertelfinalspiel der WM 2026 setze sich Spanien am Freitagabend, den 10. Juli 2026, gegen Belgien mit 2:1 durch. Das Duell fand im beeindruckenden SoFi Stadium in Inglewood, Kalifornien, vor 70.492 begeisterten Zuschauern statt. In einem hart umkämpften Match zeigten beide Teams ihr bestes Fußball, doch am Ende war es Spanien, das den entscheidenden Schritt ins Halbfinale machte.\n\n## So lief das Spiel\n\nDie Partie begann mit hohem Tempo, und schon in der 30. Minute konnte Fabián Ruiz für Spanien den ersten Treffer erzielen. Mit einem präzisen Schuss brachte er sein Team in Führung und die spanischen Fans im Stadion zum Toben. Doch Belgien antwortete schnell und zeigte seine eigene Stärke. Nur 11 Minuten später, in der 41. Minute, war es Charles De Ketelaere, der mit einem Kopfball den Ausgleich erzielte und den belgischen Anhängern Freude bereitete. Mit einem 1:1-Unentschieden ging es in die Halbzeitpause, die beiden Mannschaften waren völlig ausgeglichen.\n\nDie zweite Halbzeit verlief zunächst verhalten, mit einem hohen Niveau an Intensität auf dem Platz. Großartige Defensivleistungen auf beiden Seiten sorgten dafür, dass das kommende Tor lange auf sich warten ließ. Doch dann, in der 88. Minute, war es Mikel Merino, der das Stadion zum Beben brachte. Mit einem eindrucksvollen Treffer aus kurzer Distanz sicherte er Spanien den knappen 2:1-Sieg.\n\n## Spieler des Spiels\n\nHervorzuheben ist der spanische Torschütze Mikel Merino, der nicht nur für das entscheidende Tor verantwortlich war, sondern auch mit einer soliden Leistung im Mittelfeld überzeugte. Seine Fähigkeit, die entscheidenden Akzente zu setzen und den Druck auf die belgische Abwehr zu erhöhen, war ein maßgeblicher Faktor für den Erfolg Spaniens an diesem Abend. Merinos Siegtor kurz vor Schluss wird ihm sicher einen Platz in den Herzen der spanischen Fans einbringen.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg zieht Spanien ins Halbfinale der WM 2026 ein und festigt seinen Status als einer der heißesten Anwärter auf den Titel. Die Niederlage für Belgien bedeutet das Aus im Turnier und einen weiteren Schritt in einem bereits enttäuschenden Wettkampf für die belgische Nationalmannschaft, die bei dieser WM große Erwartungen zu erfüllen hatte. Mit dem Blick auf das Halbfinale wird Spanien nun auf den nächsten Gegner gespannt sein, während Belgien sich bereits auf die kommenden Herausforderungen in der Zukunft konzentrieren muss.",
+  "createdAt": "2026-07-11T08:20:39.260Z",
+  "id": 1783758039260,
+  "matchId": "760511",
+  "match": {
+    "id": "760511",
+    "kickoff": "2026-07-10T19:00Z",
+    "phase": "Viertelfinale",
+    "venue": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "attendance": 70492,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Spanien",
+      "abbr": "ESP",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "score": 2
+    },
+    "away": {
+      "name": "Belgien",
+      "abbr": "BEL",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "score": 1
+    },
+    "homeTeamId": "164",
+    "awayTeamId": "459",
+    "goals": [
+      {
+        "minute": "30'",
+        "scorer": "Fabián Ruiz",
+        "teamId": "164",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "41'",
+        "scorer": "Charles De Ketelaere",
+        "teamId": "459",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "88'",
+        "scorer": "Mikel Merino",
+        "teamId": "164",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
