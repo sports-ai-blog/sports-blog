@@ -1,0 +1,64 @@
+{
+  "title": "Spielbericht: Argentinien 3:1 Schweiz",
+  "content": "# Argentinien bezwingt die Schweiz mit 3:1 im Viertelfinale der WM 2026\n\nIn einem packenden Viertelfinale der WM 2026 setzte sich Argentinien mit 3:1 gegen die Schweiz durch und sicherte sich damit den Einzug ins Halbfinale. Vor 69.045 begeisterten Zuschauern im GEHA Field at Arrowhead Stadium in Kansas City zeigte die argentinische Mannschaft eine starke Leistung, während die Schweizer trotz eines kämpferischen Auftritts nicht belohnt wurden.\n\n## So lief das Spiel\n\nDer Anpfiff fiel am Sonntag, dem 12. Juli 2026, um 03:00 Uhr deutscher Zeit. Argentinien übernahm von Beginn an die Kontrolle über das Spiel und ging in der 10. Minute durch einen Kopfball von Alexis Mac Allister in Führung. Die argentinischen Fans im Stadion jubelten, während die Schweizer versuchten, sich von dem frühen Rückstand zu erholen.\n\nDie erste Halbzeit verlief mit wenigen nennenswerten Chancen, wobei Argentinien das Spielgeschehen bestimmten und die Defensive der Schweiz ins Schwitzen brachte. Mit einer 1:0-Führung für Argentinien ging es in die Halbzeitpause.\n\nNach dem Seitenwechsel erlangte die Schweiz mehr Schwung und fand in der 67. Minute den Ausgleich durch Dan Ndoye, der für Jubel bei den Schweizer Anhängern sorgte. Der Ausgleich schien das Match auf den Kopf zu stellen, doch die Argentinier ließen sich nicht aus dem Konzept bringen.\n\nIn einer entscheidenden Phase des Spiels wurde es für die Schweiz noch schwieriger. Breel Embolo sah in der 72. Minute die rote Karte und ließ seine Mannschaft in Unterzahl zurück. Argentinien nutzte den Vorteil eiskalt aus und zeigte seine Klasse. In der 112. Minute war es Julián Álvarez, der erneut für die Führung sorgte, und die Argentinier brachten sich mit diesem Tor in eine komfortable Position.\n\nIn der Nachspielzeit, genauer gesagt in der 120. Minute +1, setzte Lautaro Martínez den Schlusspunkt und traf zum 3:1, was den endgültigen Sieg der Argentinier besiegelte. Die Schweiz blieb trotz aller Bemühungen chancenlos und musste die Überlegenheit der Südamerikaner anerkennen. \n\n## Spieler des Spiels\n\nBesonders hervorzuheben ist Alexis Mac Allister, der mit seinem Kopfballtor in der 10. Minute den Grundstein für den argentinischen Sieg legte. Sein geschicktes Stellungsspiel und die Fähigkeit, sich in entscheidenden Momenten zu positionieren, zeichneten ihn an diesem Abend aus. Mac Allister war nicht nur offensiv präsent, sondern trug auch zur Stabilität im Mittelfeld bei, die für den Erfolg der Argentinier unerlässlich war. \n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg zieht Argentinien ins Halbfinale ein und bestätigt erneut seine Position als einer der Favoriten auf den WM-Titel. Die Schweizer Mannschaft wird mit Enttäuschung auf das Ausscheiden zurückblicken müssen, können jedoch stolz auf ihre Leistung im Turnier sein. Argentinien wird sich nun auf die nächste Herausforderung vorbereiten, während die Fußballwelt gespannt auf die weiteren Spiele blickt.",
+  "createdAt": "2026-07-12T08:40:00.751Z",
+  "id": 1783845600751,
+  "matchId": "760513",
+  "match": {
+    "id": "760513",
+    "kickoff": "2026-07-12T01:00Z",
+    "phase": "Viertelfinale",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "attendance": 69045,
+    "statusDetail": "Beendet (n.V.)",
+    "home": {
+      "name": "Argentinien",
+      "abbr": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "score": 3
+    },
+    "away": {
+      "name": "Schweiz",
+      "abbr": "SUI",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "score": 1
+    },
+    "homeTeamId": "202",
+    "awayTeamId": "475",
+    "goals": [
+      {
+        "minute": "10'",
+        "scorer": "Alexis Mac Allister",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      },
+      {
+        "minute": "67'",
+        "scorer": "Dan Ndoye",
+        "teamId": "475",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "112'",
+        "scorer": "Julián Álvarez",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "120'+1'",
+        "scorer": "Lautaro Martínez",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}

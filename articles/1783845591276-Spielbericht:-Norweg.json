@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: Norwegen 1:2 England",
+  "content": "# Norwegen unterliegt England im Viertelfinale: 1:2 nach Verlängerung\n\nIn einem packenden Viertelfinale der WM 2026 setzte sich England gegen Norwegen mit 2:1 nach Verlängerung durch und zieht somit in das Halbfinale ein. In einem zentralen Duell, das von dramatischen Wendungen geprägt war, gelang Jude Bellingham das entscheidende Tor in der 93. Minute und sicherte seiner Mannschaft den Aufstieg.\n\n## So lief das Spiel\n\nDer Anstoß im Hard Rock Stadium in Miami Gardens, Florida, erfolgte am Samstagabend um 23:00 Uhr deutscher Zeit, und die 64.478 Zuschauer erlebten ein Feuerwerk aus Emotionen und intensiven Zweikämpfen. Early in the game zeigen beide Mannschaften, dass sie um den Einzug ins Halbfinale kämpfen würden. In der 36. Minute war es Andreas Schjelderup, der für Norwegen den ersten Treffer erzielte und damit die Arena zum Beben brachte. Die Norweger jubelten und setzten England unter Druck.\n\nDoch England war keineswegs geschockt und setzte alles daran, um zurück ins Spiel zu finden. Diese Bemühungen zahlten sich kurz vor der Halbzeit aus. In der Nachspielzeit der ersten Hälfte, genauer gesagt in der 45.+2 Minute, war es Jude Bellingham, der den Ausgleich erzielte und somit die Hoffnung der englischen Fans neu entfachte. Mit einem 1:1 ging es in die Kabine, die Partie war ausgeglichen.\n\nIn der zweiten Halbzeit kämpften beide Teams um die Kontrolle des Spiels, doch kein weiteres Tor wollte fallen, weshalb es zur Verlängerung kam. Die Spannung lag dicht in der Luft, als die Zuschauer in Miami Garden weiterhin auf eine Entscheidung warteten. Dann, in der 93. Minute, kam das Drama: Jude Bellingham schnappte sich den Ball und erzielte den zweiten Treffer für England. Mit seinem Doppelpack sicherte er dem Team den verdienten Sieg.\n\n## Spieler des Spiels\n\nJude Bellingham trat in dieser entscheidenden Partie als strahlender Held hervor. Mit zwei Toren, darunter das entscheidende in der Verlängerung, zeigte der junge Engländer eine beeindruckende Leistung und bewies seine Nervenstärke unter Druck. Seine Fähigkeit, in entscheidenden Momenten zu glänzen, wird nicht nur seinen Teamkollegen, sondern auch den Fans in Erinnerung bleiben.\n\n## Das bedeutet das Ergebnis\n\nDer Einzug Englands ins Halbfinale bedeutet, dass das Team weiterhin auf dem Weg zum Titel ist. Norwegen hingegen muss sich nach diesem dramatischen Ausscheiden neu orientieren, auch wenn die Leistung des Teams Mut für die kommenden Wettbewerbe bietet. Die englische Mannschaft wird mit viel Selbstvertrauen und Momentum ins Halbfinale gehen und ist fest entschlossen, die nächsten Hürden zu meistern.",
+  "createdAt": "2026-07-12T08:39:51.276Z",
+  "id": 1783845591276,
+  "matchId": "760512",
+  "match": {
+    "id": "760512",
+    "kickoff": "2026-07-11T21:00Z",
+    "phase": "Viertelfinale",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64478,
+    "statusDetail": "Beendet (n.V.)",
+    "home": {
+      "name": "Norwegen",
+      "abbr": "NOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "score": 1
+    },
+    "away": {
+      "name": "England",
+      "abbr": "ENG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "score": 2
+    },
+    "homeTeamId": "464",
+    "awayTeamId": "448",
+    "goals": [
+      {
+        "minute": "36'",
+        "scorer": "Andreas Schjelderup",
+        "teamId": "464",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "45'+2'",
+        "scorer": "Jude Bellingham",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "93'",
+        "scorer": "Jude Bellingham",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
