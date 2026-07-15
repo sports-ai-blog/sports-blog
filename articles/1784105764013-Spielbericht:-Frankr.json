@@ -1,0 +1,48 @@
+{
+  "title": "Spielbericht: Frankreich 0:2 Spanien",
+  "content": "# Spanien bezwingt Frankreich mit 2:0 im WM-Halbfinale 2026\n\nIn einem spannenden Halbfinale der Fußball-Weltmeisterschaft 2026 setzte sich Spanien gegen Frankreich mit 2:0 durch. Die Partie, die am Dienstag, dem 14. Juli 2026, im AT&T Stadium in Arlington, Texas, stattfand, zog 70.176 Fans in ihren Bann. Während die Franzosen nach der enttäuschenden Niederlage auf die Analyse ihrer Taktik schauen müssen, darf sich die spanische Auswahl auf das Finale freuen.\n\n## So lief das Spiel\n\nVon Beginn an war die Begegnung von großer Intensität geprägt. Frankreich und Spanien schenkten sich in einem hart umkämpften Duell nichts. Die ersten Minuten waren geprägt von gegenseitiger Abtastung, jedoch zeichnete sich schnell das etwas druckvollere Spiel von Spanien ab. \n\nDer Durchbruch gelang den Iberern in der 22. Minute: Mikel Oyarzabal trat zum Elfmeter an und verwandelte sicher zur 1:0-Führung für sein Team. Diese frühe Führung gab Spanien die nötige Sicherheit, während Frankreich nun gezwungen war, auf den Ausgleich zu drängen. Trotz einiger Bemühungen kam die Équipe Tricolore jedoch nicht zwingend zu klaren Chancen.\n\nIn der zweiten Halbzeit setzten die Spanier ihre Strategie fort und machten Druck auf die französische Defensive. In der 58. Minute folgte dann der nächste entscheidende Moment: Pedro Porro erhöhte auf 2:0 für die Spanier und brachte das Stadion zum Beben. Frankreich hatte zwar noch einige Anläufe, doch der Ausgleich wollte einfach nicht gelingen.\n\nDie letzte Phase der Partie geriet für die Spieler aus dem Hexagon zunehmend frustrierender. Der spanische Abwehrriegel stand stabil und ließ kaum etwas zu, während die angreifenden Franzosen an ihrer eigenen Unsicherheit zu scheitern schienen. Letztlich blieb es beim 2:0 und Spanien schaffte es, das Spiel souverän über die Zeit zu bringen.\n\n## Spieler des Spiels\n\nMikel Oyarzabal stach an diesem Abend besonders hervor. Der Torschütze zum 1:0 zeigte sich nicht nur aufgrund seiner Treffergenauigkeit als Schlüsselspieler, sondern auch durch seine Spielweise und sein Engagement auf dem Platz. Oyarzabal war ständig anspielbar und bereitete den französischen Abwehrspielern einige Probleme. Sein sicher verwandelter Elfmeter legte den Grundstein für den späteren Erfolg Spaniens und zeigte, dass er auch in Drucksituationen bestehen kann.\n\n## Das bedeutet das Ergebnis\n\nMit diesem starken Auftritt hat Spanien sich nicht nur den Einzug ins Finale gesichert, sondern auch ein deutliches Zeichen an die Konkurrenz gesendet. Sie haben bewiesen, dass sie als Team gewachsen sind und im Endspiel gegen jeden Gegner bestehen können. Frankreich hingegen steht vor der Herausforderung, nach dieser Niederlage die Ursachen zu analysieren und sich für künftige internationale Turniere zu rüsten. Die WM 2026 zeigt, dass im Fußball jeder Augenblick entscheidend sein kann - und für Spanien könnte dies der Beginn einer neuen Ära sein.",
+  "createdAt": "2026-07-15T08:56:04.013Z",
+  "id": 1784105764013,
+  "matchId": "760514",
+  "match": {
+    "id": "760514",
+    "kickoff": "2026-07-14T19:00Z",
+    "phase": "Halbfinale",
+    "venue": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 70176,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "Frankreich",
+      "abbr": "FRA",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "score": 0
+    },
+    "away": {
+      "name": "Spanien",
+      "abbr": "ESP",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "score": 2
+    },
+    "homeTeamId": "478",
+    "awayTeamId": "164",
+    "goals": [
+      {
+        "minute": "22'",
+        "scorer": "Mikel Oyarzabal",
+        "teamId": "164",
+        "penalty": true,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "58'",
+        "scorer": "Pedro Porro",
+        "teamId": "164",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
