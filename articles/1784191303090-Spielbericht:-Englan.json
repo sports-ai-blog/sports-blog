@@ -1,0 +1,56 @@
+{
+  "title": "Spielbericht: England 1:2 Argentinien",
+  "content": "# England vs. Argentinien: Dramatische Wende im Halbfinale der WM 2026 – 1:2!\n\nIn einem packenden Halbfinalspiel der Fußball-Weltmeisterschaft 2026 unterlagen die Engländer nach einer starken Leistung gegen Argentinien mit 1:2. Im ausverkauften Mercedes-Benz Stadium in Atlanta, Georgia, vor 68.239 begeisterten Zuschauern, entglitt der Three Lions in den letzten Minuten des Spiels das Ticket für das große Finale, als die Südamerikaner in der Schlussphase zuschlugen.\n\n## So lief das Spiel\n\nDie Partie begann mit intensiven Zweikämpfen und viel Taktik auf beiden Seiten. In der ersten Halbzeit neutralisierten sich die beiden Teams weitgehend, was zu einem torlosen Unentschieden führte. Trotz mehrerer vielversprechender Angriffe beide Mannschaften, fiel kein Treffer – das Publikum fuhr fort, lautstark zu unterstützen.\n\nDie zweite Halbzeit begann vielversprechend für England. Gleich nach der Pause, in der 55. Spielminute, erzielte Anthony Gordon das erste Tor des Spiels. Der Jubel der englischen Fans kannte keine Grenzen, als Gordon die Führung für sein Team sicherte. Die Three Lions schienen auf dem besten Weg, das Momentum für sich zu erarbeiten und das Finale zu erreichen.\n\nJedoch blieb Argentinien ruhig und druckvoll. In der 85. Minute war es Enzo Fernández, der mit einem präzisen Abschluss zum 1:1 ausglich und damit das gesamte Stadion elektrisierte. Die Partie war nun wieder offen, und das Spiel bekam einen dramatischen Verlauf. \n\nAls die Nachspielzeit bereits angebrochen war, nutzten die Argentinier die Unkonzentriertheit der englischen Abwehr gnadenlos aus. In der zweiten Minute der Nachspielzeit, genauer gesagt in der 90'+2. Minute, war es Lautaro Martínez, der mit einem Kopfball den finalen Schlusspunkt setzte und Argentinien auf die Siegerstraße brachte. Damit war das Traumfinale für die Albiceleste in greifbarer Nähe.\n\n## Spieler des Spiels\n\nAnthony Gordon war sowohl durch sein Tor als auch durch seine engagierte Spielweise der herausragende Spieler auf dem Platz. Mit seinem Treffer in der 55. Minute lieferte er den englischen Fans Hoffnung und jubelnde Momente. Trotz der Niederlage kann er stolz auf seine Leistung selbstbewusst zurückblicken.\n\n## Das bedeutet das Ergebnis\n\nFür Argentinien bedeutet der Sieg, dass sie ins Finale der WM 2026 einziehen und die Chance haben, den Titel zu gewinnen. Die begeisterten Fans in Atlanta feiern diesen historischen Moment, da die Albiceleste erneut in einem Endspiel steht. England hingegen muss die bittere Niederlage verarbeiten und wird enttäuscht aus dem Turnier ausscheiden. Das Halbfinale wird als ein dramatisches Beispiel für die Unberechenbarkeit des Fußballs in die Geschichte eingehen – mit Leidenschaft, Spannung und einem überraschenden Ende.",
+  "createdAt": "2026-07-16T08:41:43.091Z",
+  "id": 1784191303091,
+  "matchId": "760515",
+  "match": {
+    "id": "760515",
+    "kickoff": "2026-07-15T19:00Z",
+    "phase": "Halbfinale",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 68239,
+    "statusDetail": "Beendet",
+    "home": {
+      "name": "England",
+      "abbr": "ENG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Argentinien",
+      "abbr": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "score": 2
+    },
+    "homeTeamId": "448",
+    "awayTeamId": "202",
+    "goals": [
+      {
+        "minute": "55'",
+        "scorer": "Anthony Gordon",
+        "teamId": "448",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "85'",
+        "scorer": "Enzo Fernández",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      },
+      {
+        "minute": "90'+2'",
+        "scorer": "Lautaro Martínez",
+        "teamId": "202",
+        "penalty": false,
+        "ownGoal": false,
+        "header": true
+      }
+    ]
+  }
+}
