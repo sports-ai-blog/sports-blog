@@ -1,0 +1,40 @@
+{
+  "title": "Spielbericht: Spanien 1:0 Argentinien",
+  "content": "# WM-Finale 2026: Spanien besiegt Argentinien mit 1:0 nach Verlängerung\n\nIn einem packenden Finale der FIFA-Weltmeisterschaft 2026 setzte sich Spanien in East Rutherford, New Jersey, gegen Argentinien mit 1:0 durch. Der entscheidende Treffer fiel in der 106. Minute der Verlängerung, als Ferran Torres die spanischen Fans in Ekstase versetzte. Ein hart umkämpfter Abend im MetLife Stadium, vor 80.663 Zuschauern, bot Fußball auf höchstem Niveau und endete mit einer roten Karte für Enzo Fernández kurz vor dem Abpfiff.\n\n## So lief das Spiel\n\nDie Partie begann mit einem spannungsgeladenen Duell zwischen den beiden Fußballgiganten, das die Erwartungen eines WM-Finals vollends erfüllte. Sowohl Spanien als auch Argentinien waren von der großen Bedeutung des Spiels geprägt, was sich in einem intensiv geführten ersten Durchgang widerspiegelte, der ohne Tore blieb – Halbzeitstand 0:0.\n\nNach dem Seitenwechsel war die Nervosität weiterhin spürbar, aber die Mannschaften witterten ihre Chancen. Es wurde um jeden Ball gekämpft, ohne dass jedoch klare Chancen herausgespielt werden konnten. Die Spannung stieg, während die Zuschauer im MetLife Stadium die Vorfreude auf den möglichen Titelgewinn ihrer Teams in vollen Zügen genossen.\n\nDie zweite Halbzeit näherte sich dem Ende, als das Spiel in die heiße Phase der Nachspielzeit eintrat. In der 90. Minute war Enzo Fernández von Argentinien unglücklich in einen Zweikampf verwickelt und sah für sein Foul die rote Karte – ein schwerer Verlust für die Südamerikaner in dieser entscheidenden Phase des Spiels. \n\nDie Verlängerung begann, und in der 106. Minute war es dann soweit: Ferran Torres erzielte das langersehnte Tor für Spanien. Der Stürmer zeigte seinen Torriecher und verwandelte den Ball zur jubelnden Freude der spanischen Fans. Mit diesem Treffer war die Partie entschieden, Argentinien hatte nicht mehr die nötige Zeit, um zurückzukommen.\n\n## Spieler des Spiels\n\nFerran Torres wird als Spieler des Spiels gefeiert, nachdem er mit seinem goldenen Tor in der Verlängerung der Schlüssel zum Titel für Spanien war. Sein präziser Abschluss in der 106. Minute sicherte seinem Team den Weltmeistertitel und machte ihn zum Helden des Abends. In einem angespannten und bis zum Schluss offenen Match bewies er einmal mehr seine Fähigkeiten und seine Nervenstärke.\n\n## Das bedeutet das Ergebnis\n\nMit diesem Sieg sichert sich Spanien den Titel bei der FIFA-Weltmeisterschaft 2026 und integriert sich in die Geschichte des Fußballs als gefeierter Weltmeister. Argentinien hingegen steht vor der Herausforderung, sich zu regroupieren und zu analysieren, was schiefgelaufen ist, nachdem sie im Finale nicht zuschlagen konnten. Der Titelgewinn für Spanien wird in die Fußballgeschichte eingehen, und die gesamte Nation wird die Nacht in Erinnerung behalten, als der Traum vom WM-Titel Realität wurde.",
+  "createdAt": "2026-07-20T09:42:43.088Z",
+  "id": 1784540563088,
+  "matchId": "760517",
+  "match": {
+    "id": "760517",
+    "kickoff": "2026-07-19T19:00Z",
+    "phase": "Finale",
+    "venue": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663,
+    "statusDetail": "Beendet (n.V.)",
+    "home": {
+      "name": "Spanien",
+      "abbr": "ESP",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Argentinien",
+      "abbr": "ARG",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "score": 0
+    },
+    "homeTeamId": "164",
+    "awayTeamId": "202",
+    "goals": [
+      {
+        "minute": "106'",
+        "scorer": "Ferran Torres",
+        "teamId": "164",
+        "penalty": false,
+        "ownGoal": false,
+        "header": false
+      }
+    ]
+  }
+}
